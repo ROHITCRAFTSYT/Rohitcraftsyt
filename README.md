@@ -26,12 +26,8 @@
 ## `$ whoami`
 
 ```yaml
-- name: generate-snake-game-from-github-contribution-grid
-  uses: Platane/snk@v3.4.1
 name: Rohit Madhavan
 role: Security Researcher & Full-Stack Developer
-education: B.Tech CSE @ K. Ramakrishnan College of Engineering (2025–2029)
-location: Tamil Nadu, India
 current_focus:
   - Reinforcement Learning for Cybersecurity (SOC-Triage-Gym)
   - AI-Powered Security Tools

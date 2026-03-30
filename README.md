@@ -13,7 +13,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/6easx)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rohitmadhavan)
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-%23212C42.svg?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/TXTE.G)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://YOUR_PORTFOLIO)
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/t.o.p.g)
 
 <br/>
 
@@ -180,14 +180,12 @@ AI threat intelligence platform with a global SVG threat map — aggregating and
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rohitcraftsyt/rohitcraftsyt/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rohitcraftsyt/rohitcraftsyt/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/rohitcraftsyt/rohitcraftsyt/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ROHITCRAFTSYT/ROHITCRAFTSYT/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ROHITCRAFTSYT/ROHITCRAFTSYT/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/ROHITCRAFTSYT/ROHITCRAFTSYT/output/github-snake-dark.svg" />
 </picture>
 
 </div>
-
-> ⚠️ *To enable the snake animation, add [this GitHub Action workflow](https://github.com/Platane/snk) to your profile repo.*
 
 ---
 

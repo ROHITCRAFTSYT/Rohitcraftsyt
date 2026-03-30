@@ -6,6 +6,8 @@
 <!-- Typing SVG -->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=%F0%9F%94%90+Cybersecurity+Analyst+%7C+Pentester;%F0%9F%9A%80+Building+Secure+%26+Intelligent+Systems;%F0%9F%8E%AF+Top+10%25+on+TryHackMe+%7C+200%2B+Rooms" alt="Typing SVG" /></a>
 
+
+
 <br/>
 
 

@@ -6,10 +6,7 @@
 <!-- Typing SVG -->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=%F0%9F%94%90+Cybersecurity+Analyst+%7C+Pentester;%F0%9F%9A%80+Building+Secure+%26+Intelligent+Systems;%F0%9F%8E%AF+Top+10%25+on+TryHackMe+%7C+200%2B+Rooms" alt="Typing SVG" /></a>
 
-
-
 <br/>
-
 
 <!-- Quick Links -->
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/vpAPYxz4kU)
@@ -157,22 +154,24 @@ AI threat intelligence platform with a global SVG threat map — aggregating and
 
 ## 📈 GitHub Analytics
 
+<!-- If stats don't load, deploy your own: https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own -->
+
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=rohitcraftsyt&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff" />
-<img width="49%" src="https://nirzak-streak-stats.vercel.app/?user=rohitcraftsyt&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ROHITCRAFTSYT&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff&cache_seconds=21600" />
+<img width="49%" src="https://streak-stats.demolab.com/?user=ROHITCRAFTSYT&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" />
 
 </div>
 
 <div align="center">
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohitcraftsyt&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" />
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ROHITCRAFTSYT&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&cache_seconds=21600" />
 
 </div>
 
 <div align="center">
 
-![](https://github-profile-trophy.vercel.app/?username=rohitcraftsyt&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=10)
+![](https://github-profile-trophy.vercel.app/?username=ROHITCRAFTSYT&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=10)
 
 </div>
 

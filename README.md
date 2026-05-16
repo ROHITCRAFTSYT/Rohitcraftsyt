@@ -33,7 +33,7 @@ current_focus:
   - AI-Powered Security Tools
   - Competitive Hacking & CTF Challenges
 achievements:
-  - "Global Top 10% on TryHackMe | 200+ Rooms"
+  - "Global Top 1% on TryHackMe | 200+ Rooms"
   - "80+ Vulnerabilities identified during ShadowFox internship"
   - "Multiple hackathon participant with production-grade submissions"
 ```

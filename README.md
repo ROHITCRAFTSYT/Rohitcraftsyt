@@ -40,38 +40,76 @@ achievements:
 
 ---
 
-## ⚡ What I'm Building
+## 🚀 Latest Projects
 
+<div align="center">
+
+<!-- STATS:START -->
+`🗂️ 34 public repos` `⭐ 2 stars earned` `👥 11 followers`
+<!-- STATS:END -->
+
+</div>
+
+<!-- LATEST_PROJECTS:START -->
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🛡️ SOC-Triage-Gym
-OpenEnv-compliant RL environment for cybersecurity alert triage — training AI agents to prioritize security incidents like a seasoned SOC analyst.
+#### 🔹 [SOC-Triage-Gym](https://github.com/ROHITCRAFTSYT/SOC-Triage-Gym)
+`Python` · ⭐ 1 · updated yesterday
+
+A production-grade OpenEnv-compliant reinforcement learning environment simulating a Security Operations Center (SOC) analyst workflow.
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🔍 ExplainShield
-SHAP-powered explainable AI Chrome Extension for SOC analysts — making black-box ML predictions transparent with a FastAPI backend.
+#### 🔹 [Loco-RAG](https://github.com/ROHITCRAFTSYT/Loco-RAG)
+`Python` · updated 2d ago
+
+Privacy-first local LLM chat with RAG, agents, memory, web search & voice. Ollama/LM Studio + FastAPI + React. Hybrid retrieval, citations, ChromaDB/LanceDB. 100% local.
 
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 📊 ResilienceOS
-Real-time government digital services resilience dashboard with Chaos Mode simulation, fallback routing, and live monitoring.
+#### 🔹 [hindsight](https://github.com/ROHITCRAFTSYT/hindsight)
+`Python` · updated 2d ago
+
+The AI second brain that never wakes up with amnesia — a second-brain copilot on Cognee's memory layer (remember/recall/improve/forget) with a live knowledge-graph viz. WeMakeDevs × Cognee hackathon.
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🌐 DarkPulse
-AI threat intelligence platform with a global SVG threat map — aggregating and visualizing cyber threats in real time.
+#### 🔹 [recoup](https://github.com/ROHITCRAFTSYT/recoup)
+`TypeScript` · updated 3d ago
+
+AI AR-collections & cash-recovery desk — agentic dunning with a deterministic human approval gate, on a live Lemma pod. Built for the Gappy.AI / Lemma hackathon.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### 🔹 [aura](https://github.com/ROHITCRAFTSYT/aura)
+`TypeScript` · updated 9d ago
+
+Aura — AI social-skills companion for autistic & neurodiverse youth (Youth Code x AI hackathon)
+
+</td>
+<td width="50%" valign="top">
+
+#### 🔹 [orbit-change-impact](https://github.com/ROHITCRAFTSYT/orbit-change-impact)
+`Python` · updated 10d ago
+
+Real change-impact blast radius for any code symbol, from GitLab Orbit's pre-indexed call+import graph. Duo Agent Platform flow + skill + CLI. GitLab Transcend Hackathon.
 
 </td>
 </tr>
 </table>
+<!-- LATEST_PROJECTS:END -->
+
+> ⚡ This list refreshes itself daily from my most recently pushed repositories — no manual edits.
 
 ---
 
@@ -191,18 +229,24 @@ AI threat intelligence platform with a global SVG threat map — aggregating and
 
 ---
 
-## 📊 Weekly Dev Breakdown
+## 📊 Language Breakdown
 
-<!--START_SECTION:waka-->
-<!-- This section auto-updates if you integrate WakaTime -->
+<div align="center">
+
+Real usage, aggregated across every public repo — computed automatically, not hand-typed.
+
+</div>
+
+<!-- LANG_BREAKDOWN:START -->
 ```text
-🔐 Security Research   ██████████░░░░░░░  40%
-🐍 Python              ████████░░░░░░░░░  30%
-⚛️ React/JS            ████░░░░░░░░░░░░░  15%
-📝 Documentation        ██░░░░░░░░░░░░░░░  10%
-🎯 CTF Challenges       █░░░░░░░░░░░░░░░░   5%
+Python            ████████░░░░░░░░░░  44.8%
+TypeScript        ███████░░░░░░░░░░░  39.3%
+JavaScript        █░░░░░░░░░░░░░░░░░   6.5%
+Jupyter Notebook  █░░░░░░░░░░░░░░░░░   3.7%
+Ren'Py            ░░░░░░░░░░░░░░░░░░   2.2%
+HTML              ░░░░░░░░░░░░░░░░░░   1.2%
 ```
-<!--END_SECTION:waka-->
+<!-- LANG_BREAKDOWN:END -->
 
 ---
 
@@ -217,5 +261,9 @@ AI threat intelligence platform with a global SVG threat map — aggregating and
 <br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:30363d&height=120&section=footer" width="100%"/>
+
+<!-- UPDATED:START -->
+<sub>🤖 Auto-updated from live GitHub data · last refreshed Fri, 03 Jul 2026 18:55:28 GMT</sub>
+<!-- UPDATED:END -->
 
 </div>

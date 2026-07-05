@@ -45,7 +45,7 @@ achievements:
 <div align="center">
 
 <!-- STATS:START -->
-`🗂️ 34 public repos` `⭐ 2 stars earned` `👥 11 followers`
+`🗂️ 35 public repos` `⭐ 2 stars earned` `👥 11 followers`
 <!-- STATS:END -->
 
 </div>
@@ -55,8 +55,26 @@ achievements:
 <tr>
 <td width="50%" valign="top">
 
+#### 🔹 [hindsight](https://github.com/ROHITCRAFTSYT/hindsight)
+`Python` · updated today
+
+The AI second brain that never wakes up with amnesia — a second-brain copilot on Cognee's memory layer (remember/recall/improve/forget) with a live knowledge-graph viz. WeMakeDevs × Cognee hackathon.
+
+</td>
+<td width="50%" valign="top">
+
+#### 🔹 [WhispLocal](https://github.com/ROHITCRAFTSYT/WhispLocal)
+`Python` · updated today
+
+Offline voice dictation for Windows. Hold a hotkey, speak, and the text appears at your cursor - transcribed entirely on your own machine.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
 #### 🔹 [SOC-Triage-Gym](https://github.com/ROHITCRAFTSYT/SOC-Triage-Gym)
-`Python` · ⭐ 1 · updated yesterday
+`Python` · ⭐ 1 · updated 2d ago
 
 A production-grade OpenEnv-compliant reinforcement learning environment simulating a Security Operations Center (SOC) analyst workflow.
 
@@ -64,7 +82,7 @@ A production-grade OpenEnv-compliant reinforcement learning environment simulati
 <td width="50%" valign="top">
 
 #### 🔹 [Loco-RAG](https://github.com/ROHITCRAFTSYT/Loco-RAG)
-`Python` · updated 2d ago
+`Python` · updated 3d ago
 
 Privacy-first local LLM chat with RAG, agents, memory, web search & voice. Ollama/LM Studio + FastAPI + React. Hybrid retrieval, citations, ChromaDB/LanceDB. 100% local.
 
@@ -73,36 +91,18 @@ Privacy-first local LLM chat with RAG, agents, memory, web search & voice. Ollam
 <tr>
 <td width="50%" valign="top">
 
-#### 🔹 [hindsight](https://github.com/ROHITCRAFTSYT/hindsight)
-`Python` · updated 2d ago
-
-The AI second brain that never wakes up with amnesia — a second-brain copilot on Cognee's memory layer (remember/recall/improve/forget) with a live knowledge-graph viz. WeMakeDevs × Cognee hackathon.
-
-</td>
-<td width="50%" valign="top">
-
 #### 🔹 [recoup](https://github.com/ROHITCRAFTSYT/recoup)
-`TypeScript` · updated 3d ago
+`TypeScript` · updated 4d ago
 
 AI AR-collections & cash-recovery desk — agentic dunning with a deterministic human approval gate, on a live Lemma pod. Built for the Gappy.AI / Lemma hackathon.
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 #### 🔹 [aura](https://github.com/ROHITCRAFTSYT/aura)
-`TypeScript` · updated 9d ago
+`TypeScript` · updated 10d ago
 
 Aura — AI social-skills companion for autistic & neurodiverse youth (Youth Code x AI hackathon)
-
-</td>
-<td width="50%" valign="top">
-
-#### 🔹 [orbit-change-impact](https://github.com/ROHITCRAFTSYT/orbit-change-impact)
-`Python` · updated 10d ago
-
-Real change-impact blast radius for any code symbol, from GitLab Orbit's pre-indexed call+import graph. Duo Agent Platform flow + skill + CLI. GitLab Transcend Hackathon.
 
 </td>
 </tr>
@@ -239,12 +239,12 @@ Real usage, aggregated across every public repo — computed automatically, not 
 
 <!-- LANG_BREAKDOWN:START -->
 ```text
-Python            ████████░░░░░░░░░░  44.8%
-TypeScript        ███████░░░░░░░░░░░  39.3%
+Python            ████████░░░░░░░░░░  45.9%
+TypeScript        ███████░░░░░░░░░░░  38.2%
 JavaScript        █░░░░░░░░░░░░░░░░░   6.5%
-Jupyter Notebook  █░░░░░░░░░░░░░░░░░   3.7%
-Ren'Py            ░░░░░░░░░░░░░░░░░░   2.2%
-HTML              ░░░░░░░░░░░░░░░░░░   1.2%
+Jupyter Notebook  █░░░░░░░░░░░░░░░░░   3.6%
+Ren'Py            ░░░░░░░░░░░░░░░░░░   2.1%
+CSS               ░░░░░░░░░░░░░░░░░░   1.2%
 ```
 <!-- LANG_BREAKDOWN:END -->
 
@@ -263,7 +263,7 @@ HTML              ░░░░░░░░░░░░░░░░░░   1.2%
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:30363d&height=120&section=footer" width="100%"/>
 
 <!-- UPDATED:START -->
-<sub>🤖 Auto-updated from live GitHub data · last refreshed Sat, 04 Jul 2026 08:36:27 GMT</sub>
+<sub>🤖 Auto-updated from live GitHub data · last refreshed Sun, 05 Jul 2026 08:52:12 GMT</sub>
 <!-- UPDATED:END -->
 
 </div>

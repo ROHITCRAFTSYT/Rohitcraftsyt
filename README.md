@@ -74,7 +74,7 @@ Offline voice dictation for Windows. Hold a hotkey, speak, and the text appears 
 <td width="50%" valign="top">
 
 #### 🔹 [SOC-Triage-Gym](https://github.com/ROHITCRAFTSYT/SOC-Triage-Gym)
-`Python` · ⭐ 1 · updated 2d ago
+`Python` · ⭐ 1 · updated 3d ago
 
 A production-grade OpenEnv-compliant reinforcement learning environment simulating a Security Operations Center (SOC) analyst workflow.
 
@@ -82,7 +82,7 @@ A production-grade OpenEnv-compliant reinforcement learning environment simulati
 <td width="50%" valign="top">
 
 #### 🔹 [Loco-RAG](https://github.com/ROHITCRAFTSYT/Loco-RAG)
-`Python` · updated 3d ago
+`Python` · updated 4d ago
 
 Privacy-first local LLM chat with RAG, agents, memory, web search & voice. Ollama/LM Studio + FastAPI + React. Hybrid retrieval, citations, ChromaDB/LanceDB. 100% local.
 
@@ -92,7 +92,7 @@ Privacy-first local LLM chat with RAG, agents, memory, web search & voice. Ollam
 <td width="50%" valign="top">
 
 #### 🔹 [recoup](https://github.com/ROHITCRAFTSYT/recoup)
-`TypeScript` · updated 4d ago
+`TypeScript` · updated 5d ago
 
 AI AR-collections & cash-recovery desk — agentic dunning with a deterministic human approval gate, on a live Lemma pod. Built for the Gappy.AI / Lemma hackathon.
 
@@ -100,7 +100,7 @@ AI AR-collections & cash-recovery desk — agentic dunning with a deterministic 
 <td width="50%" valign="top">
 
 #### 🔹 [aura](https://github.com/ROHITCRAFTSYT/aura)
-`TypeScript` · updated 10d ago
+`TypeScript` · updated 11d ago
 
 Aura — AI social-skills companion for autistic & neurodiverse youth (Youth Code x AI hackathon)
 
@@ -239,9 +239,9 @@ Real usage, aggregated across every public repo — computed automatically, not 
 
 <!-- LANG_BREAKDOWN:START -->
 ```text
-Python            ████████░░░░░░░░░░  45.9%
-TypeScript        ███████░░░░░░░░░░░  38.2%
-JavaScript        █░░░░░░░░░░░░░░░░░   6.5%
+Python            ████████░░░░░░░░░░  46.7%
+TypeScript        ███████░░░░░░░░░░░  37.6%
+JavaScript        █░░░░░░░░░░░░░░░░░   6.4%
 Jupyter Notebook  █░░░░░░░░░░░░░░░░░   3.6%
 Ren'Py            ░░░░░░░░░░░░░░░░░░   2.1%
 CSS               ░░░░░░░░░░░░░░░░░░   1.2%
@@ -263,7 +263,7 @@ CSS               ░░░░░░░░░░░░░░░░░░   1.2%
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:30363d&height=120&section=footer" width="100%"/>
 
 <!-- UPDATED:START -->
-<sub>🤖 Auto-updated from live GitHub data · last refreshed Sun, 05 Jul 2026 08:52:12 GMT</sub>
+<sub>🤖 Auto-updated from live GitHub data · last refreshed Mon, 06 Jul 2026 10:20:44 GMT</sub>
 <!-- UPDATED:END -->
 
 </div>

@@ -55,34 +55,16 @@ achievements:
 <tr>
 <td width="50%" valign="top">
 
-#### 🔹 [hindsight](https://github.com/ROHITCRAFTSYT/hindsight)
+#### 🔹 [LSTM-forecast](https://github.com/ROHITCRAFTSYT/LSTM-forecast)
 `Python` · updated today
 
-The AI second brain that never wakes up with amnesia — a second-brain copilot on Cognee's memory layer (remember/recall/improve/forget) with a live knowledge-graph viz. WeMakeDevs × Cognee hackathon.
-
-</td>
-<td width="50%" valign="top">
-
-#### 🔹 [WhispLocal](https://github.com/ROHITCRAFTSYT/WhispLocal)
-`Python` · updated today
-
-Offline voice dictation for Windows. Hold a hotkey, speak, and the text appears at your cursor - transcribed entirely on your own machine.
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-#### 🔹 [SOC-Triage-Gym](https://github.com/ROHITCRAFTSYT/SOC-Triage-Gym)
-`Python` · ⭐ 1 · updated 3d ago
-
-A production-grade OpenEnv-compliant reinforcement learning environment simulating a Security Operations Center (SOC) analyst workflow.
+Production-grade LSTM time-series forecasting for finance with retrieval-augmented forecasting (RAG) and Claude-powered insights.
 
 </td>
 <td width="50%" valign="top">
 
 #### 🔹 [Loco-RAG](https://github.com/ROHITCRAFTSYT/Loco-RAG)
-`Python` · updated 4d ago
+`Python` · updated today
 
 Privacy-first local LLM chat with RAG, agents, memory, web search & voice. Ollama/LM Studio + FastAPI + React. Hybrid retrieval, citations, ChromaDB/LanceDB. 100% local.
 
@@ -91,18 +73,36 @@ Privacy-first local LLM chat with RAG, agents, memory, web search & voice. Ollam
 <tr>
 <td width="50%" valign="top">
 
-#### 🔹 [recoup](https://github.com/ROHITCRAFTSYT/recoup)
-`TypeScript` · updated 5d ago
+#### 🔹 [SOC-Triage-Gym](https://github.com/ROHITCRAFTSYT/SOC-Triage-Gym)
+`Python` · ⭐ 1 · updated today
 
-AI AR-collections & cash-recovery desk — agentic dunning with a deterministic human approval gate, on a live Lemma pod. Built for the Gappy.AI / Lemma hackathon.
+A production-grade OpenEnv-compliant reinforcement learning environment simulating a Security Operations Center (SOC) analyst workflow.
 
 </td>
 <td width="50%" valign="top">
 
-#### 🔹 [aura](https://github.com/ROHITCRAFTSYT/aura)
-`TypeScript` · updated 11d ago
+#### 🔹 [campus-phishing-shield](https://github.com/ROHITCRAFTSYT/campus-phishing-shield)
+`JavaScript` · updated today
 
-Aura — AI social-skills companion for autistic & neurodiverse youth (Youth Code x AI hackathon)
+A sophisticated, multi-layered phishing detection system for campus networks. This version features a Hybrid Defense Architecture that combines traditional rule-based heuristics with a Python-based Machine Learning service.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### 🔹 [Advanced-Network-Scanner](https://github.com/ROHITCRAFTSYT/Advanced-Network-Scanner)
+`Python` · updated today
+
+A comprehensive, multi-platform Python network scanner for host discovery, port scanning, and security assessment. Features include MAC/vendor lookup, OS guessing, banner grabbing, and detailed HTML report generation.
+
+</td>
+<td width="50%" valign="top">
+
+#### 🔹 [network-scanner](https://github.com/ROHITCRAFTSYT/network-scanner)
+`JavaScript` · updated today
+
+A lightweight, browser-based network scanner that detects local devices, identifies open ports, and highlights security vulnerabilities. Features an intuitive UI with real-time scanning updates, customizable IP/port ranges, and detailed device information to help secure your network infrastructure.
 
 </td>
 </tr>
@@ -263,7 +263,7 @@ CSS               ░░░░░░░░░░░░░░░░░░   1.2%
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:30363d&height=120&section=footer" width="100%"/>
 
 <!-- UPDATED:START -->
-<sub>🤖 Auto-updated from live GitHub data · last refreshed Mon, 06 Jul 2026 10:20:44 GMT</sub>
+<sub>🤖 Auto-updated from live GitHub data · last refreshed Tue, 07 Jul 2026 09:40:29 GMT</sub>
 <!-- UPDATED:END -->
 
 </div>

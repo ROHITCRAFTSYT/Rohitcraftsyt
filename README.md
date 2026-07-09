@@ -55,54 +55,54 @@ achievements:
 <tr>
 <td width="50%" valign="top">
 
+#### 🔹 [WhispLocal](https://github.com/ROHITCRAFTSYT/WhispLocal)
+`Python` · updated today
+
+Offline voice dictation for Windows. Hold a hotkey, speak, and the text appears at your cursor - transcribed entirely on your own machine.
+
+</td>
+<td width="50%" valign="top">
+
 #### 🔹 [SOC-Triage-Gym](https://github.com/ROHITCRAFTSYT/SOC-Triage-Gym)
 `Python` · ⭐ 1 · updated today
 
 A production-grade OpenEnv-compliant reinforcement learning environment simulating a Security Operations Center (SOC) analyst workflow.
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 #### 🔹 [LSTM-forecast](https://github.com/ROHITCRAFTSYT/LSTM-forecast)
-`Python` · updated yesterday
+`Python` · updated 2d ago
 
 Production-grade LSTM time-series forecasting for finance with retrieval-augmented forecasting (RAG) and Claude-powered insights.
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 #### 🔹 [Loco-RAG](https://github.com/ROHITCRAFTSYT/Loco-RAG)
-`Python` · updated yesterday
+`Python` · updated 2d ago
 
 Privacy-first local LLM chat with RAG, agents, memory, web search & voice. Ollama/LM Studio + FastAPI + React. Hybrid retrieval, citations, ChromaDB/LanceDB. 100% local.
 
 </td>
-<td width="50%" valign="top">
-
-#### 🔹 [campus-phishing-shield](https://github.com/ROHITCRAFTSYT/campus-phishing-shield)
-`JavaScript` · updated yesterday
-
-A sophisticated, multi-layered phishing detection system for campus networks. This version features a Hybrid Defense Architecture that combines traditional rule-based heuristics with a Python-based Machine Learning service.
-
-</td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-#### 🔹 [Advanced-Network-Scanner](https://github.com/ROHITCRAFTSYT/Advanced-Network-Scanner)
-`Python` · updated yesterday
+#### 🔹 [campus-phishing-shield](https://github.com/ROHITCRAFTSYT/campus-phishing-shield)
+`JavaScript` · updated 2d ago
 
-A comprehensive, multi-platform Python network scanner for host discovery, port scanning, and security assessment. Features include MAC/vendor lookup, OS guessing, banner grabbing, and detailed HTML report generation.
+A sophisticated, multi-layered phishing detection system for campus networks. This version features a Hybrid Defense Architecture that combines traditional rule-based heuristics with a Python-based Machine Learning service.
 
 </td>
 <td width="50%" valign="top">
 
-#### 🔹 [network-scanner](https://github.com/ROHITCRAFTSYT/network-scanner)
-`JavaScript` · updated yesterday
+#### 🔹 [Advanced-Network-Scanner](https://github.com/ROHITCRAFTSYT/Advanced-Network-Scanner)
+`Python` · updated 2d ago
 
-A lightweight, browser-based network scanner that detects local devices, identifies open ports, and highlights security vulnerabilities. Features an intuitive UI with real-time scanning updates, customizable IP/port ranges, and detailed device information to help secure your network infrastructure.
+A comprehensive, multi-platform Python network scanner for host discovery, port scanning, and security assessment. Features include MAC/vendor lookup, OS guessing, banner grabbing, and detailed HTML report generation.
 
 </td>
 </tr>
@@ -239,9 +239,9 @@ Real usage, aggregated across every public repo — computed automatically, not 
 
 <!-- LANG_BREAKDOWN:START -->
 ```text
-Python            ████████░░░░░░░░░░  44.8%
-TypeScript        ██████░░░░░░░░░░░░  36.0%
-JavaScript        █░░░░░░░░░░░░░░░░░   6.2%
+Python            ████████░░░░░░░░░░  45.0%
+TypeScript        ██████░░░░░░░░░░░░  35.9%
+JavaScript        █░░░░░░░░░░░░░░░░░   6.1%
 HTML              █░░░░░░░░░░░░░░░░░   5.3%
 Jupyter Notebook  █░░░░░░░░░░░░░░░░░   3.4%
 Ren'Py            ░░░░░░░░░░░░░░░░░░   2.0%
@@ -263,7 +263,7 @@ Ren'Py            ░░░░░░░░░░░░░░░░░░   2.0%
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:30363d&height=120&section=footer" width="100%"/>
 
 <!-- UPDATED:START -->
-<sub>🤖 Auto-updated from live GitHub data · last refreshed Wed, 08 Jul 2026 08:27:29 GMT</sub>
+<sub>🤖 Auto-updated from live GitHub data · last refreshed Thu, 09 Jul 2026 09:43:50 GMT</sub>
 <!-- UPDATED:END -->
 
 </div>

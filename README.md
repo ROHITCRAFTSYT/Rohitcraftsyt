@@ -56,7 +56,7 @@ achievements:
 <td width="50%" valign="top">
 
 #### 🔹 [SOC-Triage-Gym](https://github.com/ROHITCRAFTSYT/SOC-Triage-Gym)
-`Python` · ⭐ 1 · updated yesterday
+`Python` · ⭐ 1 · updated today
 
 A production-grade OpenEnv-compliant reinforcement learning environment simulating a Security Operations Center (SOC) analyst workflow.
 
@@ -64,7 +64,7 @@ A production-grade OpenEnv-compliant reinforcement learning environment simulati
 <td width="50%" valign="top">
 
 #### 🔹 [WhispLocal](https://github.com/ROHITCRAFTSYT/WhispLocal)
-`Python` · updated 2d ago
+`Python` · updated 3d ago
 
 Offline voice dictation for Windows. Hold a hotkey, speak, and the text appears at your cursor - transcribed entirely on your own machine.
 
@@ -74,7 +74,7 @@ Offline voice dictation for Windows. Hold a hotkey, speak, and the text appears 
 <td width="50%" valign="top">
 
 #### 🔹 [LSTM-forecast](https://github.com/ROHITCRAFTSYT/LSTM-forecast)
-`Python` · updated 4d ago
+`Python` · updated 5d ago
 
 Production-grade LSTM time-series forecasting for finance with retrieval-augmented forecasting (RAG) and Claude-powered insights.
 
@@ -82,7 +82,7 @@ Production-grade LSTM time-series forecasting for finance with retrieval-augment
 <td width="50%" valign="top">
 
 #### 🔹 [Loco-RAG](https://github.com/ROHITCRAFTSYT/Loco-RAG)
-`Python` · updated 4d ago
+`Python` · updated 5d ago
 
 Privacy-first local LLM chat with RAG, agents, memory, web search & voice. Ollama/LM Studio + FastAPI + React. Hybrid retrieval, citations, ChromaDB/LanceDB. 100% local.
 
@@ -92,7 +92,7 @@ Privacy-first local LLM chat with RAG, agents, memory, web search & voice. Ollam
 <td width="50%" valign="top">
 
 #### 🔹 [campus-phishing-shield](https://github.com/ROHITCRAFTSYT/campus-phishing-shield)
-`JavaScript` · updated 4d ago
+`JavaScript` · updated 5d ago
 
 A sophisticated, multi-layered phishing detection system for campus networks. This version features a Hybrid Defense Architecture that combines traditional rule-based heuristics with a Python-based Machine Learning service.
 
@@ -100,7 +100,7 @@ A sophisticated, multi-layered phishing detection system for campus networks. Th
 <td width="50%" valign="top">
 
 #### 🔹 [Advanced-Network-Scanner](https://github.com/ROHITCRAFTSYT/Advanced-Network-Scanner)
-`Python` · updated 4d ago
+`Python` · updated 5d ago
 
 A comprehensive, multi-platform Python network scanner for host discovery, port scanning, and security assessment. Features include MAC/vendor lookup, OS guessing, banner grabbing, and detailed HTML report generation.
 
@@ -263,7 +263,7 @@ Ren'Py            ░░░░░░░░░░░░░░░░░░   2.0%
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:30363d&height=120&section=footer" width="100%"/>
 
 <!-- UPDATED:START -->
-<sub>🤖 Auto-updated from live GitHub data · last refreshed Sat, 11 Jul 2026 07:54:53 GMT</sub>
+<sub>🤖 Auto-updated from live GitHub data · last refreshed Sun, 12 Jul 2026 08:16:10 GMT</sub>
 <!-- UPDATED:END -->
 
 </div>

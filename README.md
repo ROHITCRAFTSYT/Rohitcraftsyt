@@ -45,13 +45,49 @@ achievements:
 <div align="center">
 
 <!-- STATS:START -->
-`🗂️ 35 public repos` `⭐ 2 stars earned` `👥 11 followers`
+`🗂️ 36 public repos` `⭐ 2 stars earned` `👥 11 followers`
 <!-- STATS:END -->
 
 </div>
 
 <!-- LATEST_PROJECTS:START -->
 <table>
+<tr>
+<td width="50%" valign="top">
+
+#### 🔹 [flyrank-int](https://github.com/ROHITCRAFTSYT/flyrank-int)
+`Jupyter Notebook` · updated today
+
+_No description yet._
+
+</td>
+<td width="50%" valign="top">
+
+#### 🔹 [aura](https://github.com/ROHITCRAFTSYT/aura)
+`TypeScript` · updated today
+
+Aura — AI social-skills companion for autistic & neurodiverse youth (Youth Code x AI hackathon)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### 🔹 [recoup](https://github.com/ROHITCRAFTSYT/recoup)
+`TypeScript` · updated today
+
+AI AR-collections & cash-recovery desk — agentic dunning with a deterministic human approval gate, on a live Lemma pod. Built for the Gappy.AI / Lemma hackathon.
+
+</td>
+<td width="50%" valign="top">
+
+#### 🔹 [LSTM-forecast](https://github.com/ROHITCRAFTSYT/LSTM-forecast)
+`Python` · updated today
+
+Production-grade LSTM time-series forecasting for finance with retrieval-augmented forecasting (RAG) and Claude-powered insights.
+
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 
@@ -64,45 +100,9 @@ A production-grade OpenEnv-compliant reinforcement learning environment simulati
 <td width="50%" valign="top">
 
 #### 🔹 [WhispLocal](https://github.com/ROHITCRAFTSYT/WhispLocal)
-`Python` · updated 3d ago
+`Python` · updated 4d ago
 
 Offline voice dictation for Windows. Hold a hotkey, speak, and the text appears at your cursor - transcribed entirely on your own machine.
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-#### 🔹 [LSTM-forecast](https://github.com/ROHITCRAFTSYT/LSTM-forecast)
-`Python` · updated 5d ago
-
-Production-grade LSTM time-series forecasting for finance with retrieval-augmented forecasting (RAG) and Claude-powered insights.
-
-</td>
-<td width="50%" valign="top">
-
-#### 🔹 [Loco-RAG](https://github.com/ROHITCRAFTSYT/Loco-RAG)
-`Python` · updated 5d ago
-
-Privacy-first local LLM chat with RAG, agents, memory, web search & voice. Ollama/LM Studio + FastAPI + React. Hybrid retrieval, citations, ChromaDB/LanceDB. 100% local.
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-#### 🔹 [campus-phishing-shield](https://github.com/ROHITCRAFTSYT/campus-phishing-shield)
-`JavaScript` · updated 5d ago
-
-A sophisticated, multi-layered phishing detection system for campus networks. This version features a Hybrid Defense Architecture that combines traditional rule-based heuristics with a Python-based Machine Learning service.
-
-</td>
-<td width="50%" valign="top">
-
-#### 🔹 [Advanced-Network-Scanner](https://github.com/ROHITCRAFTSYT/Advanced-Network-Scanner)
-`Python` · updated 5d ago
-
-A comprehensive, multi-platform Python network scanner for host discovery, port scanning, and security assessment. Features include MAC/vendor lookup, OS guessing, banner grabbing, and detailed HTML report generation.
 
 </td>
 </tr>
@@ -239,12 +239,12 @@ Real usage, aggregated across every public repo — computed automatically, not 
 
 <!-- LANG_BREAKDOWN:START -->
 ```text
-Python            ████████░░░░░░░░░░  45.0%
-TypeScript        ██████░░░░░░░░░░░░  35.9%
-JavaScript        █░░░░░░░░░░░░░░░░░   6.1%
-HTML              █░░░░░░░░░░░░░░░░░   5.3%
-Jupyter Notebook  █░░░░░░░░░░░░░░░░░   3.4%
-Ren'Py            ░░░░░░░░░░░░░░░░░░   2.0%
+Python            ████████░░░░░░░░░░  44.8%
+TypeScript        ██████░░░░░░░░░░░░  34.1%
+Jupyter Notebook  █░░░░░░░░░░░░░░░░░   6.2%
+JavaScript        █░░░░░░░░░░░░░░░░░   5.8%
+HTML              █░░░░░░░░░░░░░░░░░   5.0%
+Ren'Py            ░░░░░░░░░░░░░░░░░░   1.9%
 ```
 <!-- LANG_BREAKDOWN:END -->
 
@@ -263,7 +263,7 @@ Ren'Py            ░░░░░░░░░░░░░░░░░░   2.0%
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:30363d&height=120&section=footer" width="100%"/>
 
 <!-- UPDATED:START -->
-<sub>🤖 Auto-updated from live GitHub data · last refreshed Sun, 12 Jul 2026 08:16:10 GMT</sub>
+<sub>🤖 Auto-updated from live GitHub data · last refreshed Mon, 13 Jul 2026 09:25:55 GMT</sub>
 <!-- UPDATED:END -->
 
 </div>

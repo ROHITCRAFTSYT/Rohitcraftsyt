@@ -55,42 +55,6 @@ achievements:
 <tr>
 <td width="50%" valign="top">
 
-#### 🔹 [flyrank-int](https://github.com/ROHITCRAFTSYT/flyrank-int)
-`Jupyter Notebook` · updated today
-
-_No description yet._
-
-</td>
-<td width="50%" valign="top">
-
-#### 🔹 [aura](https://github.com/ROHITCRAFTSYT/aura)
-`TypeScript` · updated today
-
-Aura — AI social-skills companion for autistic & neurodiverse youth (Youth Code x AI hackathon)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-#### 🔹 [recoup](https://github.com/ROHITCRAFTSYT/recoup)
-`TypeScript` · updated today
-
-AI AR-collections & cash-recovery desk — agentic dunning with a deterministic human approval gate, on a live Lemma pod. Built for the Gappy.AI / Lemma hackathon.
-
-</td>
-<td width="50%" valign="top">
-
-#### 🔹 [LSTM-forecast](https://github.com/ROHITCRAFTSYT/LSTM-forecast)
-`Python` · updated today
-
-Production-grade LSTM time-series forecasting for finance with retrieval-augmented forecasting (RAG) and Claude-powered insights.
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
 #### 🔹 [SOC-Triage-Gym](https://github.com/ROHITCRAFTSYT/SOC-Triage-Gym)
 `Python` · ⭐ 1 · updated today
 
@@ -99,8 +63,44 @@ A production-grade OpenEnv-compliant reinforcement learning environment simulati
 </td>
 <td width="50%" valign="top">
 
+#### 🔹 [flyrank-int](https://github.com/ROHITCRAFTSYT/flyrank-int)
+`Jupyter Notebook` · updated yesterday
+
+_No description yet._
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### 🔹 [aura](https://github.com/ROHITCRAFTSYT/aura)
+`TypeScript` · updated yesterday
+
+Aura — AI social-skills companion for autistic & neurodiverse youth (Youth Code x AI hackathon)
+
+</td>
+<td width="50%" valign="top">
+
+#### 🔹 [recoup](https://github.com/ROHITCRAFTSYT/recoup)
+`TypeScript` · updated yesterday
+
+AI AR-collections & cash-recovery desk — agentic dunning with a deterministic human approval gate, on a live Lemma pod. Built for the Gappy.AI / Lemma hackathon.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### 🔹 [LSTM-forecast](https://github.com/ROHITCRAFTSYT/LSTM-forecast)
+`Python` · updated yesterday
+
+Production-grade LSTM time-series forecasting for finance with retrieval-augmented forecasting (RAG) and Claude-powered insights.
+
+</td>
+<td width="50%" valign="top">
+
 #### 🔹 [WhispLocal](https://github.com/ROHITCRAFTSYT/WhispLocal)
-`Python` · updated 4d ago
+`Python` · updated 5d ago
 
 Offline voice dictation for Windows. Hold a hotkey, speak, and the text appears at your cursor - transcribed entirely on your own machine.
 
@@ -263,7 +263,7 @@ Ren'Py            ░░░░░░░░░░░░░░░░░░   1.9%
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:30363d&height=120&section=footer" width="100%"/>
 
 <!-- UPDATED:START -->
-<sub>🤖 Auto-updated from live GitHub data · last refreshed Mon, 13 Jul 2026 09:25:55 GMT</sub>
+<sub>🤖 Auto-updated from live GitHub data · last refreshed Tue, 14 Jul 2026 08:03:42 GMT</sub>
 <!-- UPDATED:END -->
 
 </div>

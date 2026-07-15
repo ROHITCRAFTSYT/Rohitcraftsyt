@@ -56,7 +56,7 @@ achievements:
 <td width="50%" valign="top">
 
 #### 🔹 [SOC-Triage-Gym](https://github.com/ROHITCRAFTSYT/SOC-Triage-Gym)
-`Python` · ⭐ 1 · updated today
+`Python` · ⭐ 1 · updated yesterday
 
 A production-grade OpenEnv-compliant reinforcement learning environment simulating a Security Operations Center (SOC) analyst workflow.
 
@@ -64,7 +64,7 @@ A production-grade OpenEnv-compliant reinforcement learning environment simulati
 <td width="50%" valign="top">
 
 #### 🔹 [flyrank-int](https://github.com/ROHITCRAFTSYT/flyrank-int)
-`Jupyter Notebook` · updated yesterday
+`Jupyter Notebook` · updated 2d ago
 
 _No description yet._
 
@@ -74,7 +74,7 @@ _No description yet._
 <td width="50%" valign="top">
 
 #### 🔹 [aura](https://github.com/ROHITCRAFTSYT/aura)
-`TypeScript` · updated yesterday
+`TypeScript` · updated 2d ago
 
 Aura — AI social-skills companion for autistic & neurodiverse youth (Youth Code x AI hackathon)
 
@@ -82,7 +82,7 @@ Aura — AI social-skills companion for autistic & neurodiverse youth (Youth Cod
 <td width="50%" valign="top">
 
 #### 🔹 [recoup](https://github.com/ROHITCRAFTSYT/recoup)
-`TypeScript` · updated yesterday
+`TypeScript` · updated 2d ago
 
 AI AR-collections & cash-recovery desk — agentic dunning with a deterministic human approval gate, on a live Lemma pod. Built for the Gappy.AI / Lemma hackathon.
 
@@ -92,7 +92,7 @@ AI AR-collections & cash-recovery desk — agentic dunning with a deterministic 
 <td width="50%" valign="top">
 
 #### 🔹 [LSTM-forecast](https://github.com/ROHITCRAFTSYT/LSTM-forecast)
-`Python` · updated yesterday
+`Python` · updated 2d ago
 
 Production-grade LSTM time-series forecasting for finance with retrieval-augmented forecasting (RAG) and Claude-powered insights.
 
@@ -100,7 +100,7 @@ Production-grade LSTM time-series forecasting for finance with retrieval-augment
 <td width="50%" valign="top">
 
 #### 🔹 [WhispLocal](https://github.com/ROHITCRAFTSYT/WhispLocal)
-`Python` · updated 5d ago
+`Python` · updated 6d ago
 
 Offline voice dictation for Windows. Hold a hotkey, speak, and the text appears at your cursor - transcribed entirely on your own machine.
 
@@ -263,7 +263,7 @@ Ren'Py            ░░░░░░░░░░░░░░░░░░   1.9%
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:30363d&height=120&section=footer" width="100%"/>
 
 <!-- UPDATED:START -->
-<sub>🤖 Auto-updated from live GitHub data · last refreshed Tue, 14 Jul 2026 08:03:42 GMT</sub>
+<sub>🤖 Auto-updated from live GitHub data · last refreshed Wed, 15 Jul 2026 08:09:02 GMT</sub>
 <!-- UPDATED:END -->
 
 </div>

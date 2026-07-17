@@ -55,18 +55,18 @@ achievements:
 <tr>
 <td width="50%" valign="top">
 
-#### 🔹 [SOC-Triage-Gym](https://github.com/ROHITCRAFTSYT/SOC-Triage-Gym)
-`Python` · ⭐ 1 · updated 2d ago
+#### 🔹 [flyrank-int](https://github.com/ROHITCRAFTSYT/flyrank-int)
+`Jupyter Notebook` · updated today
 
-A production-grade OpenEnv-compliant reinforcement learning environment simulating a Security Operations Center (SOC) analyst workflow.
+_No description yet._
 
 </td>
 <td width="50%" valign="top">
 
-#### 🔹 [flyrank-int](https://github.com/ROHITCRAFTSYT/flyrank-int)
-`Jupyter Notebook` · updated 3d ago
+#### 🔹 [SOC-Triage-Gym](https://github.com/ROHITCRAFTSYT/SOC-Triage-Gym)
+`Python` · ⭐ 1 · updated today
 
-_No description yet._
+A production-grade OpenEnv-compliant reinforcement learning environment simulating a Security Operations Center (SOC) analyst workflow.
 
 </td>
 </tr>
@@ -74,7 +74,7 @@ _No description yet._
 <td width="50%" valign="top">
 
 #### 🔹 [aura](https://github.com/ROHITCRAFTSYT/aura)
-`TypeScript` · updated 3d ago
+`TypeScript` · updated 4d ago
 
 Aura — AI social-skills companion for autistic & neurodiverse youth (Youth Code x AI hackathon)
 
@@ -82,7 +82,7 @@ Aura — AI social-skills companion for autistic & neurodiverse youth (Youth Cod
 <td width="50%" valign="top">
 
 #### 🔹 [recoup](https://github.com/ROHITCRAFTSYT/recoup)
-`TypeScript` · updated 3d ago
+`TypeScript` · updated 4d ago
 
 AI AR-collections & cash-recovery desk — agentic dunning with a deterministic human approval gate, on a live Lemma pod. Built for the Gappy.AI / Lemma hackathon.
 
@@ -92,7 +92,7 @@ AI AR-collections & cash-recovery desk — agentic dunning with a deterministic 
 <td width="50%" valign="top">
 
 #### 🔹 [LSTM-forecast](https://github.com/ROHITCRAFTSYT/LSTM-forecast)
-`Python` · updated 3d ago
+`Python` · updated 4d ago
 
 Production-grade LSTM time-series forecasting for finance with retrieval-augmented forecasting (RAG) and Claude-powered insights.
 
@@ -100,7 +100,7 @@ Production-grade LSTM time-series forecasting for finance with retrieval-augment
 <td width="50%" valign="top">
 
 #### 🔹 [WhispLocal](https://github.com/ROHITCRAFTSYT/WhispLocal)
-`Python` · updated 7d ago
+`Python` · updated 8d ago
 
 Offline voice dictation for Windows. Hold a hotkey, speak, and the text appears at your cursor - transcribed entirely on your own machine.
 
@@ -239,12 +239,12 @@ Real usage, aggregated across every public repo — computed automatically, not 
 
 <!-- LANG_BREAKDOWN:START -->
 ```text
-Python            ████████░░░░░░░░░░  44.8%
-TypeScript        ██████░░░░░░░░░░░░  34.1%
-Jupyter Notebook  █░░░░░░░░░░░░░░░░░   6.2%
-JavaScript        █░░░░░░░░░░░░░░░░░   5.8%
-HTML              █░░░░░░░░░░░░░░░░░   5.0%
-Ren'Py            ░░░░░░░░░░░░░░░░░░   1.9%
+Python            ████████░░░░░░░░░░  45.2%
+TypeScript        ██████░░░░░░░░░░░░  32.4%
+Jupyter Notebook  █░░░░░░░░░░░░░░░░░   7.8%
+JavaScript        █░░░░░░░░░░░░░░░░░   5.6%
+HTML              █░░░░░░░░░░░░░░░░░   5.1%
+Ren'Py            ░░░░░░░░░░░░░░░░░░   1.8%
 ```
 <!-- LANG_BREAKDOWN:END -->
 
@@ -263,7 +263,7 @@ Ren'Py            ░░░░░░░░░░░░░░░░░░   1.9%
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:30363d&height=120&section=footer" width="100%"/>
 
 <!-- UPDATED:START -->
-<sub>🤖 Auto-updated from live GitHub data · last refreshed Thu, 16 Jul 2026 08:12:25 GMT</sub>
+<sub>🤖 Auto-updated from live GitHub data · last refreshed Fri, 17 Jul 2026 08:08:59 GMT</sub>
 <!-- UPDATED:END -->
 
 </div>

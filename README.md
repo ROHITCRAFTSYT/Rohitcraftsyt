@@ -45,7 +45,7 @@ achievements:
 <div align="center">
 
 <!-- STATS:START -->
-`🗂️ 36 public repos` `⭐ 2 stars earned` `👥 11 followers`
+`🗂️ 42 public repos` `⭐ 2 stars earned` `👥 11 followers`
 <!-- STATS:END -->
 
 </div>
@@ -55,8 +55,26 @@ achievements:
 <tr>
 <td width="50%" valign="top">
 
+#### 🔹 [todo-radar](https://github.com/ROHITCRAFTSYT/todo-radar)
+`Python` · updated today
+
+Git-aware TODO tracker: know who wrote each TODO, how stale it is, and gate CI on tech-debt age.
+
+</td>
+<td width="50%" valign="top">
+
+#### 🔹 [orbit-change-impact](https://github.com/ROHITCRAFTSYT/orbit-change-impact)
+`Python` · updated today
+
+Real change-impact blast radius for any code symbol, from GitLab Orbit's pre-indexed call+import graph. Duo Agent Platform flow + skill + CLI. GitLab Transcend Hackathon.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
 #### 🔹 [flyrank-int](https://github.com/ROHITCRAFTSYT/flyrank-int)
-`Jupyter Notebook` · updated today
+`Jupyter Notebook` · updated yesterday
 
 _No description yet._
 
@@ -64,7 +82,7 @@ _No description yet._
 <td width="50%" valign="top">
 
 #### 🔹 [SOC-Triage-Gym](https://github.com/ROHITCRAFTSYT/SOC-Triage-Gym)
-`Python` · ⭐ 1 · updated today
+`Python` · ⭐ 1 · updated yesterday
 
 A production-grade OpenEnv-compliant reinforcement learning environment simulating a Security Operations Center (SOC) analyst workflow.
 
@@ -74,7 +92,7 @@ A production-grade OpenEnv-compliant reinforcement learning environment simulati
 <td width="50%" valign="top">
 
 #### 🔹 [aura](https://github.com/ROHITCRAFTSYT/aura)
-`TypeScript` · updated 4d ago
+`TypeScript` · updated 5d ago
 
 Aura — AI social-skills companion for autistic & neurodiverse youth (Youth Code x AI hackathon)
 
@@ -82,27 +100,9 @@ Aura — AI social-skills companion for autistic & neurodiverse youth (Youth Cod
 <td width="50%" valign="top">
 
 #### 🔹 [recoup](https://github.com/ROHITCRAFTSYT/recoup)
-`TypeScript` · updated 4d ago
+`TypeScript` · updated 5d ago
 
 AI AR-collections & cash-recovery desk — agentic dunning with a deterministic human approval gate, on a live Lemma pod. Built for the Gappy.AI / Lemma hackathon.
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-#### 🔹 [LSTM-forecast](https://github.com/ROHITCRAFTSYT/LSTM-forecast)
-`Python` · updated 4d ago
-
-Production-grade LSTM time-series forecasting for finance with retrieval-augmented forecasting (RAG) and Claude-powered insights.
-
-</td>
-<td width="50%" valign="top">
-
-#### 🔹 [WhispLocal](https://github.com/ROHITCRAFTSYT/WhispLocal)
-`Python` · updated 8d ago
-
-Offline voice dictation for Windows. Hold a hotkey, speak, and the text appears at your cursor - transcribed entirely on your own machine.
 
 </td>
 </tr>
@@ -239,10 +239,10 @@ Real usage, aggregated across every public repo — computed automatically, not 
 
 <!-- LANG_BREAKDOWN:START -->
 ```text
-Python            ████████░░░░░░░░░░  45.2%
-TypeScript        ██████░░░░░░░░░░░░  32.4%
-Jupyter Notebook  █░░░░░░░░░░░░░░░░░   7.8%
-JavaScript        █░░░░░░░░░░░░░░░░░   5.6%
+Python            ████████░░░░░░░░░░  45.8%
+TypeScript        ██████░░░░░░░░░░░░  32.0%
+Jupyter Notebook  █░░░░░░░░░░░░░░░░░   7.7%
+JavaScript        █░░░░░░░░░░░░░░░░░   5.5%
 HTML              █░░░░░░░░░░░░░░░░░   5.1%
 Ren'Py            ░░░░░░░░░░░░░░░░░░   1.8%
 ```
@@ -263,7 +263,7 @@ Ren'Py            ░░░░░░░░░░░░░░░░░░   1.8%
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:30363d&height=120&section=footer" width="100%"/>
 
 <!-- UPDATED:START -->
-<sub>🤖 Auto-updated from live GitHub data · last refreshed Fri, 17 Jul 2026 08:08:59 GMT</sub>
+<sub>🤖 Auto-updated from live GitHub data · last refreshed Sat, 18 Jul 2026 07:48:46 GMT</sub>
 <!-- UPDATED:END -->
 
 </div>

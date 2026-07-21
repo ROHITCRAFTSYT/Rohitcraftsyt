@@ -45,7 +45,7 @@ achievements:
 <div align="center">
 
 <!-- STATS:START -->
-`🗂️ 42 public repos` `⭐ 2 stars earned` `👥 11 followers`
+`🗂️ 42 public repos` `⭐ 2 stars earned` `👥 12 followers`
 <!-- STATS:END -->
 
 </div>
@@ -56,7 +56,7 @@ achievements:
 <td width="50%" valign="top">
 
 #### 🔹 [todo-radar](https://github.com/ROHITCRAFTSYT/todo-radar)
-`Python` · updated 2d ago
+`Python` · updated 3d ago
 
 Git-aware TODO tracker: know who wrote each TODO, how stale it is, and gate CI on tech-debt age.
 
@@ -64,7 +64,7 @@ Git-aware TODO tracker: know who wrote each TODO, how stale it is, and gate CI o
 <td width="50%" valign="top">
 
 #### 🔹 [orbit-change-impact](https://github.com/ROHITCRAFTSYT/orbit-change-impact)
-`Python` · updated 2d ago
+`Python` · updated 3d ago
 
 Real change-impact blast radius for any code symbol, from GitLab Orbit's pre-indexed call+import graph. Duo Agent Platform flow + skill + CLI. GitLab Transcend Hackathon.
 
@@ -74,7 +74,7 @@ Real change-impact blast radius for any code symbol, from GitLab Orbit's pre-ind
 <td width="50%" valign="top">
 
 #### 🔹 [flyrank-int](https://github.com/ROHITCRAFTSYT/flyrank-int)
-`Jupyter Notebook` · updated 3d ago
+`Jupyter Notebook` · updated 4d ago
 
 _No description yet._
 
@@ -82,7 +82,7 @@ _No description yet._
 <td width="50%" valign="top">
 
 #### 🔹 [SOC-Triage-Gym](https://github.com/ROHITCRAFTSYT/SOC-Triage-Gym)
-`Python` · ⭐ 1 · updated 3d ago
+`Python` · ⭐ 1 · updated 4d ago
 
 A production-grade OpenEnv-compliant reinforcement learning environment simulating a Security Operations Center (SOC) analyst workflow.
 
@@ -92,7 +92,7 @@ A production-grade OpenEnv-compliant reinforcement learning environment simulati
 <td width="50%" valign="top">
 
 #### 🔹 [aura](https://github.com/ROHITCRAFTSYT/aura)
-`TypeScript` · updated 7d ago
+`TypeScript` · updated 8d ago
 
 Aura — AI social-skills companion for autistic & neurodiverse youth (Youth Code x AI hackathon)
 
@@ -100,7 +100,7 @@ Aura — AI social-skills companion for autistic & neurodiverse youth (Youth Cod
 <td width="50%" valign="top">
 
 #### 🔹 [recoup](https://github.com/ROHITCRAFTSYT/recoup)
-`TypeScript` · updated 7d ago
+`TypeScript` · updated 8d ago
 
 AI AR-collections & cash-recovery desk — agentic dunning with a deterministic human approval gate, on a live Lemma pod. Built for the Gappy.AI / Lemma hackathon.
 
@@ -263,7 +263,7 @@ Ren'Py            ░░░░░░░░░░░░░░░░░░   1.8%
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:30363d&height=120&section=footer" width="100%"/>
 
 <!-- UPDATED:START -->
-<sub>🤖 Auto-updated from live GitHub data · last refreshed Mon, 20 Jul 2026 08:57:07 GMT</sub>
+<sub>🤖 Auto-updated from live GitHub data · last refreshed Tue, 21 Jul 2026 08:27:30 GMT</sub>
 <!-- UPDATED:END -->
 
 </div>

@@ -55,54 +55,54 @@ achievements:
 <tr>
 <td width="50%" valign="top">
 
-#### 🔹 [todo-radar](https://github.com/ROHITCRAFTSYT/todo-radar)
-`Python` · updated 5d ago
+#### 🔹 [LSTM-forecast](https://github.com/ROHITCRAFTSYT/LSTM-forecast)
+`Python` · updated today
 
-Git-aware TODO tracker: know who wrote each TODO, how stale it is, and gate CI on tech-debt age.
+Production-grade LSTM time-series forecasting for finance with retrieval-augmented forecasting (RAG) and Claude-powered insights.
 
 </td>
 <td width="50%" valign="top">
 
-#### 🔹 [orbit-change-impact](https://github.com/ROHITCRAFTSYT/orbit-change-impact)
-`Python` · updated 5d ago
+#### 🔹 [Loco-RAG](https://github.com/ROHITCRAFTSYT/Loco-RAG)
+`Python` · updated today
 
-Real change-impact blast radius for any code symbol, from GitLab Orbit's pre-indexed call+import graph. Duo Agent Platform flow + skill + CLI. GitLab Transcend Hackathon.
+Privacy-first local LLM chat with RAG, agents, memory, web search & voice. Ollama/LM Studio + FastAPI + React. Hybrid retrieval, citations, ChromaDB/LanceDB. 100% local.
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-#### 🔹 [flyrank-int](https://github.com/ROHITCRAFTSYT/flyrank-int)
-`Jupyter Notebook` · updated 6d ago
+#### 🔹 [hindsight](https://github.com/ROHITCRAFTSYT/hindsight)
+`Python` · updated today
 
-_No description yet._
+The AI second brain that never wakes up with amnesia — a second-brain copilot on Cognee's memory layer (remember/recall/improve/forget) with a live knowledge-graph viz. WeMakeDevs × Cognee hackathon.
+
+</td>
+<td width="50%" valign="top">
+
+#### 🔹 [difflab](https://github.com/ROHITCRAFTSYT/difflab)
+`Python` · updated today
+
+Production-grade diffusion model toolkit: fine-tuning, class-conditioned generation, DDIM inversion, and audio diffusion.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### 🔹 [shield-adblocker](https://github.com/ROHITCRAFTSYT/shield-adblocker)
+`JavaScript` · updated today
+
+Shield AdBlocker — a fast, private, stealthy Manifest V3 ad & tracker blocker for Chromium. Network-level blocking (180+ networks) + cosmetic filtering, per-site allowlist, zero telemetry, no remote code.
 
 </td>
 <td width="50%" valign="top">
 
 #### 🔹 [SOC-Triage-Gym](https://github.com/ROHITCRAFTSYT/SOC-Triage-Gym)
-`Python` · ⭐ 1 · updated 6d ago
+`Python` · ⭐ 1 · updated today
 
 A production-grade OpenEnv-compliant reinforcement learning environment simulating a Security Operations Center (SOC) analyst workflow.
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-#### 🔹 [aura](https://github.com/ROHITCRAFTSYT/aura)
-`TypeScript` · updated 10d ago
-
-Aura — AI social-skills companion for autistic & neurodiverse youth (Youth Code x AI hackathon)
-
-</td>
-<td width="50%" valign="top">
-
-#### 🔹 [recoup](https://github.com/ROHITCRAFTSYT/recoup)
-`TypeScript` · updated 10d ago
-
-AI AR-collections & cash-recovery desk — agentic dunning with a deterministic human approval gate, on a live Lemma pod. Built for the Gappy.AI / Lemma hackathon.
 
 </td>
 </tr>
@@ -263,7 +263,7 @@ Ren'Py            ░░░░░░░░░░░░░░░░░░   1.8%
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:30363d&height=120&section=footer" width="100%"/>
 
 <!-- UPDATED:START -->
-<sub>🤖 Auto-updated from live GitHub data · last refreshed Thu, 23 Jul 2026 08:28:51 GMT</sub>
+<sub>🤖 Auto-updated from live GitHub data · last refreshed Thu, 23 Jul 2026 17:19:14 GMT</sub>
 <!-- UPDATED:END -->
 
 </div>

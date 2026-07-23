@@ -8,6 +8,9 @@ on:
     branches:
       - main
 
+permissions:
+  contents: write  # actions-gh-pages pushes the generated SVGs to the output branch
+
 jobs:
   generate:
     runs-on: ubuntu-latest

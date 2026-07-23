@@ -1,0 +1,9 @@
+version: 2
+updates:
+  # GitHub Actions used by the snake and README workflows
+  - package-ecosystem: github-actions
+    directory: "/"
+    schedule:
+      interval: weekly
+    cooldown:
+      default-days: 7

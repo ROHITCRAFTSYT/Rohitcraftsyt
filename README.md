@@ -192,24 +192,25 @@ _No description yet._
 
 ## 📈 GitHub Analytics
 
-<!-- If stats don't load, deploy your own: https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own -->
+<!-- Cards rendered by github-profile-summary-cards (self-refreshing). Swap ?theme= to restyle. -->
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ROHITCRAFTSYT&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff&cache_seconds=21600" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ROHITCRAFTSYT&theme=github_dark" />
 <img width="49%" src="https://streak-stats.demolab.com/?user=ROHITCRAFTSYT&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" />
 
 </div>
 
 <div align="center">
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ROHITCRAFTSYT&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&cache_seconds=21600" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ROHITCRAFTSYT&theme=github_dark" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ROHITCRAFTSYT&theme=github_dark&utcOffset=5.5" />
 
 </div>
 
 <div align="center">
 
-![](https://github-profile-trophy.vercel.app/?username=ROHITCRAFTSYT&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=10)
+<img width="90%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ROHITCRAFTSYT&theme=github_dark" />
 
 </div>
 

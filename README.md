@@ -45,7 +45,7 @@ achievements:
 <div align="center">
 
 <!-- STATS:START -->
-`🗂️ 41 public repos` `⭐ 2 stars earned` `👥 12 followers`
+`🗂️ 41 public repos` `⭐ 2 stars earned` `👥 13 followers`
 <!-- STATS:END -->
 
 </div>
@@ -55,8 +55,44 @@ achievements:
 <tr>
 <td width="50%" valign="top">
 
-#### 🔹 [WhispLocal](https://github.com/ROHITCRAFTSYT/WhispLocal)
+#### 🔹 [flyrank-int](https://github.com/ROHITCRAFTSYT/flyrank-int)
+`Jupyter Notebook` · updated today
+
+paper
+
+</td>
+<td width="50%" valign="top">
+
+#### 🔹 [LSTM-forecast](https://github.com/ROHITCRAFTSYT/LSTM-forecast)
 `Python` · updated today
+
+Production-grade LSTM time-series forecasting for finance with retrieval-augmented forecasting (RAG) and Claude-powered insights.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### 🔹 [hindsight](https://github.com/ROHITCRAFTSYT/hindsight)
+`Python` · updated today
+
+The AI second brain that never wakes up with amnesia — a second-brain copilot on Cognee's memory layer (remember/recall/improve/forget) with a live knowledge-graph viz. WeMakeDevs × Cognee hackathon.
+
+</td>
+<td width="50%" valign="top">
+
+#### 🔹 [Loco-RAG](https://github.com/ROHITCRAFTSYT/Loco-RAG)
+`Python` · updated today
+
+Privacy-first local LLM chat with RAG, agents, memory, web search & voice. Ollama/LM Studio + FastAPI + React. Hybrid retrieval, citations, ChromaDB/LanceDB. 100% local.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### 🔹 [WhispLocal](https://github.com/ROHITCRAFTSYT/WhispLocal)
+`Python` · updated yesterday
 
 Offline voice dictation for Windows. Hold a hotkey, speak, and the text appears at your cursor - transcribed entirely on your own machine.
 
@@ -64,45 +100,9 @@ Offline voice dictation for Windows. Hold a hotkey, speak, and the text appears 
 <td width="50%" valign="top">
 
 #### 🔹 [difflab](https://github.com/ROHITCRAFTSYT/difflab)
-`Python` · updated today
-
-Production-grade diffusion model toolkit: fine-tuning, class-conditioned generation, DDIM inversion, and audio diffusion.
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-#### 🔹 [shield-adblocker](https://github.com/ROHITCRAFTSYT/shield-adblocker)
-`JavaScript` · updated today
-
-Shield AdBlocker — a fast, private, stealthy Manifest V3 ad & tracker blocker for Chromium. Network-level blocking (180+ networks) + cosmetic filtering, per-site allowlist, zero telemetry, no remote code.
-
-</td>
-<td width="50%" valign="top">
-
-#### 🔹 [SOC-Triage-Gym](https://github.com/ROHITCRAFTSYT/SOC-Triage-Gym)
-`Python` · ⭐ 1 · updated today
-
-A production-grade OpenEnv-compliant reinforcement learning environment simulating a Security Operations Center (SOC) analyst workflow.
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-#### 🔹 [Loco-RAG](https://github.com/ROHITCRAFTSYT/Loco-RAG)
 `Python` · updated yesterday
 
-Privacy-first local LLM chat with RAG, agents, memory, web search & voice. Ollama/LM Studio + FastAPI + React. Hybrid retrieval, citations, ChromaDB/LanceDB. 100% local.
-
-</td>
-<td width="50%" valign="top">
-
-#### 🔹 [hindsight](https://github.com/ROHITCRAFTSYT/hindsight)
-`Python` · updated 3d ago
-
-The AI second brain that never wakes up with amnesia — a second-brain copilot on Cognee's memory layer (remember/recall/improve/forget) with a live knowledge-graph viz. WeMakeDevs × Cognee hackathon.
+Production-grade diffusion model toolkit: fine-tuning, class-conditioned generation, DDIM inversion, and audio diffusion.
 
 </td>
 </tr>
@@ -240,12 +240,12 @@ Real usage, aggregated across every public repo — computed automatically, not 
 
 <!-- LANG_BREAKDOWN:START -->
 ```text
-Python            ████████░░░░░░░░░░  45.9%
-TypeScript        ██████░░░░░░░░░░░░  31.7%
-Jupyter Notebook  █░░░░░░░░░░░░░░░░░   8.1%
-JavaScript        █░░░░░░░░░░░░░░░░░   5.5%
-HTML              █░░░░░░░░░░░░░░░░░   5.1%
-Ren'Py            ░░░░░░░░░░░░░░░░░░   1.8%
+Python            ████████░░░░░░░░░░  43.9%
+TypeScript        █████░░░░░░░░░░░░░  30.4%
+Jupyter Notebook  ██░░░░░░░░░░░░░░░░  12.0%
+JavaScript        █░░░░░░░░░░░░░░░░░   5.3%
+HTML              █░░░░░░░░░░░░░░░░░   4.8%
+Ren'Py            ░░░░░░░░░░░░░░░░░░   1.7%
 ```
 <!-- LANG_BREAKDOWN:END -->
 
@@ -264,7 +264,7 @@ Ren'Py            ░░░░░░░░░░░░░░░░░░   1.8%
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:30363d&height=120&section=footer" width="100%"/>
 
 <!-- UPDATED:START -->
-<sub>🤖 Auto-updated from live GitHub data · last refreshed Sat, 01 Aug 2026 08:19:59 GMT</sub>
+<sub>🤖 Auto-updated from live GitHub data · last refreshed Sun, 02 Aug 2026 08:23:13 GMT</sub>
 <!-- UPDATED:END -->
 
 </div>

@@ -55,52 +55,52 @@ achievements:
 <tr>
 <td width="50%" valign="top">
 
+#### 🔹 [hindsight](https://github.com/ROHITCRAFTSYT/hindsight)
+`Python` · updated today
+
+The AI second brain that never wakes up with amnesia — a second-brain copilot on Cognee's memory layer (remember/recall/improve/forget) with a live knowledge-graph viz. WeMakeDevs × Cognee hackathon.
+
+</td>
+<td width="50%" valign="top">
+
+#### 🔹 [LSTM-forecast](https://github.com/ROHITCRAFTSYT/LSTM-forecast)
+`Python` · updated today
+
+Production-grade LSTM time-series forecasting for finance with retrieval-augmented forecasting (RAG) and Claude-powered insights.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
 #### 🔹 [WhispLocal](https://github.com/ROHITCRAFTSYT/WhispLocal)
-`Python` · updated yesterday
+`Python` · updated today
 
 Offline voice dictation for Windows. Hold a hotkey, speak, and the text appears at your cursor - transcribed entirely on your own machine.
 
 </td>
 <td width="50%" valign="top">
 
-#### 🔹 [flyrank-int](https://github.com/ROHITCRAFTSYT/flyrank-int)
-`Jupyter Notebook` · updated 2d ago
-
-paper
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-#### 🔹 [LSTM-forecast](https://github.com/ROHITCRAFTSYT/LSTM-forecast)
-`Python` · updated 2d ago
-
-Production-grade LSTM time-series forecasting for finance with retrieval-augmented forecasting (RAG) and Claude-powered insights.
-
-</td>
-<td width="50%" valign="top">
-
-#### 🔹 [hindsight](https://github.com/ROHITCRAFTSYT/hindsight)
-`Python` · updated 2d ago
-
-The AI second brain that never wakes up with amnesia — a second-brain copilot on Cognee's memory layer (remember/recall/improve/forget) with a live knowledge-graph viz. WeMakeDevs × Cognee hackathon.
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
 #### 🔹 [Loco-RAG](https://github.com/ROHITCRAFTSYT/Loco-RAG)
-`Python` · updated 2d ago
+`Python` · updated today
 
 Privacy-first local LLM chat with RAG, agents, memory, web search & voice. Ollama/LM Studio + FastAPI + React. Hybrid retrieval, citations, ChromaDB/LanceDB. 100% local.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### 🔹 [flyrank-int](https://github.com/ROHITCRAFTSYT/flyrank-int)
+`Jupyter Notebook` · updated 3d ago
+
+paper
 
 </td>
 <td width="50%" valign="top">
 
 #### 🔹 [difflab](https://github.com/ROHITCRAFTSYT/difflab)
-`Python` · updated 3d ago
+`Python` · updated 4d ago
 
 Production-grade diffusion model toolkit: fine-tuning, class-conditioned generation, DDIM inversion, and audio diffusion.
 
@@ -264,7 +264,7 @@ Ren'Py            ░░░░░░░░░░░░░░░░░░   1.6%
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:30363d&height=120&section=footer" width="100%"/>
 
 <!-- UPDATED:START -->
-<sub>🤖 Auto-updated from live GitHub data · last refreshed Tue, 04 Aug 2026 08:35:23 GMT</sub>
+<sub>🤖 Auto-updated from live GitHub data · last refreshed Wed, 05 Aug 2026 08:34:53 GMT</sub>
 <!-- UPDATED:END -->
 
 </div>

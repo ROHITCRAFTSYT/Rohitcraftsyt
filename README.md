@@ -55,22 +55,12 @@ achievements:
 <tr>
 <td width="50%" valign="top">
 
-#### 🔹 [hindsight](https://github.com/ROHITCRAFTSYT/hindsight)
+#### 🔹 [difflab](https://github.com/ROHITCRAFTSYT/difflab)
 `Python` · updated today
 
-The AI second brain that never wakes up with amnesia — a second-brain copilot on Cognee's memory layer (remember/recall/improve/forget) with a live knowledge-graph viz. WeMakeDevs × Cognee hackathon.
+Production-grade diffusion model toolkit: fine-tuning, class-conditioned generation, DDIM inversion, and audio diffusion.
 
 </td>
-<td width="50%" valign="top">
-
-#### 🔹 [LSTM-forecast](https://github.com/ROHITCRAFTSYT/LSTM-forecast)
-`Python` · updated today
-
-Production-grade LSTM time-series forecasting for finance with retrieval-augmented forecasting (RAG) and Claude-powered insights.
-
-</td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 #### 🔹 [WhispLocal](https://github.com/ROHITCRAFTSYT/WhispLocal)
@@ -79,30 +69,40 @@ Production-grade LSTM time-series forecasting for finance with retrieval-augment
 Offline voice dictation for Windows. Hold a hotkey, speak, and the text appears at your cursor - transcribed entirely on your own machine.
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
-#### 🔹 [Loco-RAG](https://github.com/ROHITCRAFTSYT/Loco-RAG)
-`Python` · updated today
+#### 🔹 [hindsight](https://github.com/ROHITCRAFTSYT/hindsight)
+`Python` · updated yesterday
 
-Privacy-first local LLM chat with RAG, agents, memory, web search & voice. Ollama/LM Studio + FastAPI + React. Hybrid retrieval, citations, ChromaDB/LanceDB. 100% local.
+The AI second brain that never wakes up with amnesia — a second-brain copilot on Cognee's memory layer (remember/recall/improve/forget) with a live knowledge-graph viz. WeMakeDevs × Cognee hackathon.
+
+</td>
+<td width="50%" valign="top">
+
+#### 🔹 [LSTM-forecast](https://github.com/ROHITCRAFTSYT/LSTM-forecast)
+`Python` · updated yesterday
+
+Production-grade LSTM time-series forecasting for finance with retrieval-augmented forecasting (RAG) and Claude-powered insights.
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-#### 🔹 [flyrank-int](https://github.com/ROHITCRAFTSYT/flyrank-int)
-`Jupyter Notebook` · updated 3d ago
+#### 🔹 [Loco-RAG](https://github.com/ROHITCRAFTSYT/Loco-RAG)
+`Python` · updated yesterday
 
-paper
+Privacy-first local LLM chat with RAG, agents, memory, web search & voice. Ollama/LM Studio + FastAPI + React. Hybrid retrieval, citations, ChromaDB/LanceDB. 100% local.
 
 </td>
 <td width="50%" valign="top">
 
-#### 🔹 [difflab](https://github.com/ROHITCRAFTSYT/difflab)
-`Python` · updated 4d ago
+#### 🔹 [flyrank-int](https://github.com/ROHITCRAFTSYT/flyrank-int)
+`Jupyter Notebook` · updated 4d ago
 
-Production-grade diffusion model toolkit: fine-tuning, class-conditioned generation, DDIM inversion, and audio diffusion.
+paper
 
 </td>
 </tr>
@@ -264,7 +264,7 @@ Ren'Py            ░░░░░░░░░░░░░░░░░░   1.6%
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:30363d&height=120&section=footer" width="100%"/>
 
 <!-- UPDATED:START -->
-<sub>🤖 Auto-updated from live GitHub data · last refreshed Wed, 05 Aug 2026 08:34:53 GMT</sub>
+<sub>🤖 Auto-updated from live GitHub data · last refreshed Thu, 06 Aug 2026 08:34:51 GMT</sub>
 <!-- UPDATED:END -->
 
 </div>

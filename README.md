@@ -55,18 +55,18 @@ achievements:
 <tr>
 <td width="50%" valign="top">
 
-#### 🔹 [Loco-RAG](https://github.com/ROHITCRAFTSYT/Loco-RAG)
-`Python` · updated today
-
-Privacy-first local LLM chat with RAG, agents, memory, web search & voice. Ollama/LM Studio + FastAPI + React. Hybrid retrieval, citations, ChromaDB/LanceDB. 100% local.
-
-</td>
-<td width="50%" valign="top">
-
 #### 🔹 [SOC-Triage-Gym](https://github.com/ROHITCRAFTSYT/SOC-Triage-Gym)
 `Python` · ⭐ 1 · updated today
 
 A production-grade OpenEnv-compliant reinforcement learning environment simulating a Security Operations Center (SOC) analyst workflow.
+
+</td>
+<td width="50%" valign="top">
+
+#### 🔹 [Loco-RAG](https://github.com/ROHITCRAFTSYT/Loco-RAG)
+`Python` · updated yesterday
+
+Privacy-first local LLM chat with RAG, agents, memory, web search & voice. Ollama/LM Studio + FastAPI + React. Hybrid retrieval, citations, ChromaDB/LanceDB. 100% local.
 
 </td>
 </tr>
@@ -74,7 +74,7 @@ A production-grade OpenEnv-compliant reinforcement learning environment simulati
 <td width="50%" valign="top">
 
 #### 🔹 [WhispLocal](https://github.com/ROHITCRAFTSYT/WhispLocal)
-`Python` · updated today
+`Python` · updated yesterday
 
 Offline voice dictation for Windows. Hold a hotkey, speak, and the text appears at your cursor - transcribed entirely on your own machine.
 
@@ -82,7 +82,7 @@ Offline voice dictation for Windows. Hold a hotkey, speak, and the text appears 
 <td width="50%" valign="top">
 
 #### 🔹 [hindsight](https://github.com/ROHITCRAFTSYT/hindsight)
-`Python` · updated today
+`Python` · updated yesterday
 
 The AI second brain that never wakes up with amnesia — a second-brain copilot on Cognee's memory layer (remember/recall/improve/forget) with a live knowledge-graph viz. WeMakeDevs × Cognee hackathon.
 
@@ -92,7 +92,7 @@ The AI second brain that never wakes up with amnesia — a second-brain copilot 
 <td width="50%" valign="top">
 
 #### 🔹 [shield-adblocker](https://github.com/ROHITCRAFTSYT/shield-adblocker)
-`JavaScript` · updated today
+`JavaScript` · updated yesterday
 
 Shield AdBlocker — a fast, private, stealthy Manifest V3 ad & tracker blocker for Chromium. Network-level blocking (180+ networks) + cosmetic filtering, per-site allowlist, zero telemetry, no remote code.
 
@@ -264,7 +264,7 @@ Ren'Py            ░░░░░░░░░░░░░░░░░░   1.6%
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:30363d&height=120&section=footer" width="100%"/>
 
 <!-- UPDATED:START -->
-<sub>🤖 Auto-updated from live GitHub data · last refreshed Fri, 07 Aug 2026 07:14:09 GMT</sub>
+<sub>🤖 Auto-updated from live GitHub data · last refreshed Sat, 08 Aug 2026 06:51:35 GMT</sub>
 <!-- UPDATED:END -->
 
 </div>

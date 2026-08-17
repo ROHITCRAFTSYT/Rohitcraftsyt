@@ -45,7 +45,7 @@ achievements:
 <div align="center">
 
 <!-- STATS:START -->
-`🗂️ 41 public repos` `⭐ 2 stars earned` `👥 13 followers`
+`🗂️ 42 public repos` `⭐ 2 stars earned` `👥 13 followers`
 <!-- STATS:END -->
 
 </div>
@@ -55,54 +55,54 @@ achievements:
 <tr>
 <td width="50%" valign="top">
 
+#### 🔹 [monad-meadow](https://github.com/ROHITCRAFTSYT/monad-meadow)
+`JavaScript` · updated today
+
+Calm 2D multiplayer world with onchain crystal minting & trading on Monad testnet
+
+</td>
+<td width="50%" valign="top">
+
 #### 🔹 [hindsight](https://github.com/ROHITCRAFTSYT/hindsight)
-`Python` · updated 2d ago
+`Python` · updated 3d ago
 
 The AI second brain that never wakes up with amnesia — a second-brain copilot on Cognee's memory layer (remember/recall/improve/forget) with a live knowledge-graph viz. WeMakeDevs × Cognee hackathon.
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 #### 🔹 [Loco-RAG](https://github.com/ROHITCRAFTSYT/Loco-RAG)
-`Python` · updated 2d ago
+`Python` · updated 3d ago
 
 Privacy-first local LLM chat with RAG, agents, memory, web search & voice. Ollama/LM Studio + FastAPI + React. Hybrid retrieval, citations, ChromaDB/LanceDB. 100% local.
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 #### 🔹 [WhispLocal](https://github.com/ROHITCRAFTSYT/WhispLocal)
-`Python` · updated 3d ago
+`Python` · updated 4d ago
 
 Offline voice dictation for Windows. Hold a hotkey, speak, and the text appears at your cursor - transcribed entirely on your own machine.
 
 </td>
-<td width="50%" valign="top">
-
-#### 🔹 [LSTM-forecast](https://github.com/ROHITCRAFTSYT/LSTM-forecast)
-`Python` · updated 7d ago
-
-Production-grade LSTM time-series forecasting for finance with retrieval-augmented forecasting (RAG) and Claude-powered insights.
-
-</td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-#### 🔹 [SOC-Triage-Gym](https://github.com/ROHITCRAFTSYT/SOC-Triage-Gym)
-`Python` · ⭐ 1 · updated 8d ago
+#### 🔹 [LSTM-forecast](https://github.com/ROHITCRAFTSYT/LSTM-forecast)
+`Python` · updated 8d ago
 
-A production-grade OpenEnv-compliant reinforcement learning environment simulating a Security Operations Center (SOC) analyst workflow.
+Production-grade LSTM time-series forecasting for finance with retrieval-augmented forecasting (RAG) and Claude-powered insights.
 
 </td>
 <td width="50%" valign="top">
 
-#### 🔹 [shield-adblocker](https://github.com/ROHITCRAFTSYT/shield-adblocker)
-`JavaScript` · updated 9d ago
+#### 🔹 [SOC-Triage-Gym](https://github.com/ROHITCRAFTSYT/SOC-Triage-Gym)
+`Python` · ⭐ 1 · updated 9d ago
 
-Shield AdBlocker — a fast, private, stealthy Manifest V3 ad & tracker blocker for Chromium. Network-level blocking (180+ networks) + cosmetic filtering, per-site allowlist, zero telemetry, no remote code.
+A production-grade OpenEnv-compliant reinforcement learning environment simulating a Security Operations Center (SOC) analyst workflow.
 
 </td>
 </tr>
@@ -240,12 +240,12 @@ Real usage, aggregated across every public repo — computed automatically, not 
 
 <!-- LANG_BREAKDOWN:START -->
 ```text
-Python            ████████░░░░░░░░░░  46.7%
-TypeScript        █████░░░░░░░░░░░░░  28.9%
-Jupyter Notebook  ██░░░░░░░░░░░░░░░░  11.4%
-JavaScript        █░░░░░░░░░░░░░░░░░   5.0%
-HTML              █░░░░░░░░░░░░░░░░░   4.6%
-Ren'Py            ░░░░░░░░░░░░░░░░░░   1.6%
+Python            ████████░░░░░░░░░░  45.0%
+TypeScript        █████░░░░░░░░░░░░░  28.0%
+Jupyter Notebook  ██░░░░░░░░░░░░░░░░  11.0%
+JavaScript        █░░░░░░░░░░░░░░░░░   7.5%
+HTML              █░░░░░░░░░░░░░░░░░   4.5%
+Ren'Py            ░░░░░░░░░░░░░░░░░░   1.5%
 ```
 <!-- LANG_BREAKDOWN:END -->
 
@@ -264,7 +264,7 @@ Ren'Py            ░░░░░░░░░░░░░░░░░░   1.6%
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:30363d&height=120&section=footer" width="100%"/>
 
 <!-- UPDATED:START -->
-<sub>🤖 Auto-updated from live GitHub data · last refreshed Sun, 16 Aug 2026 06:38:30 GMT</sub>
+<sub>🤖 Auto-updated from live GitHub data · last refreshed Mon, 17 Aug 2026 06:53:11 GMT</sub>
 <!-- UPDATED:END -->
 
 </div>

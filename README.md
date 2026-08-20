@@ -55,18 +55,18 @@ achievements:
 <tr>
 <td width="50%" valign="top">
 
-#### 🔹 [hindsight](https://github.com/ROHITCRAFTSYT/hindsight)
-`Python` · updated today
-
-The AI second brain that never wakes up with amnesia — a second-brain copilot on Cognee's memory layer (remember/recall/improve/forget) with a live knowledge-graph viz. WeMakeDevs × Cognee hackathon.
-
-</td>
-<td width="50%" valign="top">
-
 #### 🔹 [monad-meadow](https://github.com/ROHITCRAFTSYT/monad-meadow)
 `JavaScript` · updated today
 
 Calm 2D multiplayer world with onchain crystal minting & trading on Monad testnet
+
+</td>
+<td width="50%" valign="top">
+
+#### 🔹 [hindsight](https://github.com/ROHITCRAFTSYT/hindsight)
+`Python` · updated yesterday
+
+The AI second brain that never wakes up with amnesia — a second-brain copilot on Cognee's memory layer (remember/recall/improve/forget) with a live knowledge-graph viz. WeMakeDevs × Cognee hackathon.
 
 </td>
 </tr>
@@ -74,7 +74,7 @@ Calm 2D multiplayer world with onchain crystal minting & trading on Monad testne
 <td width="50%" valign="top">
 
 #### 🔹 [Loco-RAG](https://github.com/ROHITCRAFTSYT/Loco-RAG)
-`Python` · updated 5d ago
+`Python` · updated 6d ago
 
 Privacy-first local LLM chat with RAG, agents, memory, web search & voice. Ollama/LM Studio + FastAPI + React. Hybrid retrieval, citations, ChromaDB/LanceDB. 100% local.
 
@@ -82,7 +82,7 @@ Privacy-first local LLM chat with RAG, agents, memory, web search & voice. Ollam
 <td width="50%" valign="top">
 
 #### 🔹 [WhispLocal](https://github.com/ROHITCRAFTSYT/WhispLocal)
-`Python` · updated 6d ago
+`Python` · updated 7d ago
 
 Offline voice dictation for Windows. Hold a hotkey, speak, and the text appears at your cursor - transcribed entirely on your own machine.
 
@@ -92,7 +92,7 @@ Offline voice dictation for Windows. Hold a hotkey, speak, and the text appears 
 <td width="50%" valign="top">
 
 #### 🔹 [LSTM-forecast](https://github.com/ROHITCRAFTSYT/LSTM-forecast)
-`Python` · updated 10d ago
+`Python` · updated 11d ago
 
 Production-grade LSTM time-series forecasting for finance with retrieval-augmented forecasting (RAG) and Claude-powered insights.
 
@@ -100,7 +100,7 @@ Production-grade LSTM time-series forecasting for finance with retrieval-augment
 <td width="50%" valign="top">
 
 #### 🔹 [SOC-Triage-Gym](https://github.com/ROHITCRAFTSYT/SOC-Triage-Gym)
-`Python` · ⭐ 1 · updated 11d ago
+`Python` · ⭐ 1 · updated 12d ago
 
 A production-grade OpenEnv-compliant reinforcement learning environment simulating a Security Operations Center (SOC) analyst workflow.
 
@@ -243,7 +243,7 @@ Real usage, aggregated across every public repo — computed automatically, not 
 Python            ████████░░░░░░░░░░  44.8%
 TypeScript        █████░░░░░░░░░░░░░  28.0%
 Jupyter Notebook  ██░░░░░░░░░░░░░░░░  10.9%
-JavaScript        █░░░░░░░░░░░░░░░░░   7.6%
+JavaScript        █░░░░░░░░░░░░░░░░░   7.7%
 HTML              █░░░░░░░░░░░░░░░░░   4.5%
 Ren'Py            ░░░░░░░░░░░░░░░░░░   1.5%
 ```
@@ -264,7 +264,7 @@ Ren'Py            ░░░░░░░░░░░░░░░░░░   1.5%
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:30363d&height=120&section=footer" width="100%"/>
 
 <!-- UPDATED:START -->
-<sub>🤖 Auto-updated from live GitHub data · last refreshed Wed, 19 Aug 2026 06:41:26 GMT</sub>
+<sub>🤖 Auto-updated from live GitHub data · last refreshed Thu, 20 Aug 2026 06:43:09 GMT</sub>
 <!-- UPDATED:END -->
 
 </div>

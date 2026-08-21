@@ -45,7 +45,7 @@ achievements:
 <div align="center">
 
 <!-- STATS:START -->
-`🗂️ 42 public repos` `⭐ 2 stars earned` `👥 13 followers`
+`🗂️ 42 public repos` `⭐ 2 stars earned` `👥 14 followers`
 <!-- STATS:END -->
 
 </div>
@@ -55,8 +55,26 @@ achievements:
 <tr>
 <td width="50%" valign="top">
 
+#### 🔹 [Loco-RAG](https://github.com/ROHITCRAFTSYT/Loco-RAG)
+`Python` · updated today
+
+Privacy-first local LLM chat with RAG, agents, memory, web search & voice. Ollama/LM Studio + FastAPI + React. Hybrid retrieval, citations, ChromaDB/LanceDB. 100% local.
+
+</td>
+<td width="50%" valign="top">
+
+#### 🔹 [SOC-Triage-Gym](https://github.com/ROHITCRAFTSYT/SOC-Triage-Gym)
+`Python` · ⭐ 1 · updated today
+
+A production-grade OpenEnv-compliant reinforcement learning environment simulating a Security Operations Center (SOC) analyst workflow.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
 #### 🔹 [monad-meadow](https://github.com/ROHITCRAFTSYT/monad-meadow)
-`JavaScript` · updated today
+`JavaScript` · updated yesterday
 
 Calm 2D multiplayer world with onchain crystal minting & trading on Monad testnet
 
@@ -64,7 +82,7 @@ Calm 2D multiplayer world with onchain crystal minting & trading on Monad testne
 <td width="50%" valign="top">
 
 #### 🔹 [hindsight](https://github.com/ROHITCRAFTSYT/hindsight)
-`Python` · updated yesterday
+`Python` · updated 2d ago
 
 The AI second brain that never wakes up with amnesia — a second-brain copilot on Cognee's memory layer (remember/recall/improve/forget) with a live knowledge-graph viz. WeMakeDevs × Cognee hackathon.
 
@@ -73,36 +91,18 @@ The AI second brain that never wakes up with amnesia — a second-brain copilot 
 <tr>
 <td width="50%" valign="top">
 
-#### 🔹 [Loco-RAG](https://github.com/ROHITCRAFTSYT/Loco-RAG)
-`Python` · updated 6d ago
-
-Privacy-first local LLM chat with RAG, agents, memory, web search & voice. Ollama/LM Studio + FastAPI + React. Hybrid retrieval, citations, ChromaDB/LanceDB. 100% local.
-
-</td>
-<td width="50%" valign="top">
-
 #### 🔹 [WhispLocal](https://github.com/ROHITCRAFTSYT/WhispLocal)
-`Python` · updated 7d ago
+`Python` · updated 8d ago
 
 Offline voice dictation for Windows. Hold a hotkey, speak, and the text appears at your cursor - transcribed entirely on your own machine.
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 #### 🔹 [LSTM-forecast](https://github.com/ROHITCRAFTSYT/LSTM-forecast)
-`Python` · updated 11d ago
+`Python` · updated 12d ago
 
 Production-grade LSTM time-series forecasting for finance with retrieval-augmented forecasting (RAG) and Claude-powered insights.
-
-</td>
-<td width="50%" valign="top">
-
-#### 🔹 [SOC-Triage-Gym](https://github.com/ROHITCRAFTSYT/SOC-Triage-Gym)
-`Python` · ⭐ 1 · updated 12d ago
-
-A production-grade OpenEnv-compliant reinforcement learning environment simulating a Security Operations Center (SOC) analyst workflow.
 
 </td>
 </tr>
@@ -264,7 +264,7 @@ Ren'Py            ░░░░░░░░░░░░░░░░░░   1.5%
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:30363d&height=120&section=footer" width="100%"/>
 
 <!-- UPDATED:START -->
-<sub>🤖 Auto-updated from live GitHub data · last refreshed Thu, 20 Aug 2026 06:43:09 GMT</sub>
+<sub>🤖 Auto-updated from live GitHub data · last refreshed Fri, 21 Aug 2026 06:43:42 GMT</sub>
 <!-- UPDATED:END -->
 
 </div>

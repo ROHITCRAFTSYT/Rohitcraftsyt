@@ -56,7 +56,7 @@ achievements:
 <td width="50%" valign="top">
 
 #### 🔹 [Loco-RAG](https://github.com/ROHITCRAFTSYT/Loco-RAG)
-`Python` · updated today
+`Python` · updated yesterday
 
 Privacy-first local LLM chat with RAG, agents, memory, web search & voice. Ollama/LM Studio + FastAPI + React. Hybrid retrieval, citations, ChromaDB/LanceDB. 100% local.
 
@@ -64,7 +64,7 @@ Privacy-first local LLM chat with RAG, agents, memory, web search & voice. Ollam
 <td width="50%" valign="top">
 
 #### 🔹 [SOC-Triage-Gym](https://github.com/ROHITCRAFTSYT/SOC-Triage-Gym)
-`Python` · ⭐ 1 · updated today
+`Python` · ⭐ 1 · updated yesterday
 
 A production-grade OpenEnv-compliant reinforcement learning environment simulating a Security Operations Center (SOC) analyst workflow.
 
@@ -74,7 +74,7 @@ A production-grade OpenEnv-compliant reinforcement learning environment simulati
 <td width="50%" valign="top">
 
 #### 🔹 [monad-meadow](https://github.com/ROHITCRAFTSYT/monad-meadow)
-`JavaScript` · updated yesterday
+`JavaScript` · updated 2d ago
 
 Calm 2D multiplayer world with onchain crystal minting & trading on Monad testnet
 
@@ -82,7 +82,7 @@ Calm 2D multiplayer world with onchain crystal minting & trading on Monad testne
 <td width="50%" valign="top">
 
 #### 🔹 [hindsight](https://github.com/ROHITCRAFTSYT/hindsight)
-`Python` · updated 2d ago
+`Python` · updated 3d ago
 
 The AI second brain that never wakes up with amnesia — a second-brain copilot on Cognee's memory layer (remember/recall/improve/forget) with a live knowledge-graph viz. WeMakeDevs × Cognee hackathon.
 
@@ -92,7 +92,7 @@ The AI second brain that never wakes up with amnesia — a second-brain copilot 
 <td width="50%" valign="top">
 
 #### 🔹 [WhispLocal](https://github.com/ROHITCRAFTSYT/WhispLocal)
-`Python` · updated 8d ago
+`Python` · updated 9d ago
 
 Offline voice dictation for Windows. Hold a hotkey, speak, and the text appears at your cursor - transcribed entirely on your own machine.
 
@@ -100,7 +100,7 @@ Offline voice dictation for Windows. Hold a hotkey, speak, and the text appears 
 <td width="50%" valign="top">
 
 #### 🔹 [LSTM-forecast](https://github.com/ROHITCRAFTSYT/LSTM-forecast)
-`Python` · updated 12d ago
+`Python` · updated 13d ago
 
 Production-grade LSTM time-series forecasting for finance with retrieval-augmented forecasting (RAG) and Claude-powered insights.
 
@@ -264,7 +264,7 @@ Ren'Py            ░░░░░░░░░░░░░░░░░░   1.5%
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:30363d&height=120&section=footer" width="100%"/>
 
 <!-- UPDATED:START -->
-<sub>🤖 Auto-updated from live GitHub data · last refreshed Fri, 21 Aug 2026 06:43:42 GMT</sub>
+<sub>🤖 Auto-updated from live GitHub data · last refreshed Sat, 22 Aug 2026 06:37:52 GMT</sub>
 <!-- UPDATED:END -->
 
 </div>

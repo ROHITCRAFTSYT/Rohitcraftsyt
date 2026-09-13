@@ -56,7 +56,7 @@ achievements:
 <td width="50%" valign="top">
 
 #### 🔹 [Loco-RAG](https://github.com/ROHITCRAFTSYT/Loco-RAG)
-`Python` · updated yesterday
+`Python` · updated 2d ago
 
 Privacy-first local LLM chat with RAG, agents, memory, web search & voice. Ollama/LM Studio + FastAPI + React. Hybrid retrieval, citations, ChromaDB/LanceDB. 100% local.
 
@@ -64,7 +64,7 @@ Privacy-first local LLM chat with RAG, agents, memory, web search & voice. Ollam
 <td width="50%" valign="top">
 
 #### 🔹 [SOC-Triage-Gym](https://github.com/ROHITCRAFTSYT/SOC-Triage-Gym)
-`Python` · ⭐ 1 · updated 7d ago
+`Python` · ⭐ 1 · updated 8d ago
 
 A production-grade OpenEnv-compliant reinforcement learning environment simulating a Security Operations Center (SOC) analyst workflow.
 
@@ -74,7 +74,7 @@ A production-grade OpenEnv-compliant reinforcement learning environment simulati
 <td width="50%" valign="top">
 
 #### 🔹 [Hermes](https://github.com/ROHITCRAFTSYT/Hermes)
-`Python` · updated 8d ago
+`Python` · updated 9d ago
 
 DIY voice AI agent: an ESP32 that controls your PC, the web, and smart-home devices through a local Python brain. Bilingual (English/Tamil), memory, phone app, mDNS.
 
@@ -82,7 +82,7 @@ DIY voice AI agent: an ESP32 that controls your PC, the web, and smart-home devi
 <td width="50%" valign="top">
 
 #### 🔹 [WhispLocal](https://github.com/ROHITCRAFTSYT/WhispLocal)
-`Python` · ⭐ 1 · updated 16d ago
+`Python` · ⭐ 1 · updated 17d ago
 
 Offline voice dictation for Windows. Hold a hotkey, speak, and the text appears at your cursor - transcribed entirely on your own machine.
 
@@ -92,7 +92,7 @@ Offline voice dictation for Windows. Hold a hotkey, speak, and the text appears 
 <td width="50%" valign="top">
 
 #### 🔹 [hindsight](https://github.com/ROHITCRAFTSYT/hindsight)
-`Python` · updated 17d ago
+`Python` · updated 18d ago
 
 The AI second brain that never wakes up with amnesia — a second-brain copilot on Cognee's memory layer (remember/recall/improve/forget) with a live knowledge-graph viz. WeMakeDevs × Cognee hackathon.
 
@@ -100,7 +100,7 @@ The AI second brain that never wakes up with amnesia — a second-brain copilot 
 <td width="50%" valign="top">
 
 #### 🔹 [monad-meadow](https://github.com/ROHITCRAFTSYT/monad-meadow)
-`JavaScript` · updated 23d ago
+`JavaScript` · updated 24d ago
 
 Calm 2D multiplayer world with onchain crystal minting & trading on Monad testnet
 
@@ -264,7 +264,7 @@ Ren'Py            ░░░░░░░░░░░░░░░░░░   1.5%
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:30363d&height=120&section=footer" width="100%"/>
 
 <!-- UPDATED:START -->
-<sub>🤖 Auto-updated from live GitHub data · last refreshed Sat, 12 Sep 2026 10:10:06 GMT</sub>
+<sub>🤖 Auto-updated from live GitHub data · last refreshed Sun, 13 Sep 2026 11:09:31 GMT</sub>
 <!-- UPDATED:END -->
 
 </div>

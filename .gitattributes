@@ -1,0 +1,12 @@
+# Normalize line endings: store text as LF, check out as LF everywhere.
+* text=auto eol=lf
+
+*.js   text eol=lf
+*.md   text eol=lf
+*.yml  text eol=lf
+*.yaml text eol=lf
+
+# Binary assets — never touch
+*.png binary
+*.jpg binary
+*.ico binary

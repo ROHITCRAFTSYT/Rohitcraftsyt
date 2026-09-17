@@ -55,34 +55,34 @@ achievements:
 <tr>
 <td width="50%" valign="top">
 
-#### 🔹 [hindsight](https://github.com/ROHITCRAFTSYT/hindsight)
-`Python` · updated today
-
-The AI second brain that never wakes up with amnesia — a second-brain copilot on Cognee's memory layer (remember/recall/improve/forget) with a live knowledge-graph viz. WeMakeDevs × Cognee hackathon.
-
-</td>
-<td width="50%" valign="top">
-
-#### 🔹 [Skillloop](https://github.com/ROHITCRAFTSYT/Skillloop)
-`TypeScript` · updated yesterday
-
-Skillloop
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
 #### 🔹 [MoneyVerse](https://github.com/ROHITCRAFTSYT/MoneyVerse)
-`TypeScript` · updated yesterday
+`TypeScript` · updated today
 
 MoneyVerse is an engaging, game-powered web app that teaches teenagers budgeting, crypto basics, investments, and trending money news—while providing a secure personal dashboard to track real monthly expenses, store transaction data in a robust database, and generate on-demand spending graphs.
 
 </td>
 <td width="50%" valign="top">
 
+#### 🔹 [hindsight](https://github.com/ROHITCRAFTSYT/hindsight)
+`Python` · updated yesterday
+
+The AI second brain that never wakes up with amnesia — a second-brain copilot on Cognee's memory layer (remember/recall/improve/forget) with a live knowledge-graph viz. WeMakeDevs × Cognee hackathon.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### 🔹 [Skillloop](https://github.com/ROHITCRAFTSYT/Skillloop)
+`TypeScript` · updated 2d ago
+
+Skillloop
+
+</td>
+<td width="50%" valign="top">
+
 #### 🔹 [shield-adblocker](https://github.com/ROHITCRAFTSYT/shield-adblocker)
-`JavaScript` · updated 2d ago
+`JavaScript` · updated 3d ago
 
 Shield AdBlocker — a fast, private, stealthy Manifest V3 ad & tracker blocker for Chromium. Network-level blocking (180+ networks) + cosmetic filtering, per-site allowlist, zero telemetry, no remote code.
 
@@ -92,7 +92,7 @@ Shield AdBlocker — a fast, private, stealthy Manifest V3 ad & tracker blocker 
 <td width="50%" valign="top">
 
 #### 🔹 [monad-meadow](https://github.com/ROHITCRAFTSYT/monad-meadow)
-`JavaScript` · updated 2d ago
+`JavaScript` · updated 3d ago
 
 Calm 2D multiplayer world with onchain crystal minting & trading on Monad testnet
 
@@ -100,7 +100,7 @@ Calm 2D multiplayer world with onchain crystal minting & trading on Monad testne
 <td width="50%" valign="top">
 
 #### 🔹 [Loco-RAG](https://github.com/ROHITCRAFTSYT/Loco-RAG)
-`Python` · updated 5d ago
+`Python` · updated 6d ago
 
 Privacy-first local LLM chat with RAG, agents, memory, web search & voice. Ollama/LM Studio + FastAPI + React. Hybrid retrieval, citations, ChromaDB/LanceDB. 100% local.
 
@@ -264,7 +264,7 @@ Ren'Py            ░░░░░░░░░░░░░░░░░░   1.5%
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:30363d&height=120&section=footer" width="100%"/>
 
 <!-- UPDATED:START -->
-<sub>🤖 Auto-updated from live GitHub data · last refreshed Wed, 16 Sep 2026 10:54:31 GMT</sub>
+<sub>🤖 Auto-updated from live GitHub data · last refreshed Thu, 17 Sep 2026 11:02:52 GMT</sub>
 <!-- UPDATED:END -->
 
 </div>

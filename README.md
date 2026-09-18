@@ -45,7 +45,7 @@ achievements:
 <div align="center">
 
 <!-- STATS:START -->
-`🗂️ 43 public repos` `⭐ 3 stars earned` `👥 15 followers`
+`🗂️ 43 public repos` `⭐ 3 stars earned` `👥 14 followers`
 <!-- STATS:END -->
 
 </div>
@@ -63,10 +63,10 @@ MoneyVerse is an engaging, game-powered web app that teaches teenagers budgeting
 </td>
 <td width="50%" valign="top">
 
-#### 🔹 [hindsight](https://github.com/ROHITCRAFTSYT/hindsight)
-`Python` · updated yesterday
+#### 🔹 [aura](https://github.com/ROHITCRAFTSYT/aura)
+`TypeScript` · updated today
 
-The AI second brain that never wakes up with amnesia — a second-brain copilot on Cognee's memory layer (remember/recall/improve/forget) with a live knowledge-graph viz. WeMakeDevs × Cognee hackathon.
+Aura — AI social-skills companion for autistic & neurodiverse youth (Youth Code x AI hackathon)
 
 </td>
 </tr>
@@ -74,7 +74,7 @@ The AI second brain that never wakes up with amnesia — a second-brain copilot 
 <td width="50%" valign="top">
 
 #### 🔹 [Skillloop](https://github.com/ROHITCRAFTSYT/Skillloop)
-`TypeScript` · updated 2d ago
+`TypeScript` · updated today
 
 Skillloop
 
@@ -82,7 +82,7 @@ Skillloop
 <td width="50%" valign="top">
 
 #### 🔹 [shield-adblocker](https://github.com/ROHITCRAFTSYT/shield-adblocker)
-`JavaScript` · updated 3d ago
+`JavaScript` · updated today
 
 Shield AdBlocker — a fast, private, stealthy Manifest V3 ad & tracker blocker for Chromium. Network-level blocking (180+ networks) + cosmetic filtering, per-site allowlist, zero telemetry, no remote code.
 
@@ -91,18 +91,18 @@ Shield AdBlocker — a fast, private, stealthy Manifest V3 ad & tracker blocker 
 <tr>
 <td width="50%" valign="top">
 
-#### 🔹 [monad-meadow](https://github.com/ROHITCRAFTSYT/monad-meadow)
-`JavaScript` · updated 3d ago
+#### 🔹 [hindsight](https://github.com/ROHITCRAFTSYT/hindsight)
+`Python` · updated 2d ago
 
-Calm 2D multiplayer world with onchain crystal minting & trading on Monad testnet
+The AI second brain that never wakes up with amnesia — a second-brain copilot on Cognee's memory layer (remember/recall/improve/forget) with a live knowledge-graph viz. WeMakeDevs × Cognee hackathon.
 
 </td>
 <td width="50%" valign="top">
 
-#### 🔹 [Loco-RAG](https://github.com/ROHITCRAFTSYT/Loco-RAG)
-`Python` · updated 6d ago
+#### 🔹 [monad-meadow](https://github.com/ROHITCRAFTSYT/monad-meadow)
+`JavaScript` · updated 4d ago
 
-Privacy-first local LLM chat with RAG, agents, memory, web search & voice. Ollama/LM Studio + FastAPI + React. Hybrid retrieval, citations, ChromaDB/LanceDB. 100% local.
+Calm 2D multiplayer world with onchain crystal minting & trading on Monad testnet
 
 </td>
 </tr>
@@ -240,11 +240,11 @@ Real usage, aggregated across every public repo — computed automatically, not 
 
 <!-- LANG_BREAKDOWN:START -->
 ```text
-Python            ████████░░░░░░░░░░  45.1%
-TypeScript        █████░░░░░░░░░░░░░  27.5%
+Python            ████████░░░░░░░░░░  45.0%
+TypeScript        █████░░░░░░░░░░░░░  27.6%
 Jupyter Notebook  ██░░░░░░░░░░░░░░░░  10.7%
 JavaScript        █░░░░░░░░░░░░░░░░░   7.5%
-HTML              █░░░░░░░░░░░░░░░░░   4.7%
+HTML              █░░░░░░░░░░░░░░░░░   4.6%
 Ren'Py            ░░░░░░░░░░░░░░░░░░   1.5%
 ```
 <!-- LANG_BREAKDOWN:END -->
@@ -264,7 +264,7 @@ Ren'Py            ░░░░░░░░░░░░░░░░░░   1.5%
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:30363d&height=120&section=footer" width="100%"/>
 
 <!-- UPDATED:START -->
-<sub>🤖 Auto-updated from live GitHub data · last refreshed Thu, 17 Sep 2026 11:02:52 GMT</sub>
+<sub>🤖 Auto-updated from live GitHub data · last refreshed Fri, 18 Sep 2026 10:38:50 GMT</sub>
 <!-- UPDATED:END -->
 
 </div>

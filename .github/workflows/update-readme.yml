@@ -46,10 +46,10 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          if git diff --quiet -- README.md; then
-            echo "No README changes to commit."
+          git add README.md assets
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
           else
-            git add README.md
             git commit -m "chore: refresh README with live GitHub data [skip ci]"
             git push
           fi

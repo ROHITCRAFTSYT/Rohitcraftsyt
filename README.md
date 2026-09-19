@@ -45,7 +45,7 @@ achievements:
 <div align="center">
 
 <!-- STATS:START -->
-`🗂️ 43 public repos` `⭐ 3 stars earned` `👥 14 followers`
+`🗂️ 44 public repos` `⭐ 3 stars earned` `👥 14 followers`
 <!-- STATS:END -->
 
 </div>
@@ -55,54 +55,54 @@ achievements:
 <tr>
 <td width="50%" valign="top">
 
+#### 🔹 [FruitFlyBrain](https://github.com/ROHITCRAFTSYT/FruitFlyBrain)
+`HTML` · updated today
+
+Organized Drosophila (fruit fly) brain connectome datasets + 5 working analysis/visualization projects (Janelia hemibrain, Princeton FlyWire)
+
+</td>
+<td width="50%" valign="top">
+
 #### 🔹 [MoneyVerse](https://github.com/ROHITCRAFTSYT/MoneyVerse)
-`TypeScript` · updated today
+`TypeScript` · updated yesterday
 
 MoneyVerse is an engaging, game-powered web app that teaches teenagers budgeting, crypto basics, investments, and trending money news—while providing a secure personal dashboard to track real monthly expenses, store transaction data in a robust database, and generate on-demand spending graphs.
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 #### 🔹 [aura](https://github.com/ROHITCRAFTSYT/aura)
-`TypeScript` · updated today
+`TypeScript` · updated yesterday
 
 Aura — AI social-skills companion for autistic & neurodiverse youth (Youth Code x AI hackathon)
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 #### 🔹 [Skillloop](https://github.com/ROHITCRAFTSYT/Skillloop)
-`TypeScript` · updated today
+`TypeScript` · updated yesterday
 
 Skillloop
 
 </td>
-<td width="50%" valign="top">
-
-#### 🔹 [shield-adblocker](https://github.com/ROHITCRAFTSYT/shield-adblocker)
-`JavaScript` · updated today
-
-Shield AdBlocker — a fast, private, stealthy Manifest V3 ad & tracker blocker for Chromium. Network-level blocking (180+ networks) + cosmetic filtering, per-site allowlist, zero telemetry, no remote code.
-
-</td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-#### 🔹 [hindsight](https://github.com/ROHITCRAFTSYT/hindsight)
-`Python` · updated 2d ago
+#### 🔹 [shield-adblocker](https://github.com/ROHITCRAFTSYT/shield-adblocker)
+`JavaScript` · updated yesterday
 
-The AI second brain that never wakes up with amnesia — a second-brain copilot on Cognee's memory layer (remember/recall/improve/forget) with a live knowledge-graph viz. WeMakeDevs × Cognee hackathon.
+Shield AdBlocker — a fast, private, stealthy Manifest V3 ad & tracker blocker for Chromium. Network-level blocking (180+ networks) + cosmetic filtering, per-site allowlist, zero telemetry, no remote code.
 
 </td>
 <td width="50%" valign="top">
 
-#### 🔹 [monad-meadow](https://github.com/ROHITCRAFTSYT/monad-meadow)
-`JavaScript` · updated 4d ago
+#### 🔹 [hindsight](https://github.com/ROHITCRAFTSYT/hindsight)
+`Python` · updated 3d ago
 
-Calm 2D multiplayer world with onchain crystal minting & trading on Monad testnet
+The AI second brain that never wakes up with amnesia — a second-brain copilot on Cognee's memory layer (remember/recall/improve/forget) with a live knowledge-graph viz. WeMakeDevs × Cognee hackathon.
 
 </td>
 </tr>
@@ -192,25 +192,20 @@ Calm 2D multiplayer world with onchain crystal minting & trading on Monad testne
 
 ## 📈 GitHub Analytics
 
-<!-- Cards rendered by github-profile-summary-cards (self-refreshing). Swap ?theme= to restyle. -->
+<!-- Cards self-generated daily by .github/scripts/update-readme.js and committed to assets/ -->
+<!-- No live third-party card services here, so they can never rate-limit and show an ERROR card. -->
 
 <div align="center">
 
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ROHITCRAFTSYT&theme=github_dark" />
-<img width="49%" src="https://streak-stats.demolab.com/?user=ROHITCRAFTSYT&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" />
+<img width="49%" alt="GitHub stats" src="./assets/stats.svg" />
+<img width="49%" alt="Contribution streak" src="https://streak-stats.demolab.com/?user=ROHITCRAFTSYT&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" />
 
 </div>
 
 <div align="center">
 
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ROHITCRAFTSYT&theme=github_dark" />
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ROHITCRAFTSYT&theme=github_dark&utcOffset=5.5" />
-
-</div>
-
-<div align="center">
-
-<img width="90%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ROHITCRAFTSYT&theme=github_dark" />
+<img width="49%" alt="Top languages" src="./assets/languages.svg" />
+<img width="49%" alt="Productive time" src="./assets/productive.svg" />
 
 </div>
 
@@ -240,12 +235,12 @@ Real usage, aggregated across every public repo — computed automatically, not 
 
 <!-- LANG_BREAKDOWN:START -->
 ```text
-Python            ████████░░░░░░░░░░  45.0%
-TypeScript        █████░░░░░░░░░░░░░  27.6%
-Jupyter Notebook  ██░░░░░░░░░░░░░░░░  10.7%
-JavaScript        █░░░░░░░░░░░░░░░░░   7.5%
-HTML              █░░░░░░░░░░░░░░░░░   4.6%
-Ren'Py            ░░░░░░░░░░░░░░░░░░   1.5%
+Python            ███████░░░░░░░░░░░  39.2%
+TypeScript        ████░░░░░░░░░░░░░░  23.7%
+HTML              ███░░░░░░░░░░░░░░░  17.7%
+Jupyter Notebook  ██░░░░░░░░░░░░░░░░   9.1%
+JavaScript        █░░░░░░░░░░░░░░░░░   6.4%
+Ren'Py            ░░░░░░░░░░░░░░░░░░   1.3%
 ```
 <!-- LANG_BREAKDOWN:END -->
 
@@ -264,7 +259,7 @@ Ren'Py            ░░░░░░░░░░░░░░░░░░   1.5%
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:30363d&height=120&section=footer" width="100%"/>
 
 <!-- UPDATED:START -->
-<sub>🤖 Auto-updated from live GitHub data · last refreshed Fri, 18 Sep 2026 10:38:50 GMT</sub>
+<sub>🤖 Auto-updated from live GitHub data · last refreshed Sat, 19 Sep 2026 08:49:34 GMT</sub>
 <!-- UPDATED:END -->
 
 </div>

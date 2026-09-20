@@ -58,13 +58,13 @@ achievements:
 #### 🔹 [FruitFlyBrain](https://github.com/ROHITCRAFTSYT/FruitFlyBrain)
 `HTML` · updated today
 
-Organized Drosophila (fruit fly) brain connectome datasets + 5 working analysis/visualization projects (Janelia hemibrain, Princeton FlyWire)
+Complete Drosophila brain connectome (3.5M synapses) with 8 reproducible projects: network analysis, simulation, 3D viz, and trained ML models (cell-type classification 88%, link prediction 0.97 AUC)
 
 </td>
 <td width="50%" valign="top">
 
 #### 🔹 [MoneyVerse](https://github.com/ROHITCRAFTSYT/MoneyVerse)
-`TypeScript` · updated yesterday
+`TypeScript` · updated 2d ago
 
 MoneyVerse is an engaging, game-powered web app that teaches teenagers budgeting, crypto basics, investments, and trending money news—while providing a secure personal dashboard to track real monthly expenses, store transaction data in a robust database, and generate on-demand spending graphs.
 
@@ -74,7 +74,7 @@ MoneyVerse is an engaging, game-powered web app that teaches teenagers budgeting
 <td width="50%" valign="top">
 
 #### 🔹 [aura](https://github.com/ROHITCRAFTSYT/aura)
-`TypeScript` · updated yesterday
+`TypeScript` · updated 2d ago
 
 Aura — AI social-skills companion for autistic & neurodiverse youth (Youth Code x AI hackathon)
 
@@ -82,7 +82,7 @@ Aura — AI social-skills companion for autistic & neurodiverse youth (Youth Cod
 <td width="50%" valign="top">
 
 #### 🔹 [Skillloop](https://github.com/ROHITCRAFTSYT/Skillloop)
-`TypeScript` · updated yesterday
+`TypeScript` · updated 2d ago
 
 Skillloop
 
@@ -92,7 +92,7 @@ Skillloop
 <td width="50%" valign="top">
 
 #### 🔹 [shield-adblocker](https://github.com/ROHITCRAFTSYT/shield-adblocker)
-`JavaScript` · updated yesterday
+`JavaScript` · updated 2d ago
 
 Shield AdBlocker — a fast, private, stealthy Manifest V3 ad & tracker blocker for Chromium. Network-level blocking (180+ networks) + cosmetic filtering, per-site allowlist, zero telemetry, no remote code.
 
@@ -100,7 +100,7 @@ Shield AdBlocker — a fast, private, stealthy Manifest V3 ad & tracker blocker 
 <td width="50%" valign="top">
 
 #### 🔹 [hindsight](https://github.com/ROHITCRAFTSYT/hindsight)
-`Python` · updated 3d ago
+`Python` · updated 4d ago
 
 The AI second brain that never wakes up with amnesia — a second-brain copilot on Cognee's memory layer (remember/recall/improve/forget) with a live knowledge-graph viz. WeMakeDevs × Cognee hackathon.
 
@@ -235,8 +235,8 @@ Real usage, aggregated across every public repo — computed automatically, not 
 
 <!-- LANG_BREAKDOWN:START -->
 ```text
-Python            ███████░░░░░░░░░░░  39.2%
-TypeScript        ████░░░░░░░░░░░░░░  23.7%
+Python            ███████░░░░░░░░░░░  39.4%
+TypeScript        ████░░░░░░░░░░░░░░  23.6%
 HTML              ███░░░░░░░░░░░░░░░  17.7%
 Jupyter Notebook  ██░░░░░░░░░░░░░░░░   9.1%
 JavaScript        █░░░░░░░░░░░░░░░░░   6.4%
@@ -259,7 +259,7 @@ Ren'Py            ░░░░░░░░░░░░░░░░░░   1.3%
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:30363d&height=120&section=footer" width="100%"/>
 
 <!-- UPDATED:START -->
-<sub>🤖 Auto-updated from live GitHub data · last refreshed Sat, 19 Sep 2026 10:23:14 GMT</sub>
+<sub>🤖 Auto-updated from live GitHub data · last refreshed Sun, 20 Sep 2026 10:42:34 GMT</sub>
 <!-- UPDATED:END -->
 
 </div>

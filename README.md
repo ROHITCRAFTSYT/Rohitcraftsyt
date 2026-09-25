@@ -45,7 +45,7 @@ achievements:
 <div align="center">
 
 <!-- STATS:START -->
-`🗂️ 44 public repos` `⭐ 4 stars earned` `👥 14 followers`
+`🗂️ 42 public repos` `⭐ 4 stars earned` `👥 14 followers`
 <!-- STATS:END -->
 
 </div>
@@ -55,54 +55,54 @@ achievements:
 <tr>
 <td width="50%" valign="top">
 
-#### 🔹 [hindsight](https://github.com/ROHITCRAFTSYT/hindsight)
-`Python` · updated yesterday
-
-The AI second brain that never wakes up with amnesia — a second-brain copilot on Cognee's memory layer (remember/recall/improve/forget) with a live knowledge-graph viz. WeMakeDevs × Cognee hackathon.
-
-</td>
-<td width="50%" valign="top">
-
 #### 🔹 [FruitFlyBrain](https://github.com/ROHITCRAFTSYT/FruitFlyBrain)
-`HTML` · ⭐ 1 · updated 4d ago
+`HTML` · ⭐ 1 · updated today
 
 Complete Drosophila brain connectome (3.5M synapses) with 8 reproducible projects: network analysis, simulation, 3D viz, and trained ML models (cell-type classification 88%, link prediction 0.97 AUC)
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 #### 🔹 [MoneyVerse](https://github.com/ROHITCRAFTSYT/MoneyVerse)
-`TypeScript` · updated 6d ago
+`TypeScript` · updated today
 
 MoneyVerse is an engaging, game-powered web app that teaches teenagers budgeting, crypto basics, investments, and trending money news—while providing a secure personal dashboard to track real monthly expenses, store transaction data in a robust database, and generate on-demand spending graphs.
 
 </td>
-<td width="50%" valign="top">
-
-#### 🔹 [aura](https://github.com/ROHITCRAFTSYT/aura)
-`TypeScript` · updated 6d ago
-
-Aura — AI social-skills companion for autistic & neurodiverse youth (Youth Code x AI hackathon)
-
-</td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-#### 🔹 [Skillloop](https://github.com/ROHITCRAFTSYT/Skillloop)
-`TypeScript` · updated 6d ago
+#### 🔹 [aura](https://github.com/ROHITCRAFTSYT/aura)
+`TypeScript` · updated 7d ago
 
-Skillloop
+Aura — AI social-skills companion for autistic & neurodiverse youth (Youth Code x AI hackathon)
 
 </td>
 <td width="50%" valign="top">
 
 #### 🔹 [shield-adblocker](https://github.com/ROHITCRAFTSYT/shield-adblocker)
-`JavaScript` · updated 6d ago
+`JavaScript` · updated 7d ago
 
 Shield AdBlocker — a fast, private, stealthy Manifest V3 ad & tracker blocker for Chromium. Network-level blocking (180+ networks) + cosmetic filtering, per-site allowlist, zero telemetry, no remote code.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### 🔹 [monad-meadow](https://github.com/ROHITCRAFTSYT/monad-meadow)
+`JavaScript` · updated 11d ago
+
+Calm 2D multiplayer world with onchain crystal minting & trading on Monad testnet
+
+</td>
+<td width="50%" valign="top">
+
+#### 🔹 [Loco-RAG](https://github.com/ROHITCRAFTSYT/Loco-RAG)
+`Python` · updated 14d ago
+
+Privacy-first local LLM chat with RAG, agents, memory, web search & voice. Ollama/LM Studio + FastAPI + React. Hybrid retrieval, citations, ChromaDB/LanceDB. 100% local.
 
 </td>
 </tr>
@@ -235,11 +235,11 @@ Real usage, aggregated across every public repo — computed automatically, not 
 
 <!-- LANG_BREAKDOWN:START -->
 ```text
-Python            ███████░░░░░░░░░░░  39.4%
-TypeScript        ████░░░░░░░░░░░░░░  23.6%
-HTML              ███░░░░░░░░░░░░░░░  17.7%
-Jupyter Notebook  ██░░░░░░░░░░░░░░░░   9.1%
-JavaScript        █░░░░░░░░░░░░░░░░░   6.4%
+Python            ███████░░░░░░░░░░░  40.7%
+TypeScript        ████░░░░░░░░░░░░░░  22.1%
+HTML              ███░░░░░░░░░░░░░░░  17.8%
+Jupyter Notebook  ██░░░░░░░░░░░░░░░░   9.2%
+JavaScript        █░░░░░░░░░░░░░░░░░   6.5%
 Ren'Py            ░░░░░░░░░░░░░░░░░░   1.3%
 ```
 <!-- LANG_BREAKDOWN:END -->
@@ -259,7 +259,7 @@ Ren'Py            ░░░░░░░░░░░░░░░░░░   1.3%
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:30363d&height=120&section=footer" width="100%"/>
 
 <!-- UPDATED:START -->
-<sub>🤖 Auto-updated from live GitHub data · last refreshed Thu, 24 Sep 2026 11:11:05 GMT</sub>
+<sub>🤖 Auto-updated from live GitHub data · last refreshed Fri, 25 Sep 2026 11:15:19 GMT</sub>
 <!-- UPDATED:END -->
 
 </div>

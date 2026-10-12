@@ -45,13 +45,49 @@ achievements:
 <div align="center">
 
 <!-- STATS:START -->
-`🗂️ 44 public repos` `⭐ 7 stars earned` `👥 15 followers`
+`🗂️ 45 public repos` `⭐ 7 stars earned` `👥 15 followers`
 <!-- STATS:END -->
 
 </div>
 
 <!-- LATEST_PROJECTS:START -->
 <table>
+<tr>
+<td width="50%" valign="top">
+
+#### 🔹 [FruitFlyBrain](https://github.com/ROHITCRAFTSYT/FruitFlyBrain)
+`HTML` · ⭐ 3 · updated today
+
+Complete Drosophila brain connectome (3.5M synapses) with 8 reproducible projects: network analysis, simulation, 3D viz, and trained ML models (cell-type classification 88%, link prediction 0.97 AUC)
+
+</td>
+<td width="50%" valign="top">
+
+#### 🔹 [kavach](https://github.com/ROHITCRAFTSYT/kavach)
+`Python` · updated today
+
+Kavach (कवच): multilingual scam shield & paperwork explainer for India, built on Sarvam AI (Saaras, Sarvam Vision, Sarvam-105B, Bulbul)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### 🔹 [pitstop-demo-triage](https://github.com/ROHITCRAFTSYT/pitstop-demo-triage)
+`Python` · updated today
+
+Demo target for Pitstop: a support-ticket triage agent with real bugs. Pitstop's fix arrives as a pull request.
+
+</td>
+<td width="50%" valign="top">
+
+#### 🔹 [recoup](https://github.com/ROHITCRAFTSYT/recoup)
+`TypeScript` · updated today
+
+AI AR-collections & cash-recovery desk — agentic dunning with a deterministic human approval gate, on a live Lemma pod. Built for the Gappy.AI / Lemma hackathon.
+
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 
@@ -63,46 +99,10 @@ An autonomous pit crew for AI agents: reads neatlogs traces, finds root causes, 
 </td>
 <td width="50%" valign="top">
 
-#### 🔹 [FruitFlyBrain](https://github.com/ROHITCRAFTSYT/FruitFlyBrain)
-`HTML` · ⭐ 3 · updated today
-
-Complete Drosophila brain connectome (3.5M synapses) with 8 reproducible projects: network analysis, simulation, 3D viz, and trained ML models (cell-type classification 88%, link prediction 0.97 AUC)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
 #### 🔹 [WhispLocal](https://github.com/ROHITCRAFTSYT/WhispLocal)
-`Python` · ⭐ 1 · updated 3d ago
+`Python` · ⭐ 1 · updated 4d ago
 
 Offline voice dictation for Windows. Hold a hotkey, speak, and the text appears at your cursor - transcribed entirely on your own machine.
-
-</td>
-<td width="50%" valign="top">
-
-#### 🔹 [aura](https://github.com/ROHITCRAFTSYT/aura)
-`TypeScript` · updated 10d ago
-
-Aura — AI social-skills companion for autistic & neurodiverse youth (Youth Code x AI hackathon)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-#### 🔹 [MoneyVerse](https://github.com/ROHITCRAFTSYT/MoneyVerse)
-`TypeScript` · updated 10d ago
-
-MoneyVerse is an engaging, game-powered web app that teaches teenagers budgeting, crypto basics, investments, and trending money news—while providing a secure personal dashboard to track real monthly expenses, store transaction data in a robust database, and generate on-demand spending graphs.
-
-</td>
-<td width="50%" valign="top">
-
-#### 🔹 [kavach](https://github.com/ROHITCRAFTSYT/kavach)
-`Python` · updated 13d ago
-
-Kavach (कवच): multilingual scam shield & paperwork explainer for India, built on Sarvam AI (Saaras, Sarvam Vision, Sarvam-105B, Bulbul)
 
 </td>
 </tr>
@@ -235,12 +235,12 @@ Real usage, aggregated across every public repo — computed automatically, not 
 
 <!-- LANG_BREAKDOWN:START -->
 ```text
-Python            ████████░░░░░░░░░░  43.8%
-TypeScript        ████░░░░░░░░░░░░░░  20.0%
+Python            ████████░░░░░░░░░░  44.1%
+TypeScript        ████░░░░░░░░░░░░░░  19.9%
 HTML              ███░░░░░░░░░░░░░░░  16.5%
-Jupyter Notebook  █░░░░░░░░░░░░░░░░░   8.3%
+Jupyter Notebook  █░░░░░░░░░░░░░░░░░   8.2%
 JavaScript        █░░░░░░░░░░░░░░░░░   7.4%
-CSS               ░░░░░░░░░░░░░░░░░░   1.5%
+CSS               ░░░░░░░░░░░░░░░░░░   1.4%
 ```
 <!-- LANG_BREAKDOWN:END -->
 
@@ -259,7 +259,7 @@ CSS               ░░░░░░░░░░░░░░░░░░   1.5%
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:30363d&height=120&section=footer" width="100%"/>
 
 <!-- UPDATED:START -->
-<sub>🤖 Auto-updated from live GitHub data · last refreshed Sun, 11 Oct 2026 12:10:37 GMT</sub>
+<sub>🤖 Auto-updated from live GitHub data · last refreshed Mon, 12 Oct 2026 14:32:12 GMT</sub>
 <!-- UPDATED:END -->
 
 </div>

@@ -55,36 +55,18 @@ achievements:
 <tr>
 <td width="50%" valign="top">
 
+#### 🔹 [Hermes](https://github.com/ROHITCRAFTSYT/Hermes)
+`Python` · updated today
+
+DIY voice AI agent: an ESP32 that controls your PC, the web, and smart-home devices through a local Python brain. Bilingual (English/Tamil), memory, phone app, mDNS.
+
+</td>
+<td width="50%" valign="top">
+
 #### 🔹 [FruitFlyBrain](https://github.com/ROHITCRAFTSYT/FruitFlyBrain)
 `HTML` · ⭐ 3 · updated today
 
 Complete Drosophila brain connectome (3.5M synapses) with 8 reproducible projects: network analysis, simulation, 3D viz, and trained ML models (cell-type classification 88%, link prediction 0.97 AUC)
-
-</td>
-<td width="50%" valign="top">
-
-#### 🔹 [kavach](https://github.com/ROHITCRAFTSYT/kavach)
-`Python` · updated today
-
-Kavach (कवच): multilingual scam shield & paperwork explainer for India, built on Sarvam AI (Saaras, Sarvam Vision, Sarvam-105B, Bulbul)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-#### 🔹 [pitstop-demo-triage](https://github.com/ROHITCRAFTSYT/pitstop-demo-triage)
-`Python` · updated today
-
-Demo target for Pitstop: a support-ticket triage agent with real bugs. Pitstop's fix arrives as a pull request.
-
-</td>
-<td width="50%" valign="top">
-
-#### 🔹 [recoup](https://github.com/ROHITCRAFTSYT/recoup)
-`TypeScript` · updated today
-
-AI AR-collections & cash-recovery desk — agentic dunning with a deterministic human approval gate, on a live Lemma pod. Built for the Gappy.AI / Lemma hackathon.
 
 </td>
 </tr>
@@ -99,10 +81,28 @@ An autonomous pit crew for AI agents: reads neatlogs traces, finds root causes, 
 </td>
 <td width="50%" valign="top">
 
-#### 🔹 [WhispLocal](https://github.com/ROHITCRAFTSYT/WhispLocal)
-`Python` · ⭐ 1 · updated 4d ago
+#### 🔹 [kavach](https://github.com/ROHITCRAFTSYT/kavach)
+`Python` · updated yesterday
 
-Offline voice dictation for Windows. Hold a hotkey, speak, and the text appears at your cursor - transcribed entirely on your own machine.
+Kavach (कवच): multilingual scam shield & paperwork explainer for India, built on Sarvam AI (Saaras, Sarvam Vision, Sarvam-105B, Bulbul)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### 🔹 [pitstop-demo-triage](https://github.com/ROHITCRAFTSYT/pitstop-demo-triage)
+`Python` · updated yesterday
+
+Demo target for Pitstop: a support-ticket triage agent with real bugs. Pitstop's fix arrives as a pull request.
+
+</td>
+<td width="50%" valign="top">
+
+#### 🔹 [recoup](https://github.com/ROHITCRAFTSYT/recoup)
+`TypeScript` · updated yesterday
+
+AI AR-collections & cash-recovery desk — agentic dunning with a deterministic human approval gate, on a live Lemma pod. Built for the Gappy.AI / Lemma hackathon.
 
 </td>
 </tr>
@@ -235,11 +235,11 @@ Real usage, aggregated across every public repo — computed automatically, not 
 
 <!-- LANG_BREAKDOWN:START -->
 ```text
-Python            ████████░░░░░░░░░░  44.1%
-TypeScript        ████░░░░░░░░░░░░░░  19.9%
-HTML              ███░░░░░░░░░░░░░░░  16.5%
+Python            ████████░░░░░░░░░░  44.6%
+TypeScript        ████░░░░░░░░░░░░░░  19.7%
+HTML              ███░░░░░░░░░░░░░░░  16.3%
 Jupyter Notebook  █░░░░░░░░░░░░░░░░░   8.2%
-JavaScript        █░░░░░░░░░░░░░░░░░   7.4%
+JavaScript        █░░░░░░░░░░░░░░░░░   7.3%
 CSS               ░░░░░░░░░░░░░░░░░░   1.4%
 ```
 <!-- LANG_BREAKDOWN:END -->
@@ -259,7 +259,7 @@ CSS               ░░░░░░░░░░░░░░░░░░   1.4%
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:30363d&height=120&section=footer" width="100%"/>
 
 <!-- UPDATED:START -->
-<sub>🤖 Auto-updated from live GitHub data · last refreshed Mon, 12 Oct 2026 14:32:12 GMT</sub>
+<sub>🤖 Auto-updated from live GitHub data · last refreshed Tue, 13 Oct 2026 13:38:34 GMT</sub>
 <!-- UPDATED:END -->
 
 </div>

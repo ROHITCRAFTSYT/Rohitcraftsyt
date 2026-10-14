@@ -45,7 +45,7 @@ achievements:
 <div align="center">
 
 <!-- STATS:START -->
-`🗂️ 45 public repos` `⭐ 7 stars earned` `👥 15 followers`
+`🗂️ 45 public repos` `⭐ 7 stars earned` `👥 16 followers`
 <!-- STATS:END -->
 
 </div>
@@ -55,18 +55,18 @@ achievements:
 <tr>
 <td width="50%" valign="top">
 
-#### 🔹 [Hermes](https://github.com/ROHITCRAFTSYT/Hermes)
-`Python` · updated today
-
-DIY voice AI agent: an ESP32 that controls your PC, the web, and smart-home devices through a local Python brain. Bilingual (English/Tamil), memory, phone app, mDNS.
-
-</td>
-<td width="50%" valign="top">
-
 #### 🔹 [FruitFlyBrain](https://github.com/ROHITCRAFTSYT/FruitFlyBrain)
 `HTML` · ⭐ 3 · updated today
 
 Complete Drosophila brain connectome (3.5M synapses) with 8 reproducible projects: network analysis, simulation, 3D viz, and trained ML models (cell-type classification 88%, link prediction 0.97 AUC)
+
+</td>
+<td width="50%" valign="top">
+
+#### 🔹 [Hermes](https://github.com/ROHITCRAFTSYT/Hermes)
+`Python` · updated yesterday
+
+DIY voice AI agent: an ESP32 that controls your PC, the web, and smart-home devices through a local Python brain. Bilingual (English/Tamil), memory, phone app, mDNS.
 
 </td>
 </tr>
@@ -74,7 +74,7 @@ Complete Drosophila brain connectome (3.5M synapses) with 8 reproducible project
 <td width="50%" valign="top">
 
 #### 🔹 [pitstop](https://github.com/ROHITCRAFTSYT/pitstop)
-`Python` · updated today
+`Python` · updated yesterday
 
 An autonomous pit crew for AI agents: reads neatlogs traces, finds root causes, patches, and proves each fix with before/after evals. neatHack 2026.
 
@@ -82,7 +82,7 @@ An autonomous pit crew for AI agents: reads neatlogs traces, finds root causes, 
 <td width="50%" valign="top">
 
 #### 🔹 [kavach](https://github.com/ROHITCRAFTSYT/kavach)
-`Python` · updated yesterday
+`Python` · updated 2d ago
 
 Kavach (कवच): multilingual scam shield & paperwork explainer for India, built on Sarvam AI (Saaras, Sarvam Vision, Sarvam-105B, Bulbul)
 
@@ -92,7 +92,7 @@ Kavach (कवच): multilingual scam shield & paperwork explainer for India, bu
 <td width="50%" valign="top">
 
 #### 🔹 [pitstop-demo-triage](https://github.com/ROHITCRAFTSYT/pitstop-demo-triage)
-`Python` · updated yesterday
+`Python` · updated 2d ago
 
 Demo target for Pitstop: a support-ticket triage agent with real bugs. Pitstop's fix arrives as a pull request.
 
@@ -100,7 +100,7 @@ Demo target for Pitstop: a support-ticket triage agent with real bugs. Pitstop's
 <td width="50%" valign="top">
 
 #### 🔹 [recoup](https://github.com/ROHITCRAFTSYT/recoup)
-`TypeScript` · updated yesterday
+`TypeScript` · updated 2d ago
 
 AI AR-collections & cash-recovery desk — agentic dunning with a deterministic human approval gate, on a live Lemma pod. Built for the Gappy.AI / Lemma hackathon.
 
@@ -259,7 +259,7 @@ CSS               ░░░░░░░░░░░░░░░░░░   1.4%
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:30363d&height=120&section=footer" width="100%"/>
 
 <!-- UPDATED:START -->
-<sub>🤖 Auto-updated from live GitHub data · last refreshed Tue, 13 Oct 2026 13:38:34 GMT</sub>
+<sub>🤖 Auto-updated from live GitHub data · last refreshed Wed, 14 Oct 2026 11:17:15 GMT</sub>
 <!-- UPDATED:END -->
 
 </div>

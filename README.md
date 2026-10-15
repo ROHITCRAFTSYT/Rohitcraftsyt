@@ -55,54 +55,54 @@ achievements:
 <tr>
 <td width="50%" valign="top">
 
+#### 🔹 [Loco-RAG](https://github.com/ROHITCRAFTSYT/Loco-RAG)
+`Python` · updated today
+
+Privacy-first local LLM chat with RAG, agents, memory, web search & voice. Ollama/LM Studio + FastAPI + React. Hybrid retrieval, citations, ChromaDB/LanceDB. 100% local.
+
+</td>
+<td width="50%" valign="top">
+
 #### 🔹 [FruitFlyBrain](https://github.com/ROHITCRAFTSYT/FruitFlyBrain)
 `HTML` · ⭐ 3 · updated today
 
 Complete Drosophila brain connectome (3.5M synapses) with 8 reproducible projects: network analysis, simulation, 3D viz, and trained ML models (cell-type classification 88%, link prediction 0.97 AUC)
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 #### 🔹 [Hermes](https://github.com/ROHITCRAFTSYT/Hermes)
-`Python` · updated yesterday
+`Python` · updated 2d ago
 
 DIY voice AI agent: an ESP32 that controls your PC, the web, and smart-home devices through a local Python brain. Bilingual (English/Tamil), memory, phone app, mDNS.
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 #### 🔹 [pitstop](https://github.com/ROHITCRAFTSYT/pitstop)
-`Python` · updated yesterday
+`Python` · updated 2d ago
 
 An autonomous pit crew for AI agents: reads neatlogs traces, finds root causes, patches, and proves each fix with before/after evals. neatHack 2026.
 
 </td>
-<td width="50%" valign="top">
-
-#### 🔹 [kavach](https://github.com/ROHITCRAFTSYT/kavach)
-`Python` · updated 2d ago
-
-Kavach (कवच): multilingual scam shield & paperwork explainer for India, built on Sarvam AI (Saaras, Sarvam Vision, Sarvam-105B, Bulbul)
-
-</td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-#### 🔹 [pitstop-demo-triage](https://github.com/ROHITCRAFTSYT/pitstop-demo-triage)
-`Python` · updated 2d ago
+#### 🔹 [kavach](https://github.com/ROHITCRAFTSYT/kavach)
+`Python` · updated 3d ago
 
-Demo target for Pitstop: a support-ticket triage agent with real bugs. Pitstop's fix arrives as a pull request.
+Kavach (कवच): multilingual scam shield & paperwork explainer for India, built on Sarvam AI (Saaras, Sarvam Vision, Sarvam-105B, Bulbul)
 
 </td>
 <td width="50%" valign="top">
 
-#### 🔹 [recoup](https://github.com/ROHITCRAFTSYT/recoup)
-`TypeScript` · updated 2d ago
+#### 🔹 [pitstop-demo-triage](https://github.com/ROHITCRAFTSYT/pitstop-demo-triage)
+`Python` · updated 3d ago
 
-AI AR-collections & cash-recovery desk — agentic dunning with a deterministic human approval gate, on a live Lemma pod. Built for the Gappy.AI / Lemma hackathon.
+Demo target for Pitstop: a support-ticket triage agent with real bugs. Pitstop's fix arrives as a pull request.
 
 </td>
 </tr>
@@ -259,7 +259,7 @@ CSS               ░░░░░░░░░░░░░░░░░░   1.4%
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:30363d&height=120&section=footer" width="100%"/>
 
 <!-- UPDATED:START -->
-<sub>🤖 Auto-updated from live GitHub data · last refreshed Wed, 14 Oct 2026 11:17:15 GMT</sub>
+<sub>🤖 Auto-updated from live GitHub data · last refreshed Thu, 15 Oct 2026 10:55:16 GMT</sub>
 <!-- UPDATED:END -->
 
 </div>

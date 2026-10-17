@@ -45,7 +45,7 @@ achievements:
 <div align="center">
 
 <!-- STATS:START -->
-`🗂️ 45 public repos` `⭐ 7 stars earned` `👥 17 followers`
+`🗂️ 45 public repos` `⭐ 7 stars earned` `👥 16 followers`
 <!-- STATS:END -->
 
 </div>
@@ -64,7 +64,7 @@ Complete Drosophila brain connectome (3.5M synapses) with 8 reproducible project
 <td width="50%" valign="top">
 
 #### 🔹 [shield-adblocker](https://github.com/ROHITCRAFTSYT/shield-adblocker)
-`JavaScript` · updated today
+`JavaScript` · updated yesterday
 
 Shield AdBlocker — a fast, private, stealthy Manifest V3 ad & tracker blocker for Chromium. Network-level blocking (180+ networks) + cosmetic filtering, per-site allowlist, zero telemetry, no remote code.
 
@@ -82,7 +82,7 @@ Privacy-first local LLM chat with RAG, agents, memory, web search & voice. Ollam
 <td width="50%" valign="top">
 
 #### 🔹 [Hermes](https://github.com/ROHITCRAFTSYT/Hermes)
-`Python` · updated 3d ago
+`Python` · updated 4d ago
 
 DIY voice AI agent: an ESP32 that controls your PC, the web, and smart-home devices through a local Python brain. Bilingual (English/Tamil), memory, phone app, mDNS.
 
@@ -92,7 +92,7 @@ DIY voice AI agent: an ESP32 that controls your PC, the web, and smart-home devi
 <td width="50%" valign="top">
 
 #### 🔹 [pitstop](https://github.com/ROHITCRAFTSYT/pitstop)
-`Python` · updated 3d ago
+`Python` · updated 4d ago
 
 An autonomous pit crew for AI agents: reads neatlogs traces, finds root causes, patches, and proves each fix with before/after evals. neatHack 2026.
 
@@ -100,7 +100,7 @@ An autonomous pit crew for AI agents: reads neatlogs traces, finds root causes, 
 <td width="50%" valign="top">
 
 #### 🔹 [kavach](https://github.com/ROHITCRAFTSYT/kavach)
-`Python` · updated 4d ago
+`Python` · updated 5d ago
 
 Kavach (कवच): multilingual scam shield & paperwork explainer for India, built on Sarvam AI (Saaras, Sarvam Vision, Sarvam-105B, Bulbul)
 
@@ -259,7 +259,7 @@ CSS               ░░░░░░░░░░░░░░░░░░   1.4%
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:30363d&height=120&section=footer" width="100%"/>
 
 <!-- UPDATED:START -->
-<sub>🤖 Auto-updated from live GitHub data · last refreshed Fri, 16 Oct 2026 10:47:13 GMT</sub>
+<sub>🤖 Auto-updated from live GitHub data · last refreshed Sat, 17 Oct 2026 10:12:37 GMT</sub>
 <!-- UPDATED:END -->
 
 </div>

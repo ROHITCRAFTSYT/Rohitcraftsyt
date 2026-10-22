@@ -63,46 +63,46 @@ Complete Drosophila brain connectome (3.5M synapses) with 8 reproducible project
 </td>
 <td width="50%" valign="top">
 
+#### 🔹 [recoup](https://github.com/ROHITCRAFTSYT/recoup)
+`TypeScript` · updated today
+
+AI AR-collections & cash-recovery desk — agentic dunning with a deterministic human approval gate, on a live Lemma pod. Built for the Gappy.AI / Lemma hackathon.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
 #### 🔹 [Loco-RAG](https://github.com/ROHITCRAFTSYT/Loco-RAG)
-`Python` · updated yesterday
+`Python` · updated 2d ago
 
 Privacy-first local LLM chat with RAG, agents, memory, web search & voice. Ollama/LM Studio + FastAPI + React. Hybrid retrieval, citations, ChromaDB/LanceDB. 100% local.
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 #### 🔹 [shield-adblocker](https://github.com/ROHITCRAFTSYT/shield-adblocker)
-`JavaScript` · updated 5d ago
+`JavaScript` · updated 6d ago
 
 Shield AdBlocker — a fast, private, stealthy Manifest V3 ad & tracker blocker for Chromium. Network-level blocking (180+ networks) + cosmetic filtering, per-site allowlist, zero telemetry, no remote code.
 
 </td>
-<td width="50%" valign="top">
-
-#### 🔹 [Hermes](https://github.com/ROHITCRAFTSYT/Hermes)
-`Python` · updated 8d ago
-
-DIY voice AI agent: an ESP32 that controls your PC, the web, and smart-home devices through a local Python brain. Bilingual (English/Tamil), memory, phone app, mDNS.
-
-</td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-#### 🔹 [pitstop](https://github.com/ROHITCRAFTSYT/pitstop)
-`Python` · updated 8d ago
+#### 🔹 [Hermes](https://github.com/ROHITCRAFTSYT/Hermes)
+`Python` · updated 9d ago
 
-An autonomous pit crew for AI agents: reads neatlogs traces, finds root causes, patches, and proves each fix with before/after evals. neatHack 2026.
+DIY voice AI agent: an ESP32 that controls your PC, the web, and smart-home devices through a local Python brain. Bilingual (English/Tamil), memory, phone app, mDNS.
 
 </td>
 <td width="50%" valign="top">
 
-#### 🔹 [kavach](https://github.com/ROHITCRAFTSYT/kavach)
+#### 🔹 [pitstop](https://github.com/ROHITCRAFTSYT/pitstop)
 `Python` · updated 9d ago
 
-Kavach (कवच): multilingual scam shield & paperwork explainer for India, built on Sarvam AI (Saaras, Sarvam Vision, Sarvam-105B, Bulbul)
+An autonomous pit crew for AI agents: reads neatlogs traces, finds root causes, patches, and proves each fix with before/after evals. neatHack 2026.
 
 </td>
 </tr>
@@ -259,7 +259,7 @@ CSS               ░░░░░░░░░░░░░░░░░░   1.4%
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:30363d&height=120&section=footer" width="100%"/>
 
 <!-- UPDATED:START -->
-<sub>🤖 Auto-updated from live GitHub data · last refreshed Wed, 21 Oct 2026 11:14:48 GMT</sub>
+<sub>🤖 Auto-updated from live GitHub data · last refreshed Thu, 22 Oct 2026 11:13:44 GMT</sub>
 <!-- UPDATED:END -->
 
 </div>

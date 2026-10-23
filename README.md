@@ -45,7 +45,7 @@ achievements:
 <div align="center">
 
 <!-- STATS:START -->
-`🗂️ 45 public repos` `⭐ 7 stars earned` `👥 16 followers`
+`🗂️ 44 public repos` `⭐ 7 stars earned` `👥 16 followers`
 <!-- STATS:END -->
 
 </div>
@@ -63,46 +63,46 @@ Complete Drosophila brain connectome (3.5M synapses) with 8 reproducible project
 </td>
 <td width="50%" valign="top">
 
-#### 🔹 [recoup](https://github.com/ROHITCRAFTSYT/recoup)
-`TypeScript` · updated today
-
-AI AR-collections & cash-recovery desk — agentic dunning with a deterministic human approval gate, on a live Lemma pod. Built for the Gappy.AI / Lemma hackathon.
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
 #### 🔹 [Loco-RAG](https://github.com/ROHITCRAFTSYT/Loco-RAG)
-`Python` · updated 2d ago
+`Python` · updated 3d ago
 
 Privacy-first local LLM chat with RAG, agents, memory, web search & voice. Ollama/LM Studio + FastAPI + React. Hybrid retrieval, citations, ChromaDB/LanceDB. 100% local.
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 #### 🔹 [shield-adblocker](https://github.com/ROHITCRAFTSYT/shield-adblocker)
-`JavaScript` · updated 6d ago
+`JavaScript` · updated 7d ago
 
 Shield AdBlocker — a fast, private, stealthy Manifest V3 ad & tracker blocker for Chromium. Network-level blocking (180+ networks) + cosmetic filtering, per-site allowlist, zero telemetry, no remote code.
+
+</td>
+<td width="50%" valign="top">
+
+#### 🔹 [Hermes](https://github.com/ROHITCRAFTSYT/Hermes)
+`Python` · updated 10d ago
+
+DIY voice AI agent: an ESP32 that controls your PC, the web, and smart-home devices through a local Python brain. Bilingual (English/Tamil), memory, phone app, mDNS.
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-#### 🔹 [Hermes](https://github.com/ROHITCRAFTSYT/Hermes)
-`Python` · updated 9d ago
+#### 🔹 [pitstop](https://github.com/ROHITCRAFTSYT/pitstop)
+`Python` · updated 10d ago
 
-DIY voice AI agent: an ESP32 that controls your PC, the web, and smart-home devices through a local Python brain. Bilingual (English/Tamil), memory, phone app, mDNS.
+An autonomous pit crew for AI agents: reads neatlogs traces, finds root causes, patches, and proves each fix with before/after evals. neatHack 2026.
 
 </td>
 <td width="50%" valign="top">
 
-#### 🔹 [pitstop](https://github.com/ROHITCRAFTSYT/pitstop)
-`Python` · updated 9d ago
+#### 🔹 [kavach](https://github.com/ROHITCRAFTSYT/kavach)
+`Python` · updated 11d ago
 
-An autonomous pit crew for AI agents: reads neatlogs traces, finds root causes, patches, and proves each fix with before/after evals. neatHack 2026.
+Kavach (कवच): multilingual scam shield & paperwork explainer for India, built on Sarvam AI (Saaras, Sarvam Vision, Sarvam-105B, Bulbul)
 
 </td>
 </tr>
@@ -235,12 +235,12 @@ Real usage, aggregated across every public repo — computed automatically, not 
 
 <!-- LANG_BREAKDOWN:START -->
 ```text
-Python            ████████░░░░░░░░░░  44.6%
-TypeScript        ████░░░░░░░░░░░░░░  19.6%
-HTML              ███░░░░░░░░░░░░░░░  16.4%
-Jupyter Notebook  █░░░░░░░░░░░░░░░░░   8.1%
-JavaScript        █░░░░░░░░░░░░░░░░░   7.3%
-CSS               ░░░░░░░░░░░░░░░░░░   1.4%
+Python            ████████░░░░░░░░░░  46.8%
+HTML              ███░░░░░░░░░░░░░░░  17.2%
+TypeScript        ███░░░░░░░░░░░░░░░  15.8%
+Jupyter Notebook  ██░░░░░░░░░░░░░░░░   8.5%
+JavaScript        █░░░░░░░░░░░░░░░░░   7.6%
+CSS               ░░░░░░░░░░░░░░░░░░   1.5%
 ```
 <!-- LANG_BREAKDOWN:END -->
 
@@ -259,7 +259,7 @@ CSS               ░░░░░░░░░░░░░░░░░░   1.4%
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:30363d&height=120&section=footer" width="100%"/>
 
 <!-- UPDATED:START -->
-<sub>🤖 Auto-updated from live GitHub data · last refreshed Thu, 22 Oct 2026 11:13:44 GMT</sub>
+<sub>🤖 Auto-updated from live GitHub data · last refreshed Fri, 23 Oct 2026 11:04:55 GMT</sub>
 <!-- UPDATED:END -->
 
 </div>

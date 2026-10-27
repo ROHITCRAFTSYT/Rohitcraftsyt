@@ -45,7 +45,7 @@ achievements:
 <div align="center">
 
 <!-- STATS:START -->
-`🗂️ 44 public repos` `⭐ 7 stars earned` `👥 16 followers`
+`🗂️ 45 public repos` `⭐ 7 stars earned` `👥 16 followers`
 <!-- STATS:END -->
 
 </div>
@@ -55,54 +55,54 @@ achievements:
 <tr>
 <td width="50%" valign="top">
 
+#### 🔹 [readback](https://github.com/ROHITCRAFTSYT/readback)
+`Python` · updated today
+
+Catches readback errors between air traffic controllers and pilots, using Meta's Muse models. Meta Global AI Developer Hackathon 2026.
+
+</td>
+<td width="50%" valign="top">
+
 #### 🔹 [FruitFlyBrain](https://github.com/ROHITCRAFTSYT/FruitFlyBrain)
 `HTML` · ⭐ 3 · updated today
 
 Complete Drosophila brain connectome (3.5M synapses) with 8 reproducible projects: network analysis, simulation, 3D viz, and trained ML models (cell-type classification 88%, link prediction 0.97 AUC)
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 #### 🔹 [SOC-Triage-Gym](https://github.com/ROHITCRAFTSYT/SOC-Triage-Gym)
-`Python` · ⭐ 2 · updated yesterday
+`Python` · ⭐ 2 · updated 2d ago
 
 A production-grade OpenEnv-compliant reinforcement learning environment simulating a Security Operations Center (SOC) analyst workflow.
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 #### 🔹 [Loco-RAG](https://github.com/ROHITCRAFTSYT/Loco-RAG)
-`Python` · updated 6d ago
+`Python` · updated 7d ago
 
 Privacy-first local LLM chat with RAG, agents, memory, web search & voice. Ollama/LM Studio + FastAPI + React. Hybrid retrieval, citations, ChromaDB/LanceDB. 100% local.
 
 </td>
-<td width="50%" valign="top">
-
-#### 🔹 [shield-adblocker](https://github.com/ROHITCRAFTSYT/shield-adblocker)
-`JavaScript` · updated 10d ago
-
-Shield AdBlocker — a fast, private, stealthy Manifest V3 ad & tracker blocker for Chromium. Network-level blocking (180+ networks) + cosmetic filtering, per-site allowlist, zero telemetry, no remote code.
-
-</td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-#### 🔹 [Hermes](https://github.com/ROHITCRAFTSYT/Hermes)
-`Python` · updated 13d ago
+#### 🔹 [shield-adblocker](https://github.com/ROHITCRAFTSYT/shield-adblocker)
+`JavaScript` · updated 11d ago
 
-DIY voice AI agent: an ESP32 that controls your PC, the web, and smart-home devices through a local Python brain. Bilingual (English/Tamil), memory, phone app, mDNS.
+Shield AdBlocker — a fast, private, stealthy Manifest V3 ad & tracker blocker for Chromium. Network-level blocking (180+ networks) + cosmetic filtering, per-site allowlist, zero telemetry, no remote code.
 
 </td>
 <td width="50%" valign="top">
 
-#### 🔹 [pitstop](https://github.com/ROHITCRAFTSYT/pitstop)
-`Python` · updated 13d ago
+#### 🔹 [Hermes](https://github.com/ROHITCRAFTSYT/Hermes)
+`Python` · updated 14d ago
 
-An autonomous pit crew for AI agents: reads neatlogs traces, finds root causes, patches, and proves each fix with before/after evals. neatHack 2026.
+DIY voice AI agent: an ESP32 that controls your PC, the web, and smart-home devices through a local Python brain. Bilingual (English/Tamil), memory, phone app, mDNS.
 
 </td>
 </tr>
@@ -235,12 +235,12 @@ Real usage, aggregated across every public repo — computed automatically, not 
 
 <!-- LANG_BREAKDOWN:START -->
 ```text
-Python            ████████░░░░░░░░░░  46.9%
-HTML              ███░░░░░░░░░░░░░░░  17.1%
-TypeScript        ███░░░░░░░░░░░░░░░  15.8%
-Jupyter Notebook  ██░░░░░░░░░░░░░░░░   8.5%
+Python            █████████░░░░░░░░░  48.5%
+HTML              ███░░░░░░░░░░░░░░░  16.5%
+TypeScript        ███░░░░░░░░░░░░░░░  15.1%
+Jupyter Notebook  █░░░░░░░░░░░░░░░░░   8.1%
 JavaScript        █░░░░░░░░░░░░░░░░░   7.6%
-CSS               ░░░░░░░░░░░░░░░░░░   1.4%
+CSS               ░░░░░░░░░░░░░░░░░░   1.6%
 ```
 <!-- LANG_BREAKDOWN:END -->
 
@@ -259,7 +259,7 @@ CSS               ░░░░░░░░░░░░░░░░░░   1.4%
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:30363d&height=120&section=footer" width="100%"/>
 
 <!-- UPDATED:START -->
-<sub>🤖 Auto-updated from live GitHub data · last refreshed Mon, 26 Oct 2026 12:19:37 GMT</sub>
+<sub>🤖 Auto-updated from live GitHub data · last refreshed Tue, 27 Oct 2026 11:39:41 GMT</sub>
 <!-- UPDATED:END -->
 
 </div>

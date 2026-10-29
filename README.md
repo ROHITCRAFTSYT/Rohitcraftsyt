@@ -55,12 +55,22 @@ achievements:
 <tr>
 <td width="50%" valign="top">
 
+#### 🔹 [Loco-RAG](https://github.com/ROHITCRAFTSYT/Loco-RAG)
+`Python` · updated today
+
+Privacy-first local LLM chat with RAG, agents, memory, web search & voice. Ollama/LM Studio + FastAPI + React. Hybrid retrieval, citations, ChromaDB/LanceDB. 100% local.
+
+</td>
+<td width="50%" valign="top">
+
 #### 🔹 [readback](https://github.com/ROHITCRAFTSYT/readback)
 `Python` · updated today
 
 Catches readback errors between air traffic controllers and pilots, using Meta's Muse models. Meta Global AI Developer Hackathon 2026.
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 #### 🔹 [FruitFlyBrain](https://github.com/ROHITCRAFTSYT/FruitFlyBrain)
@@ -69,40 +79,30 @@ Catches readback errors between air traffic controllers and pilots, using Meta's
 Complete Drosophila brain connectome (3.5M synapses) with 8 reproducible projects: network analysis, simulation, 3D viz, and trained ML models (cell-type classification 88%, link prediction 0.97 AUC)
 
 </td>
+<td width="50%" valign="top">
+
+#### 🔹 [WhispLocal](https://github.com/ROHITCRAFTSYT/WhispLocal)
+`Python` · ⭐ 1 · updated today
+
+Offline voice dictation for Windows. Hold a hotkey, speak, and the text appears at your cursor - transcribed entirely on your own machine.
+
+</td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
 #### 🔹 [SOC-Triage-Gym](https://github.com/ROHITCRAFTSYT/SOC-Triage-Gym)
-`Python` · ⭐ 2 · updated 3d ago
+`Python` · ⭐ 2 · updated 4d ago
 
 A production-grade OpenEnv-compliant reinforcement learning environment simulating a Security Operations Center (SOC) analyst workflow.
 
 </td>
 <td width="50%" valign="top">
 
-#### 🔹 [Loco-RAG](https://github.com/ROHITCRAFTSYT/Loco-RAG)
-`Python` · updated 8d ago
-
-Privacy-first local LLM chat with RAG, agents, memory, web search & voice. Ollama/LM Studio + FastAPI + React. Hybrid retrieval, citations, ChromaDB/LanceDB. 100% local.
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
 #### 🔹 [shield-adblocker](https://github.com/ROHITCRAFTSYT/shield-adblocker)
-`JavaScript` · updated 12d ago
+`JavaScript` · updated 13d ago
 
 Shield AdBlocker — a fast, private, stealthy Manifest V3 ad & tracker blocker for Chromium. Network-level blocking (180+ networks) + cosmetic filtering, per-site allowlist, zero telemetry, no remote code.
-
-</td>
-<td width="50%" valign="top">
-
-#### 🔹 [Hermes](https://github.com/ROHITCRAFTSYT/Hermes)
-`Python` · updated 15d ago
-
-DIY voice AI agent: an ESP32 that controls your PC, the web, and smart-home devices through a local Python brain. Bilingual (English/Tamil), memory, phone app, mDNS.
 
 </td>
 </tr>
@@ -235,12 +235,12 @@ Real usage, aggregated across every public repo — computed automatically, not 
 
 <!-- LANG_BREAKDOWN:START -->
 ```text
-Python            █████████░░░░░░░░░  48.7%
-HTML              ███░░░░░░░░░░░░░░░  16.5%
-TypeScript        ███░░░░░░░░░░░░░░░  15.0%
-Jupyter Notebook  █░░░░░░░░░░░░░░░░░   8.1%
-JavaScript        █░░░░░░░░░░░░░░░░░   7.6%
-CSS               ░░░░░░░░░░░░░░░░░░   1.6%
+Python            █████████░░░░░░░░░  49.3%
+HTML              ███░░░░░░░░░░░░░░░  16.1%
+TypeScript        ███░░░░░░░░░░░░░░░  14.6%
+JavaScript        █░░░░░░░░░░░░░░░░░   7.9%
+Jupyter Notebook  █░░░░░░░░░░░░░░░░░   7.9%
+CSS               ░░░░░░░░░░░░░░░░░░   1.7%
 ```
 <!-- LANG_BREAKDOWN:END -->
 
@@ -259,7 +259,7 @@ CSS               ░░░░░░░░░░░░░░░░░░   1.6%
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:30363d&height=120&section=footer" width="100%"/>
 
 <!-- UPDATED:START -->
-<sub>🤖 Auto-updated from live GitHub data · last refreshed Wed, 28 Oct 2026 12:11:17 GMT</sub>
+<sub>🤖 Auto-updated from live GitHub data · last refreshed Thu, 29 Oct 2026 12:21:48 GMT</sub>
 <!-- UPDATED:END -->
 
 </div>

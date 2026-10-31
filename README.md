@@ -45,7 +45,7 @@ achievements:
 <div align="center">
 
 <!-- STATS:START -->
-`🗂️ 45 public repos` `⭐ 13 stars earned` `👥 16 followers`
+`🗂️ 45 public repos` `⭐ 15 stars earned` `👥 16 followers`
 <!-- STATS:END -->
 
 </div>
@@ -55,12 +55,22 @@ achievements:
 <tr>
 <td width="50%" valign="top">
 
+#### 🔹 [SOC-Triage-Gym](https://github.com/ROHITCRAFTSYT/SOC-Triage-Gym)
+`Python` · ⭐ 2 · updated today
+
+A production-grade OpenEnv-compliant reinforcement learning environment simulating a Security Operations Center (SOC) analyst workflow.
+
+</td>
+<td width="50%" valign="top">
+
 #### 🔹 [readback](https://github.com/ROHITCRAFTSYT/readback)
 `Python` · updated today
 
 Catches readback errors between air traffic controllers and pilots, using Meta's Muse models. Meta Global AI Developer Hackathon 2026.
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 #### 🔹 [FruitFlyBrain](https://github.com/ROHITCRAFTSYT/FruitFlyBrain)
@@ -69,38 +79,28 @@ Catches readback errors between air traffic controllers and pilots, using Meta's
 Complete Drosophila brain connectome (3.5M synapses) with 8 reproducible projects: network analysis, simulation, 3D viz, and trained ML models (cell-type classification 88%, link prediction 0.97 AUC)
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 #### 🔹 [Loco-RAG](https://github.com/ROHITCRAFTSYT/Loco-RAG)
-`Python` · updated yesterday
+`Python` · updated 2d ago
 
 Privacy-first local LLM chat with RAG, agents, memory, web search & voice. Ollama/LM Studio + FastAPI + React. Hybrid retrieval, citations, ChromaDB/LanceDB. 100% local.
 
 </td>
-<td width="50%" valign="top">
-
-#### 🔹 [WhispLocal](https://github.com/ROHITCRAFTSYT/WhispLocal)
-`Python` · ⭐ 1 · updated yesterday
-
-Offline voice dictation for Windows. Hold a hotkey, speak, and the text appears at your cursor - transcribed entirely on your own machine.
-
-</td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-#### 🔹 [SOC-Triage-Gym](https://github.com/ROHITCRAFTSYT/SOC-Triage-Gym)
-`Python` · ⭐ 2 · updated 5d ago
+#### 🔹 [WhispLocal](https://github.com/ROHITCRAFTSYT/WhispLocal)
+`Python` · ⭐ 1 · updated 2d ago
 
-A production-grade OpenEnv-compliant reinforcement learning environment simulating a Security Operations Center (SOC) analyst workflow.
+Offline voice dictation for Windows. Hold a hotkey, speak, and the text appears at your cursor - transcribed entirely on your own machine.
 
 </td>
 <td width="50%" valign="top">
 
 #### 🔹 [shield-adblocker](https://github.com/ROHITCRAFTSYT/shield-adblocker)
-`JavaScript` · updated 14d ago
+`JavaScript` · updated 15d ago
 
 Shield AdBlocker — a fast, private, stealthy Manifest V3 ad & tracker blocker for Chromium. Network-level blocking (180+ networks) + cosmetic filtering, per-site allowlist, zero telemetry, no remote code.
 
@@ -259,7 +259,7 @@ CSS               ░░░░░░░░░░░░░░░░░░   1.7%
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:30363d&height=120&section=footer" width="100%"/>
 
 <!-- UPDATED:START -->
-<sub>🤖 Auto-updated from live GitHub data · last refreshed Fri, 30 Oct 2026 12:12:43 GMT</sub>
+<sub>🤖 Auto-updated from live GitHub data · last refreshed Sat, 31 Oct 2026 11:44:36 GMT</sub>
 <!-- UPDATED:END -->
 
 </div>

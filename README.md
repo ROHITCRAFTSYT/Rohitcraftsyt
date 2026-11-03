@@ -55,18 +55,18 @@ achievements:
 <tr>
 <td width="50%" valign="top">
 
-#### 🔹 [FruitFlyBrain](https://github.com/ROHITCRAFTSYT/FruitFlyBrain)
-`HTML` · ⭐ 3 · updated today
-
-Complete Drosophila brain connectome (3.5M synapses) with 8 reproducible projects: network analysis, simulation, 3D viz, and trained ML models (cell-type classification 88%, link prediction 0.97 AUC)
-
-</td>
-<td width="50%" valign="top">
-
 #### 🔹 [readback](https://github.com/ROHITCRAFTSYT/readback)
 `Python` · updated today
 
 Catches readback errors between air traffic controllers and pilots, using Meta's Muse models. Meta Global AI Developer Hackathon 2026.
+
+</td>
+<td width="50%" valign="top">
+
+#### 🔹 [FruitFlyBrain](https://github.com/ROHITCRAFTSYT/FruitFlyBrain)
+`HTML` · ⭐ 3 · updated today
+
+Complete Drosophila brain connectome (3.5M synapses) with 8 reproducible projects: network analysis, simulation, 3D viz, and trained ML models (cell-type classification 88%, link prediction 0.97 AUC)
 
 </td>
 </tr>
@@ -74,7 +74,7 @@ Catches readback errors between air traffic controllers and pilots, using Meta's
 <td width="50%" valign="top">
 
 #### 🔹 [Loco-RAG](https://github.com/ROHITCRAFTSYT/Loco-RAG)
-`Python` · updated today
+`Python` · updated yesterday
 
 Privacy-first local LLM chat with RAG, agents, memory, web search & voice. Ollama/LM Studio + FastAPI + React. Hybrid retrieval, citations, ChromaDB/LanceDB. 100% local.
 
@@ -82,7 +82,7 @@ Privacy-first local LLM chat with RAG, agents, memory, web search & voice. Ollam
 <td width="50%" valign="top">
 
 #### 🔹 [SOC-Triage-Gym](https://github.com/ROHITCRAFTSYT/SOC-Triage-Gym)
-`Python` · ⭐ 2 · updated 2d ago
+`Python` · ⭐ 2 · updated 3d ago
 
 A production-grade OpenEnv-compliant reinforcement learning environment simulating a Security Operations Center (SOC) analyst workflow.
 
@@ -92,7 +92,7 @@ A production-grade OpenEnv-compliant reinforcement learning environment simulati
 <td width="50%" valign="top">
 
 #### 🔹 [WhispLocal](https://github.com/ROHITCRAFTSYT/WhispLocal)
-`Python` · ⭐ 1 · updated 4d ago
+`Python` · ⭐ 1 · updated 5d ago
 
 Offline voice dictation for Windows. Hold a hotkey, speak, and the text appears at your cursor - transcribed entirely on your own machine.
 
@@ -100,7 +100,7 @@ Offline voice dictation for Windows. Hold a hotkey, speak, and the text appears 
 <td width="50%" valign="top">
 
 #### 🔹 [shield-adblocker](https://github.com/ROHITCRAFTSYT/shield-adblocker)
-`JavaScript` · updated 17d ago
+`JavaScript` · updated 18d ago
 
 Shield AdBlocker — a fast, private, stealthy Manifest V3 ad & tracker blocker for Chromium. Network-level blocking (180+ networks) + cosmetic filtering, per-site allowlist, zero telemetry, no remote code.
 
@@ -236,11 +236,11 @@ Real usage, aggregated across every public repo — computed automatically, not 
 <!-- LANG_BREAKDOWN:START -->
 ```text
 Python            █████████░░░░░░░░░  49.3%
-HTML              ███░░░░░░░░░░░░░░░  16.1%
-TypeScript        ███░░░░░░░░░░░░░░░  14.6%
-JavaScript        █░░░░░░░░░░░░░░░░░   7.9%
-Jupyter Notebook  █░░░░░░░░░░░░░░░░░   7.9%
-CSS               ░░░░░░░░░░░░░░░░░░   1.7%
+HTML              ███░░░░░░░░░░░░░░░  16.0%
+TypeScript        ███░░░░░░░░░░░░░░░  14.5%
+JavaScript        █░░░░░░░░░░░░░░░░░   8.2%
+Jupyter Notebook  █░░░░░░░░░░░░░░░░░   7.8%
+CSS               ░░░░░░░░░░░░░░░░░░   1.8%
 ```
 <!-- LANG_BREAKDOWN:END -->
 
@@ -259,7 +259,7 @@ CSS               ░░░░░░░░░░░░░░░░░░   1.7%
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:30363d&height=120&section=footer" width="100%"/>
 
 <!-- UPDATED:START -->
-<sub>🤖 Auto-updated from live GitHub data · last refreshed Mon, 02 Nov 2026 14:51:41 GMT</sub>
+<sub>🤖 Auto-updated from live GitHub data · last refreshed Tue, 03 Nov 2026 13:41:19 GMT</sub>
 <!-- UPDATED:END -->
 
 </div>

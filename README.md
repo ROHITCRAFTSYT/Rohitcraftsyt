@@ -74,7 +74,7 @@ Complete Drosophila brain connectome (3.5M synapses) with 8 reproducible project
 <td width="50%" valign="top">
 
 #### 🔹 [shield-adblocker](https://github.com/ROHITCRAFTSYT/shield-adblocker)
-`JavaScript` · updated today
+`JavaScript` · updated yesterday
 
 Shield AdBlocker: a private Manifest V3 ad & tracker blocker for Chromium. Network-level blocking via declarativeNetRequest + cosmetic filtering, per-site allowlist, 3 permissions, zero telemetry, no remote code.
 
@@ -82,7 +82,7 @@ Shield AdBlocker: a private Manifest V3 ad & tracker blocker for Chromium. Netwo
 <td width="50%" valign="top">
 
 #### 🔹 [Loco-RAG](https://github.com/ROHITCRAFTSYT/Loco-RAG)
-`Python` · updated today
+`Python` · updated yesterday
 
 Privacy-first local LLM chat with RAG, agents, memory, web search & voice. Ollama/LM Studio + FastAPI + React. Hybrid retrieval, citations, ChromaDB/LanceDB. 100% local.
 
@@ -92,7 +92,7 @@ Privacy-first local LLM chat with RAG, agents, memory, web search & voice. Ollam
 <td width="50%" valign="top">
 
 #### 🔹 [WhispLocal](https://github.com/ROHITCRAFTSYT/WhispLocal)
-`Python` · ⭐ 1 · updated today
+`Python` · ⭐ 1 · updated yesterday
 
 Offline voice dictation for Windows. Hold a hotkey, speak, and the text appears at your cursor - transcribed entirely on your own machine.
 
@@ -100,7 +100,7 @@ Offline voice dictation for Windows. Hold a hotkey, speak, and the text appears 
 <td width="50%" valign="top">
 
 #### 🔹 [SOC-Triage-Gym](https://github.com/ROHITCRAFTSYT/SOC-Triage-Gym)
-`Python` · ⭐ 2 · updated today
+`Python` · ⭐ 2 · updated yesterday
 
 A production-grade OpenEnv-compliant reinforcement learning environment simulating a Security Operations Center (SOC) analyst workflow.
 
@@ -259,7 +259,7 @@ CSS               ░░░░░░░░░░░░░░░░░░   1.9%
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:30363d&height=120&section=footer" width="100%"/>
 
 <!-- UPDATED:START -->
-<sub>🤖 Auto-updated from live GitHub data · last refreshed Thu, 05 Nov 2026 14:03:43 GMT</sub>
+<sub>🤖 Auto-updated from live GitHub data · last refreshed Fri, 06 Nov 2026 13:47:41 GMT</sub>
 <!-- UPDATED:END -->
 
 </div>

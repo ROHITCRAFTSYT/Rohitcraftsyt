@@ -55,12 +55,40 @@ achievements:
 <tr>
 <td width="50%" valign="top">
 
+#### 🔹 [kavach](https://github.com/ROHITCRAFTSYT/kavach)
+`Python` · updated today
+
+Kavach (कवच): multilingual scam shield & paperwork explainer for India, built on Sarvam AI (Saaras, Sarvam Vision, Sarvam-105B, Bulbul)
+
+</td>
+<td width="50%" valign="top">
+
+#### 🔹 [aura](https://github.com/ROHITCRAFTSYT/aura)
+`TypeScript` · updated today
+
+Aura — AI social-skills companion for autistic & neurodiverse youth (Youth Code x AI hackathon)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### 🔹 [MoneyVerse](https://github.com/ROHITCRAFTSYT/MoneyVerse)
+`TypeScript` · updated today
+
+MoneyVerse is an engaging, game-powered web app that teaches teenagers budgeting, crypto basics, investments, and trending money news—while providing a secure personal dashboard to track real monthly expenses, store transaction data in a robust database, and generate on-demand spending graphs.
+
+</td>
+<td width="50%" valign="top">
+
 #### 🔹 [readback](https://github.com/ROHITCRAFTSYT/readback)
 `Python` · updated today
 
 Catches readback errors between air traffic controllers and pilots, using Meta's Muse models. Meta Global AI Developer Hackathon 2026.
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 #### 🔹 [FruitFlyBrain](https://github.com/ROHITCRAFTSYT/FruitFlyBrain)
@@ -69,38 +97,10 @@ Catches readback errors between air traffic controllers and pilots, using Meta's
 Complete Drosophila brain connectome (3.5M synapses) with 8 reproducible projects: network analysis, simulation, 3D viz, and trained ML models (cell-type classification 88%, link prediction 0.97 AUC)
 
 </td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-#### 🔹 [shield-adblocker](https://github.com/ROHITCRAFTSYT/shield-adblocker)
-`JavaScript` · updated yesterday
-
-Shield AdBlocker: a private Manifest V3 ad & tracker blocker for Chromium. Network-level blocking via declarativeNetRequest + cosmetic filtering, per-site allowlist, 3 permissions, zero telemetry, no remote code.
-
-</td>
-<td width="50%" valign="top">
-
-#### 🔹 [Loco-RAG](https://github.com/ROHITCRAFTSYT/Loco-RAG)
-`Python` · updated yesterday
-
-Privacy-first local LLM chat with RAG, agents, memory, web search & voice. Ollama/LM Studio + FastAPI + React. Hybrid retrieval, citations, ChromaDB/LanceDB. 100% local.
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-#### 🔹 [WhispLocal](https://github.com/ROHITCRAFTSYT/WhispLocal)
-`Python` · ⭐ 1 · updated yesterday
-
-Offline voice dictation for Windows. Hold a hotkey, speak, and the text appears at your cursor - transcribed entirely on your own machine.
-
-</td>
 <td width="50%" valign="top">
 
 #### 🔹 [SOC-Triage-Gym](https://github.com/ROHITCRAFTSYT/SOC-Triage-Gym)
-`Python` · ⭐ 2 · updated yesterday
+`Python` · ⭐ 2 · updated today
 
 A production-grade OpenEnv-compliant reinforcement learning environment simulating a Security Operations Center (SOC) analyst workflow.
 
@@ -259,7 +259,7 @@ CSS               ░░░░░░░░░░░░░░░░░░   1.9%
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:30363d&height=120&section=footer" width="100%"/>
 
 <!-- UPDATED:START -->
-<sub>🤖 Auto-updated from live GitHub data · last refreshed Fri, 06 Nov 2026 13:47:41 GMT</sub>
+<sub>🤖 Auto-updated from live GitHub data · last refreshed Sat, 07 Nov 2026 12:31:26 GMT</sub>
 <!-- UPDATED:END -->
 
 </div>

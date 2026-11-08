@@ -45,7 +45,7 @@ achievements:
 <div align="center">
 
 <!-- STATS:START -->
-`🗂️ 45 public repos` `⭐ 18 stars earned` `👥 17 followers`
+`🗂️ 45 public repos` `⭐ 18 stars earned` `👥 18 followers`
 <!-- STATS:END -->
 
 </div>
@@ -55,8 +55,26 @@ achievements:
 <tr>
 <td width="50%" valign="top">
 
-#### 🔹 [kavach](https://github.com/ROHITCRAFTSYT/kavach)
+#### 🔹 [readback](https://github.com/ROHITCRAFTSYT/readback)
 `Python` · updated today
+
+Catches readback errors between air traffic controllers and pilots, using Meta's Muse models. Meta Global AI Developer Hackathon 2026.
+
+</td>
+<td width="50%" valign="top">
+
+#### 🔹 [FruitFlyBrain](https://github.com/ROHITCRAFTSYT/FruitFlyBrain)
+`HTML` · ⭐ 3 · updated today
+
+Complete Drosophila brain connectome (3.5M synapses) with 8 reproducible projects: network analysis, simulation, 3D viz, and trained ML models (cell-type classification 88%, link prediction 0.97 AUC)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### 🔹 [kavach](https://github.com/ROHITCRAFTSYT/kavach)
+`Python` · updated yesterday
 
 Kavach (कवच): multilingual scam shield & paperwork explainer for India, built on Sarvam AI (Saaras, Sarvam Vision, Sarvam-105B, Bulbul)
 
@@ -64,7 +82,7 @@ Kavach (कवच): multilingual scam shield & paperwork explainer for India, bu
 <td width="50%" valign="top">
 
 #### 🔹 [aura](https://github.com/ROHITCRAFTSYT/aura)
-`TypeScript` · updated today
+`TypeScript` · updated yesterday
 
 Aura — AI social-skills companion for autistic & neurodiverse youth (Youth Code x AI hackathon)
 
@@ -74,33 +92,15 @@ Aura — AI social-skills companion for autistic & neurodiverse youth (Youth Cod
 <td width="50%" valign="top">
 
 #### 🔹 [MoneyVerse](https://github.com/ROHITCRAFTSYT/MoneyVerse)
-`TypeScript` · updated today
+`TypeScript` · updated yesterday
 
 MoneyVerse is an engaging, game-powered web app that teaches teenagers budgeting, crypto basics, investments, and trending money news—while providing a secure personal dashboard to track real monthly expenses, store transaction data in a robust database, and generate on-demand spending graphs.
 
 </td>
 <td width="50%" valign="top">
 
-#### 🔹 [readback](https://github.com/ROHITCRAFTSYT/readback)
-`Python` · updated today
-
-Catches readback errors between air traffic controllers and pilots, using Meta's Muse models. Meta Global AI Developer Hackathon 2026.
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-#### 🔹 [FruitFlyBrain](https://github.com/ROHITCRAFTSYT/FruitFlyBrain)
-`HTML` · ⭐ 3 · updated today
-
-Complete Drosophila brain connectome (3.5M synapses) with 8 reproducible projects: network analysis, simulation, 3D viz, and trained ML models (cell-type classification 88%, link prediction 0.97 AUC)
-
-</td>
-<td width="50%" valign="top">
-
 #### 🔹 [SOC-Triage-Gym](https://github.com/ROHITCRAFTSYT/SOC-Triage-Gym)
-`Python` · ⭐ 2 · updated today
+`Python` · ⭐ 2 · updated yesterday
 
 A production-grade OpenEnv-compliant reinforcement learning environment simulating a Security Operations Center (SOC) analyst workflow.
 
@@ -235,7 +235,7 @@ Real usage, aggregated across every public repo — computed automatically, not 
 
 <!-- LANG_BREAKDOWN:START -->
 ```text
-Python            █████████░░░░░░░░░  50.3%
+Python            █████████░░░░░░░░░  50.5%
 HTML              ███░░░░░░░░░░░░░░░  15.0%
 TypeScript        ██░░░░░░░░░░░░░░░░  13.5%
 JavaScript        ██░░░░░░░░░░░░░░░░   9.6%
@@ -259,7 +259,7 @@ CSS               ░░░░░░░░░░░░░░░░░░   1.9%
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:30363d&height=120&section=footer" width="100%"/>
 
 <!-- UPDATED:START -->
-<sub>🤖 Auto-updated from live GitHub data · last refreshed Sat, 07 Nov 2026 12:31:26 GMT</sub>
+<sub>🤖 Auto-updated from live GitHub data · last refreshed Sun, 08 Nov 2026 12:49:38 GMT</sub>
 <!-- UPDATED:END -->
 
 </div>

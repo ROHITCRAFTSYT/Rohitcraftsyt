@@ -45,7 +45,7 @@ achievements:
 <div align="center">
 
 <!-- STATS:START -->
-`🗂️ 45 public repos` `⭐ 18 stars earned` `👥 18 followers`
+`🗂️ 45 public repos` `⭐ 19 stars earned` `👥 18 followers`
 <!-- STATS:END -->
 
 </div>
@@ -55,18 +55,18 @@ achievements:
 <tr>
 <td width="50%" valign="top">
 
-#### 🔹 [readback](https://github.com/ROHITCRAFTSYT/readback)
-`Python` · updated today
-
-Catches readback errors between air traffic controllers and pilots, using Meta's Muse models. Meta Global AI Developer Hackathon 2026.
-
-</td>
-<td width="50%" valign="top">
-
 #### 🔹 [FruitFlyBrain](https://github.com/ROHITCRAFTSYT/FruitFlyBrain)
 `HTML` · ⭐ 3 · updated today
 
 Complete Drosophila brain connectome (3.5M synapses) with 8 reproducible projects: network analysis, simulation, 3D viz, and trained ML models (cell-type classification 88%, link prediction 0.97 AUC)
+
+</td>
+<td width="50%" valign="top">
+
+#### 🔹 [readback](https://github.com/ROHITCRAFTSYT/readback)
+`Python` · updated today
+
+Catches readback errors between air traffic controllers and pilots, using Meta's Muse models. Meta Global AI Developer Hackathon 2026.
 
 </td>
 </tr>
@@ -74,7 +74,7 @@ Complete Drosophila brain connectome (3.5M synapses) with 8 reproducible project
 <td width="50%" valign="top">
 
 #### 🔹 [kavach](https://github.com/ROHITCRAFTSYT/kavach)
-`Python` · updated yesterday
+`Python` · updated 2d ago
 
 Kavach (कवच): multilingual scam shield & paperwork explainer for India, built on Sarvam AI (Saaras, Sarvam Vision, Sarvam-105B, Bulbul)
 
@@ -82,7 +82,7 @@ Kavach (कवच): multilingual scam shield & paperwork explainer for India, bu
 <td width="50%" valign="top">
 
 #### 🔹 [aura](https://github.com/ROHITCRAFTSYT/aura)
-`TypeScript` · updated yesterday
+`TypeScript` · updated 2d ago
 
 Aura — AI social-skills companion for autistic & neurodiverse youth (Youth Code x AI hackathon)
 
@@ -92,7 +92,7 @@ Aura — AI social-skills companion for autistic & neurodiverse youth (Youth Cod
 <td width="50%" valign="top">
 
 #### 🔹 [MoneyVerse](https://github.com/ROHITCRAFTSYT/MoneyVerse)
-`TypeScript` · updated yesterday
+`TypeScript` · updated 2d ago
 
 MoneyVerse is an engaging, game-powered web app that teaches teenagers budgeting, crypto basics, investments, and trending money news—while providing a secure personal dashboard to track real monthly expenses, store transaction data in a robust database, and generate on-demand spending graphs.
 
@@ -100,7 +100,7 @@ MoneyVerse is an engaging, game-powered web app that teaches teenagers budgeting
 <td width="50%" valign="top">
 
 #### 🔹 [SOC-Triage-Gym](https://github.com/ROHITCRAFTSYT/SOC-Triage-Gym)
-`Python` · ⭐ 2 · updated yesterday
+`Python` · ⭐ 2 · updated 2d ago
 
 A production-grade OpenEnv-compliant reinforcement learning environment simulating a Security Operations Center (SOC) analyst workflow.
 
@@ -259,7 +259,7 @@ CSS               ░░░░░░░░░░░░░░░░░░   1.9%
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:30363d&height=120&section=footer" width="100%"/>
 
 <!-- UPDATED:START -->
-<sub>🤖 Auto-updated from live GitHub data · last refreshed Sun, 08 Nov 2026 12:49:38 GMT</sub>
+<sub>🤖 Auto-updated from live GitHub data · last refreshed Mon, 09 Nov 2026 15:18:43 GMT</sub>
 <!-- UPDATED:END -->
 
 </div>

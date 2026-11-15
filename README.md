@@ -45,7 +45,7 @@ achievements:
 <div align="center">
 
 <!-- STATS:START -->
-`🗂️ 45 public repos` `⭐ 20 stars earned` `👥 18 followers`
+`🗂️ 46 public repos` `⭐ 20 stars earned` `👥 18 followers`
 <!-- STATS:END -->
 
 </div>
@@ -73,36 +73,36 @@ Complete Drosophila brain connectome (3.5M synapses) with 8 reproducible project
 <tr>
 <td width="50%" valign="top">
 
-#### 🔹 [WhispLocal](https://github.com/ROHITCRAFTSYT/WhispLocal)
-`Python` · ⭐ 1 · updated 2d ago
+#### 🔹 [sixhour](https://github.com/ROHITCRAFTSYT/sixhour)
+`Python` · updated today
 
-Offline voice dictation for Windows. Hold a hotkey, speak, and the text appears at your cursor - transcribed entirely on your own machine.
+Breach-clock copilot: from raw logs to a CERT-In report and DPDP breach notices inside the legal deadline. Gemini + Google Cloud.
 
 </td>
 <td width="50%" valign="top">
 
-#### 🔹 [kavach](https://github.com/ROHITCRAFTSYT/kavach)
-`Python` · updated 2d ago
+#### 🔹 [WhispLocal](https://github.com/ROHITCRAFTSYT/WhispLocal)
+`Python` · ⭐ 1 · updated 3d ago
 
-Kavach (कवच): multilingual scam shield & paperwork explainer for India, built on Sarvam AI (Saaras, Sarvam Vision, Sarvam-105B, Bulbul)
+Offline voice dictation for Windows. Hold a hotkey, speak, and the text appears at your cursor - transcribed entirely on your own machine.
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-#### 🔹 [aura](https://github.com/ROHITCRAFTSYT/aura)
-`TypeScript` · updated 7d ago
+#### 🔹 [kavach](https://github.com/ROHITCRAFTSYT/kavach)
+`Python` · updated 3d ago
 
-Aura — AI social-skills companion for autistic & neurodiverse youth (Youth Code x AI hackathon)
+Kavach (कवच): multilingual scam shield & paperwork explainer for India, built on Sarvam AI (Saaras, Sarvam Vision, Sarvam-105B, Bulbul)
 
 </td>
 <td width="50%" valign="top">
 
-#### 🔹 [MoneyVerse](https://github.com/ROHITCRAFTSYT/MoneyVerse)
-`TypeScript` · updated 7d ago
+#### 🔹 [aura](https://github.com/ROHITCRAFTSYT/aura)
+`TypeScript` · updated 8d ago
 
-MoneyVerse is an engaging, game-powered web app that teaches teenagers budgeting, crypto basics, investments, and trending money news—while providing a secure personal dashboard to track real monthly expenses, store transaction data in a robust database, and generate on-demand spending graphs.
+Aura — AI social-skills companion for autistic & neurodiverse youth (Youth Code x AI hackathon)
 
 </td>
 </tr>
@@ -235,12 +235,12 @@ Real usage, aggregated across every public repo — computed automatically, not 
 
 <!-- LANG_BREAKDOWN:START -->
 ```text
-Python            █████████░░░░░░░░░  50.5%
-HTML              ███░░░░░░░░░░░░░░░  15.0%
-TypeScript        ██░░░░░░░░░░░░░░░░  13.5%
+Python            █████████░░░░░░░░░  50.0%
+HTML              ███░░░░░░░░░░░░░░░  15.4%
+TypeScript        ██░░░░░░░░░░░░░░░░  13.1%
 JavaScript        ██░░░░░░░░░░░░░░░░   9.6%
-Jupyter Notebook  █░░░░░░░░░░░░░░░░░   7.3%
-CSS               ░░░░░░░░░░░░░░░░░░   1.9%
+Jupyter Notebook  █░░░░░░░░░░░░░░░░░   7.1%
+CSS               ░░░░░░░░░░░░░░░░░░   2.4%
 ```
 <!-- LANG_BREAKDOWN:END -->
 
@@ -259,7 +259,7 @@ CSS               ░░░░░░░░░░░░░░░░░░   1.9%
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:30363d&height=120&section=footer" width="100%"/>
 
 <!-- UPDATED:START -->
-<sub>🤖 Auto-updated from live GitHub data · last refreshed Sat, 14 Nov 2026 13:00:21 GMT</sub>
+<sub>🤖 Auto-updated from live GitHub data · last refreshed Sun, 15 Nov 2026 13:29:03 GMT</sub>
 <!-- UPDATED:END -->
 
 </div>

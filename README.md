@@ -55,36 +55,18 @@ achievements:
 <tr>
 <td width="50%" valign="top">
 
-#### 🔹 [FruitFlyBrain](https://github.com/ROHITCRAFTSYT/FruitFlyBrain)
-`HTML` · ⭐ 3 · updated today
-
-Complete Drosophila brain connectome (3.5M synapses) with 8 reproducible projects: network analysis, simulation, 3D viz, and trained ML models (cell-type classification 88%, link prediction 0.97 AUC)
-
-</td>
-<td width="50%" valign="top">
-
 #### 🔹 [readback](https://github.com/ROHITCRAFTSYT/readback)
 `Python` · updated today
 
 Catches readback errors between air traffic controllers and pilots, using Meta's Muse models. Meta Global AI Developer Hackathon 2026.
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
-#### 🔹 [WhispLocal](https://github.com/ROHITCRAFTSYT/WhispLocal)
-`Python` · ⭐ 1 · updated yesterday
+#### 🔹 [FruitFlyBrain](https://github.com/ROHITCRAFTSYT/FruitFlyBrain)
+`HTML` · ⭐ 3 · updated today
 
-Offline voice dictation for Windows. Hold a hotkey, speak, and the text appears at your cursor - transcribed entirely on your own machine.
-
-</td>
-<td width="50%" valign="top">
-
-#### 🔹 [LSTM-forecast](https://github.com/ROHITCRAFTSYT/LSTM-forecast)
-`Python` · updated 2d ago
-
-Production-grade LSTM time-series forecasting for finance with retrieval-augmented forecasting (RAG) and Claude-powered insights.
+Complete Drosophila brain connectome (3.5M synapses) with 8 reproducible projects: network analysis, simulation, 3D viz, and trained ML models (cell-type classification 88%, link prediction 0.97 AUC)
 
 </td>
 </tr>
@@ -92,15 +74,33 @@ Production-grade LSTM time-series forecasting for finance with retrieval-augment
 <td width="50%" valign="top">
 
 #### 🔹 [SOC-Triage-Gym](https://github.com/ROHITCRAFTSYT/SOC-Triage-Gym)
-`Python` · ⭐ 2 · updated 2d ago
+`Python` · ⭐ 2 · updated today
 
 A production-grade OpenEnv-compliant reinforcement learning environment simulating a Security Operations Center (SOC) analyst workflow.
 
 </td>
 <td width="50%" valign="top">
 
+#### 🔹 [WhispLocal](https://github.com/ROHITCRAFTSYT/WhispLocal)
+`Python` · ⭐ 1 · updated 2d ago
+
+Offline voice dictation for Windows. Hold a hotkey, speak, and the text appears at your cursor - transcribed entirely on your own machine.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### 🔹 [LSTM-forecast](https://github.com/ROHITCRAFTSYT/LSTM-forecast)
+`Python` · updated 3d ago
+
+Production-grade LSTM time-series forecasting for finance with retrieval-augmented forecasting (RAG) and Claude-powered insights.
+
+</td>
+<td width="50%" valign="top">
+
 #### 🔹 [sixhour](https://github.com/ROHITCRAFTSYT/sixhour)
-`Python` · updated 4d ago
+`Python` · updated 5d ago
 
 Breach-clock copilot: from raw logs to a CERT-In report and DPDP breach notices inside the legal deadline. Gemini + Google Cloud.
 
@@ -259,7 +259,7 @@ CSS               ░░░░░░░░░░░░░░░░░░   2.4%
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:30363d&height=120&section=footer" width="100%"/>
 
 <!-- UPDATED:START -->
-<sub>🤖 Auto-updated from live GitHub data · last refreshed Fri, 20 Nov 2026 14:56:50 GMT</sub>
+<sub>🤖 Auto-updated from live GitHub data · last refreshed Sat, 21 Nov 2026 14:16:27 GMT</sub>
 <!-- UPDATED:END -->
 
 </div>

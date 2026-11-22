@@ -45,7 +45,7 @@ achievements:
 <div align="center">
 
 <!-- STATS:START -->
-`🗂️ 46 public repos` `⭐ 20 stars earned` `👥 17 followers`
+`🗂️ 46 public repos` `⭐ 21 stars earned` `👥 17 followers`
 <!-- STATS:END -->
 
 </div>
@@ -73,36 +73,36 @@ Complete Drosophila brain connectome (3.5M synapses) with 8 reproducible project
 <tr>
 <td width="50%" valign="top">
 
-#### 🔹 [SOC-Triage-Gym](https://github.com/ROHITCRAFTSYT/SOC-Triage-Gym)
-`Python` · ⭐ 2 · updated today
+#### 🔹 [sixhour](https://github.com/ROHITCRAFTSYT/sixhour)
+`Python` · updated today
 
-A production-grade OpenEnv-compliant reinforcement learning environment simulating a Security Operations Center (SOC) analyst workflow.
+Breach-clock copilot: from raw logs to a CERT-In report and DPDP breach notices inside the legal deadline. Gemini + Google Cloud.
 
 </td>
 <td width="50%" valign="top">
 
-#### 🔹 [WhispLocal](https://github.com/ROHITCRAFTSYT/WhispLocal)
-`Python` · ⭐ 1 · updated 2d ago
+#### 🔹 [SOC-Triage-Gym](https://github.com/ROHITCRAFTSYT/SOC-Triage-Gym)
+`Python` · ⭐ 2 · updated yesterday
 
-Offline voice dictation for Windows. Hold a hotkey, speak, and the text appears at your cursor - transcribed entirely on your own machine.
+A production-grade OpenEnv-compliant reinforcement learning environment simulating a Security Operations Center (SOC) analyst workflow.
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-#### 🔹 [LSTM-forecast](https://github.com/ROHITCRAFTSYT/LSTM-forecast)
-`Python` · updated 3d ago
+#### 🔹 [WhispLocal](https://github.com/ROHITCRAFTSYT/WhispLocal)
+`Python` · ⭐ 2 · updated 3d ago
 
-Production-grade LSTM time-series forecasting for finance with retrieval-augmented forecasting (RAG) and Claude-powered insights.
+Offline voice dictation for Windows. Hold a hotkey, speak, and the text appears at your cursor - transcribed entirely on your own machine.
 
 </td>
 <td width="50%" valign="top">
 
-#### 🔹 [sixhour](https://github.com/ROHITCRAFTSYT/sixhour)
-`Python` · updated 5d ago
+#### 🔹 [LSTM-forecast](https://github.com/ROHITCRAFTSYT/LSTM-forecast)
+`Python` · updated 4d ago
 
-Breach-clock copilot: from raw logs to a CERT-In report and DPDP breach notices inside the legal deadline. Gemini + Google Cloud.
+Production-grade LSTM time-series forecasting for finance with retrieval-augmented forecasting (RAG) and Claude-powered insights.
 
 </td>
 </tr>
@@ -259,7 +259,7 @@ CSS               ░░░░░░░░░░░░░░░░░░   2.4%
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:30363d&height=120&section=footer" width="100%"/>
 
 <!-- UPDATED:START -->
-<sub>🤖 Auto-updated from live GitHub data · last refreshed Sat, 21 Nov 2026 14:16:27 GMT</sub>
+<sub>🤖 Auto-updated from live GitHub data · last refreshed Sun, 22 Nov 2026 14:07:11 GMT</sub>
 <!-- UPDATED:END -->
 
 </div>

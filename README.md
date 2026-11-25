@@ -45,7 +45,7 @@ achievements:
 <div align="center">
 
 <!-- STATS:START -->
-`🗂️ 46 public repos` `⭐ 31 stars earned` `👥 16 followers`
+`🗂️ 47 public repos` `⭐ 31 stars earned` `👥 16 followers`
 <!-- STATS:END -->
 
 </div>
@@ -55,54 +55,54 @@ achievements:
 <tr>
 <td width="50%" valign="top">
 
-#### 🔹 [readback](https://github.com/ROHITCRAFTSYT/readback)
-`Python` · updated today
-
-Catches readback errors between air traffic controllers and pilots, using Meta's Muse models. Meta Global AI Developer Hackathon 2026.
-
-</td>
-<td width="50%" valign="top">
-
 #### 🔹 [FruitFlyBrain](https://github.com/ROHITCRAFTSYT/FruitFlyBrain)
 `HTML` · ⭐ 5 · updated today
 
 Complete Drosophila brain connectome (3.5M synapses) with 8 reproducible projects: network analysis, simulation, 3D viz, and trained ML models (cell-type classification 88%, link prediction 0.97 AUC)
 
 </td>
+<td width="50%" valign="top">
+
+#### 🔹 [readback](https://github.com/ROHITCRAFTSYT/readback)
+`Python` · updated today
+
+Catches readback errors between air traffic controllers and pilots, using Meta's Muse models. Meta Global AI Developer Hackathon 2026.
+
+</td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
+#### 🔹 [composio-takehome](https://github.com/ROHITCRAFTSYT/composio-takehome)
+`HTML` · updated today
+
+Agent pipeline that researches 100 apps for AI-agent toolkit buildability, with verification loops and a case-study page.
+
+</td>
+<td width="50%" valign="top">
+
 #### 🔹 [Hermes](https://github.com/ROHITCRAFTSYT/Hermes)
-`Python` · ⭐ 16 · updated today
+`Python` · ⭐ 16 · updated yesterday
 
 DIY voice AI agent: an ESP32 that controls your PC, the web, and smart-home devices through a local Python brain. Bilingual (English/Tamil), memory, phone app, mDNS.
 
 </td>
-<td width="50%" valign="top">
-
-#### 🔹 [SOC-Triage-Gym](https://github.com/ROHITCRAFTSYT/SOC-Triage-Gym)
-`Python` · ⭐ 4 · updated yesterday
-
-A production-grade OpenEnv-compliant reinforcement learning environment simulating a Security Operations Center (SOC) analyst workflow.
-
-</td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-#### 🔹 [sixhour](https://github.com/ROHITCRAFTSYT/sixhour)
-`Python` · updated 2d ago
+#### 🔹 [SOC-Triage-Gym](https://github.com/ROHITCRAFTSYT/SOC-Triage-Gym)
+`Python` · ⭐ 4 · updated 2d ago
 
-Breach-clock copilot: from raw logs to a CERT-In report and DPDP breach notices inside the legal deadline. Gemini + Google Cloud.
+A production-grade OpenEnv-compliant reinforcement learning environment simulating a Security Operations Center (SOC) analyst workflow.
 
 </td>
 <td width="50%" valign="top">
 
-#### 🔹 [WhispLocal](https://github.com/ROHITCRAFTSYT/WhispLocal)
-`Python` · ⭐ 3 · updated 5d ago
+#### 🔹 [sixhour](https://github.com/ROHITCRAFTSYT/sixhour)
+`Python` · updated 3d ago
 
-Offline voice dictation for Windows. Hold a hotkey, speak, and the text appears at your cursor - transcribed entirely on your own machine.
+Breach-clock copilot: from raw logs to a CERT-In report and DPDP breach notices inside the legal deadline. Gemini + Google Cloud.
 
 </td>
 </tr>
@@ -235,12 +235,12 @@ Real usage, aggregated across every public repo — computed automatically, not 
 
 <!-- LANG_BREAKDOWN:START -->
 ```text
-Python            █████████░░░░░░░░░  50.2%
-HTML              ███░░░░░░░░░░░░░░░  15.4%
-TypeScript        ██░░░░░░░░░░░░░░░░  13.1%
-JavaScript        ██░░░░░░░░░░░░░░░░   9.6%
-Jupyter Notebook  █░░░░░░░░░░░░░░░░░   7.0%
-CSS               ░░░░░░░░░░░░░░░░░░   2.4%
+Python            █████████░░░░░░░░░  47.6%
+HTML              ████░░░░░░░░░░░░░░  20.2%
+TypeScript        ██░░░░░░░░░░░░░░░░  12.2%
+JavaScript        ██░░░░░░░░░░░░░░░░   9.0%
+Jupyter Notebook  █░░░░░░░░░░░░░░░░░   6.6%
+CSS               ░░░░░░░░░░░░░░░░░░   2.2%
 ```
 <!-- LANG_BREAKDOWN:END -->
 
@@ -259,7 +259,7 @@ CSS               ░░░░░░░░░░░░░░░░░░   2.4%
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:30363d&height=120&section=footer" width="100%"/>
 
 <!-- UPDATED:START -->
-<sub>🤖 Auto-updated from live GitHub data · last refreshed Tue, 24 Nov 2026 17:00:35 GMT</sub>
+<sub>🤖 Auto-updated from live GitHub data · last refreshed Wed, 25 Nov 2026 16:50:57 GMT</sub>
 <!-- UPDATED:END -->
 
 </div>

@@ -45,7 +45,7 @@ achievements:
 <div align="center">
 
 <!-- STATS:START -->
-`🗂️ 47 public repos` `⭐ 31 stars earned` `👥 16 followers`
+`🗂️ 47 public repos` `⭐ 32 stars earned` `👥 16 followers`
 <!-- STATS:END -->
 
 </div>
@@ -74,7 +74,7 @@ Catches readback errors between air traffic controllers and pilots, using Meta's
 <td width="50%" valign="top">
 
 #### 🔹 [composio-takehome](https://github.com/ROHITCRAFTSYT/composio-takehome)
-`HTML` · updated today
+`HTML` · updated yesterday
 
 Agent pipeline that researches 100 apps for AI-agent toolkit buildability, with verification loops and a case-study page.
 
@@ -82,7 +82,7 @@ Agent pipeline that researches 100 apps for AI-agent toolkit buildability, with 
 <td width="50%" valign="top">
 
 #### 🔹 [Hermes](https://github.com/ROHITCRAFTSYT/Hermes)
-`Python` · ⭐ 16 · updated yesterday
+`Python` · ⭐ 16 · updated 2d ago
 
 DIY voice AI agent: an ESP32 that controls your PC, the web, and smart-home devices through a local Python brain. Bilingual (English/Tamil), memory, phone app, mDNS.
 
@@ -92,7 +92,7 @@ DIY voice AI agent: an ESP32 that controls your PC, the web, and smart-home devi
 <td width="50%" valign="top">
 
 #### 🔹 [SOC-Triage-Gym](https://github.com/ROHITCRAFTSYT/SOC-Triage-Gym)
-`Python` · ⭐ 4 · updated 2d ago
+`Python` · ⭐ 4 · updated 3d ago
 
 A production-grade OpenEnv-compliant reinforcement learning environment simulating a Security Operations Center (SOC) analyst workflow.
 
@@ -100,7 +100,7 @@ A production-grade OpenEnv-compliant reinforcement learning environment simulati
 <td width="50%" valign="top">
 
 #### 🔹 [sixhour](https://github.com/ROHITCRAFTSYT/sixhour)
-`Python` · updated 3d ago
+`Python` · updated 4d ago
 
 Breach-clock copilot: from raw logs to a CERT-In report and DPDP breach notices inside the legal deadline. Gemini + Google Cloud.
 
@@ -259,7 +259,7 @@ CSS               ░░░░░░░░░░░░░░░░░░   2.2%
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:30363d&height=120&section=footer" width="100%"/>
 
 <!-- UPDATED:START -->
-<sub>🤖 Auto-updated from live GitHub data · last refreshed Wed, 25 Nov 2026 16:50:57 GMT</sub>
+<sub>🤖 Auto-updated from live GitHub data · last refreshed Thu, 26 Nov 2026 16:28:00 GMT</sub>
 <!-- UPDATED:END -->
 
 </div>

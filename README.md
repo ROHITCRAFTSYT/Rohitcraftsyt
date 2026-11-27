@@ -45,13 +45,31 @@ achievements:
 <div align="center">
 
 <!-- STATS:START -->
-`🗂️ 47 public repos` `⭐ 32 stars earned` `👥 16 followers`
+`🗂️ 48 public repos` `⭐ 32 stars earned` `👥 16 followers`
 <!-- STATS:END -->
 
 </div>
 
 <!-- LATEST_PROJECTS:START -->
 <table>
+<tr>
+<td width="50%" valign="top">
+
+#### 🔹 [readback](https://github.com/ROHITCRAFTSYT/readback)
+`Python` · updated today
+
+Catches readback errors between air traffic controllers and pilots, using Meta's Muse models. Meta Global AI Developer Hackathon 2026.
+
+</td>
+<td width="50%" valign="top">
+
+#### 🔹 [patra](https://github.com/ROHITCRAFTSYT/patra)
+`Python` · updated today
+
+Show me the paper, I'll read it out: voice-first help with official papers in Tamil, Hindi and English (India Runs on Voice 2026)
+
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 
@@ -63,46 +81,28 @@ Complete Drosophila brain connectome (3.5M synapses) with 8 reproducible project
 </td>
 <td width="50%" valign="top">
 
-#### 🔹 [readback](https://github.com/ROHITCRAFTSYT/readback)
-`Python` · updated today
-
-Catches readback errors between air traffic controllers and pilots, using Meta's Muse models. Meta Global AI Developer Hackathon 2026.
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
 #### 🔹 [composio-takehome](https://github.com/ROHITCRAFTSYT/composio-takehome)
-`HTML` · updated yesterday
+`HTML` · updated 2d ago
 
 Agent pipeline that researches 100 apps for AI-agent toolkit buildability, with verification loops and a case-study page.
 
 </td>
-<td width="50%" valign="top">
-
-#### 🔹 [Hermes](https://github.com/ROHITCRAFTSYT/Hermes)
-`Python` · ⭐ 16 · updated 2d ago
-
-DIY voice AI agent: an ESP32 that controls your PC, the web, and smart-home devices through a local Python brain. Bilingual (English/Tamil), memory, phone app, mDNS.
-
-</td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-#### 🔹 [SOC-Triage-Gym](https://github.com/ROHITCRAFTSYT/SOC-Triage-Gym)
-`Python` · ⭐ 4 · updated 3d ago
+#### 🔹 [Hermes](https://github.com/ROHITCRAFTSYT/Hermes)
+`Python` · ⭐ 16 · updated 3d ago
 
-A production-grade OpenEnv-compliant reinforcement learning environment simulating a Security Operations Center (SOC) analyst workflow.
+DIY voice AI agent: an ESP32 that controls your PC, the web, and smart-home devices through a local Python brain. Bilingual (English/Tamil), memory, phone app, mDNS.
 
 </td>
 <td width="50%" valign="top">
 
-#### 🔹 [sixhour](https://github.com/ROHITCRAFTSYT/sixhour)
-`Python` · updated 4d ago
+#### 🔹 [SOC-Triage-Gym](https://github.com/ROHITCRAFTSYT/SOC-Triage-Gym)
+`Python` · ⭐ 4 · updated 4d ago
 
-Breach-clock copilot: from raw logs to a CERT-In report and DPDP breach notices inside the legal deadline. Gemini + Google Cloud.
+A production-grade OpenEnv-compliant reinforcement learning environment simulating a Security Operations Center (SOC) analyst workflow.
 
 </td>
 </tr>
@@ -235,12 +235,12 @@ Real usage, aggregated across every public repo — computed automatically, not 
 
 <!-- LANG_BREAKDOWN:START -->
 ```text
-Python            █████████░░░░░░░░░  47.6%
-HTML              ████░░░░░░░░░░░░░░  20.2%
-TypeScript        ██░░░░░░░░░░░░░░░░  12.2%
-JavaScript        ██░░░░░░░░░░░░░░░░   9.0%
-Jupyter Notebook  █░░░░░░░░░░░░░░░░░   6.6%
-CSS               ░░░░░░░░░░░░░░░░░░   2.2%
+Python            █████████░░░░░░░░░  47.9%
+HTML              ████░░░░░░░░░░░░░░  19.9%
+TypeScript        ██░░░░░░░░░░░░░░░░  12.0%
+JavaScript        ██░░░░░░░░░░░░░░░░   9.2%
+Jupyter Notebook  █░░░░░░░░░░░░░░░░░   6.5%
+CSS               ░░░░░░░░░░░░░░░░░░   2.4%
 ```
 <!-- LANG_BREAKDOWN:END -->
 
@@ -259,7 +259,7 @@ CSS               ░░░░░░░░░░░░░░░░░░   2.2%
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:30363d&height=120&section=footer" width="100%"/>
 
 <!-- UPDATED:START -->
-<sub>🤖 Auto-updated from live GitHub data · last refreshed Thu, 26 Nov 2026 16:28:00 GMT</sub>
+<sub>🤖 Auto-updated from live GitHub data · last refreshed Fri, 27 Nov 2026 16:13:21 GMT</sub>
 <!-- UPDATED:END -->
 
 </div>

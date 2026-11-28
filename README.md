@@ -63,6 +63,24 @@ Catches readback errors between air traffic controllers and pilots, using Meta's
 </td>
 <td width="50%" valign="top">
 
+#### 🔹 [FruitFlyBrain](https://github.com/ROHITCRAFTSYT/FruitFlyBrain)
+`HTML` · ⭐ 5 · updated today
+
+Complete Drosophila brain connectome (3.5M synapses) with 8 reproducible projects: network analysis, simulation, 3D viz, and trained ML models (cell-type classification 88%, link prediction 0.97 AUC)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### 🔹 [SOC-Triage-Gym](https://github.com/ROHITCRAFTSYT/SOC-Triage-Gym)
+`Python` · ⭐ 4 · updated today
+
+A production-grade OpenEnv-compliant reinforcement learning environment simulating a Security Operations Center (SOC) analyst workflow.
+
+</td>
+<td width="50%" valign="top">
+
 #### 🔹 [patra](https://github.com/ROHITCRAFTSYT/patra)
 `Python` · updated today
 
@@ -73,36 +91,18 @@ Show me the paper, I'll read it out: voice-first help with official papers in Ta
 <tr>
 <td width="50%" valign="top">
 
-#### 🔹 [FruitFlyBrain](https://github.com/ROHITCRAFTSYT/FruitFlyBrain)
-`HTML` · ⭐ 5 · updated today
-
-Complete Drosophila brain connectome (3.5M synapses) with 8 reproducible projects: network analysis, simulation, 3D viz, and trained ML models (cell-type classification 88%, link prediction 0.97 AUC)
-
-</td>
-<td width="50%" valign="top">
-
 #### 🔹 [composio-takehome](https://github.com/ROHITCRAFTSYT/composio-takehome)
-`HTML` · updated 2d ago
+`HTML` · updated 3d ago
 
 Agent pipeline that researches 100 apps for AI-agent toolkit buildability, with verification loops and a case-study page.
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 #### 🔹 [Hermes](https://github.com/ROHITCRAFTSYT/Hermes)
-`Python` · ⭐ 16 · updated 3d ago
+`Python` · ⭐ 16 · updated 4d ago
 
 DIY voice AI agent: an ESP32 that controls your PC, the web, and smart-home devices through a local Python brain. Bilingual (English/Tamil), memory, phone app, mDNS.
-
-</td>
-<td width="50%" valign="top">
-
-#### 🔹 [SOC-Triage-Gym](https://github.com/ROHITCRAFTSYT/SOC-Triage-Gym)
-`Python` · ⭐ 4 · updated 4d ago
-
-A production-grade OpenEnv-compliant reinforcement learning environment simulating a Security Operations Center (SOC) analyst workflow.
 
 </td>
 </tr>
@@ -259,7 +259,7 @@ CSS               ░░░░░░░░░░░░░░░░░░   2.4%
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:30363d&height=120&section=footer" width="100%"/>
 
 <!-- UPDATED:START -->
-<sub>🤖 Auto-updated from live GitHub data · last refreshed Fri, 27 Nov 2026 16:13:21 GMT</sub>
+<sub>🤖 Auto-updated from live GitHub data · last refreshed Sat, 28 Nov 2026 15:06:34 GMT</sub>
 <!-- UPDATED:END -->
 
 </div>
